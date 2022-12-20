@@ -8,7 +8,8 @@ notification: ""
 sections:
   - hero:
       background: /images/CHIJSNGBanner.gif
-  - resources:
-      title: News & Announcements
-      button: View All
+  - infobar:
+      title: "News & Announcements "
+      button: View ALL
+      url: /Announcements/
 ---
