@@ -13,13 +13,7 @@ description: ""
 
 <img style="width: 50%;" src="/images/Littlelights%20July%202021_00001.jpeg" />
 
-<a href="https://online.fliphtml5.com/nlnnu/fqdq/"><p style="text-align:center">Little Lights</p></a>
-
-
-
-
-
-
+<a href="insert pdf url"><p style="text-align:center">Little Lights</p></a>
 
 
 
