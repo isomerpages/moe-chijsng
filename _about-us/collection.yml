@@ -2,5 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - CHIJ Board Of Management.md
       - Principal's Message.md
+      - CHIJ Board Of Management.md
