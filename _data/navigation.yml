@@ -1,6 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    collection: about-us
+  - title: Secondary
+    url: https://staging.d2kyho38yqhcge.amplifyapp.com/
+    sublinks: []
+  - title: "Primary "
+    url: https://staging.d6ffahuouz5lv.amplifyapp.com/
+    sublinks: []
