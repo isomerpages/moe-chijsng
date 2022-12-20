@@ -1,0 +1,4 @@
+collections:
+  st-nicks-heartbeat:
+    output: true
+    order: []
