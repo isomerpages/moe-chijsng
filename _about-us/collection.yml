@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Rules and Regulation/No Entry Policy.md
       - School Rules and Regulation/School Rules and Regulation.md
       - School Rules and Regulation/.keep
       - Principal's Message.md
