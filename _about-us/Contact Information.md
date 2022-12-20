@@ -18,3 +18,14 @@ Add:  501 Ang Mo Kio Street 13 Singapore 569405 <br>
 Tel:         +65 63541839 <br>
 Fax:        +65 64511335 <br>
 Email:    [chijsng\_sec@moe.edu.sg](mailto:chijsng_sec@moe.edu.sg)
+
+### General Office Opening Hours:
+
+Mon to Fri:    7.30 am to 5.30 pm   <br>
+(School is closed on Saturdays, Sundays, and Public Holidays.)
+
+### Getting To CHIJ St. Nicholas Girls' School
+
+By Bus:     Service 265 from opposite Yio Chu Kang Stadium or Ang Mo Kio Interchange  <br><br>
+By MRT:    Mayflower Station (Thomson-East Coast Line), then walk along Ang Mo Kio St 13 to Gate 1 <br><br>
+By Car:     Ang Mo Kio St 13 (Gate 1), Ang Mo Kio Ave 4 (HDB Carpark 26 > Gate 3), Ang Mo Kio Ave 2 (Gate 2)
