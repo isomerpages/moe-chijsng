@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Information.md
       - Principal's Message.md
       - CHIJ Board Of Management.md
       - Vision, Mission, Motto, Values.md
@@ -14,3 +13,4 @@ collections:
       - School Rules and Regulation/School Rules and Regulation.md
       - School Rules and Regulation/No Entry Policy.md
       - School Song & Students' Pledge.md
+      - Contact Information.md
