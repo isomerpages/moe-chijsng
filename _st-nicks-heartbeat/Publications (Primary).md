@@ -7,7 +7,8 @@ description: ""
 
 <img style="width: 50%;" src="/images/our%20Little%20Lights.png" />
 
-<a href="https://online.fliphtml5.com/nlnnu/fqdq/"><p style="text-align:center">Little Lights</p></a>
+<a href="https://online.fliphtml5.com/nlnnu/fqdq/">
+<p style="text-align:center">Little Lights</p></a>
 
 ### 2021
 
@@ -28,4 +29,3 @@ description: ""
 <br>
 
 <a href="insert pdf url link"><img style="width: 50%;" src="/images/may2017littlelights.png" /></a>
-
