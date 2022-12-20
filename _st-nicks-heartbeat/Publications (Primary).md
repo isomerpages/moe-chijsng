@@ -21,5 +21,16 @@ description: ""
 
 <a href="insert pdf url link"><p style="text-align:center">Little Lights</p></a>
 
+### 2017
+
+<img style="width: 50%;" src="/images/oct2017littlelights.png" />
+
+<br>
+
+<img style="width: 50%;" src="/images/may2017littlelights.png" />
+
+
+
+
 
 
