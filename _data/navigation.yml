@@ -12,4 +12,8 @@ links:
     collection: st-nicks-heartbeat
   - title: Useful Links
     url: /useful-links/E-Learning-Platforms/
-    sublinks: []
+    sublinks:
+      - title: PARENT SUPPORT GROUP
+        url: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpages%2FParentsStNicks%2F240413029319535%3Fref%3Dts
+      - title: ALUMNAE ASSOCIATION
+        url: http://sngsalumnae.org.sg/home.php
