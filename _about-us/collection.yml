@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - History and Heritage/History and Heritage.md
-      - History and Heritage/.keep
       - Principal's Message.md
       - CHIJ Board Of Management.md
       - Vision, Mission, Motto, Values.md
+      - History and Heritage/.keep
+      - History and Heritage/History and Heritage.md
