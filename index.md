@@ -11,5 +11,5 @@ sections:
   - infobar:
       title: "News & Announcements "
       button: View ALL
-      url: /Announcements/
+      url: /announcements/
 ---
