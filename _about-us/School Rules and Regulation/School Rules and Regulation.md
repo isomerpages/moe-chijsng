@@ -63,3 +63,30 @@ At all times, pupils are to:
 *   Personal electronic devices must not be charged in school, or else they will be confiscated.
 *   Confiscated electronic devices may only be claimed from the Operations Manager the following Monday, during the morning or afternoon break.
 *   Pupils are responsible and accountable for the safekeeping of their personal belongings.
+
+#### If there is any breach of school conduct and non observance of school rules, the pupil will be dealt with accordingly.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-frbo{color:#494949;text-align:left;vertical-align:top}
+.tg .tg-fghm{color:#8C774C;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Serious Offences</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Consequences</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-fghm"><span style="background-color:transparent"> Attendance</span><br>Leaving school grounds without permission<br>Truancy from any school activity / event<br>Poor attendance in CCA<br><span style="background-color:transparent">Wilful absenteeism </span><br><span style="background-color:transparent">(reflects poor attitude or defiance)</span><br><br><span style="background-color:transparent"> Misconduct</span><br><span style="background-color:transparent">*Cheating or copying in assessments / </span><br><span style="background-color:transparent">tests / exams</span><br>*Plagiarism<br>Forgery<br><span style="background-color:transparent">Amending test mark / </span><br><span style="background-color:transparent">answer after return of paper</span><br>Open defiance and / or rudeness<br>Bullying / Cyber-bullying<br>Cyber-baiting<br>Disruptive behaviour<br>Abuse of technology<br>Defamatory blog / facebook, etc<br><span style="background-color:transparent">Persistent late-coming and repeated minor </span><br><span style="background-color:transparent">offence (reflects poor attitude or defiance)</span><br><br><span style="background-color:transparent"> Theft / Damage of Property</span><br>Theft<br>Vandalism<br>Arson<br><br><span style="background-color:transparent"> Others</span><br><span style="background-color:transparent"> Assault; Fighting; Gambling; Smoking; </span><br><span style="background-color:transparent"> Substance abuse; Possession of weapons; </span><br><span style="background-color:transparent"> Gangsterism; Pornography</span></td>
+    <td class="tg-frbo"><span style="background-color:transparent">Discipline Record - Conduct grade will be Fair / Poor</span><br>Corrective work order<br><span style="background-color:transparent">*Awarded a zero mark and conduct grade will be Fair / Poor</span><br><span style="background-color:transparent">Conferencing with parent / guardian</span><br><span style="background-color:transparent">Counselling</span><br><br><span style="background-color:transparent"> NB : Besides the consequences listed  students committing serious offences will be dealt with  accordingly.</span></td>
+  </tr>
+</tbody>
+</table>
