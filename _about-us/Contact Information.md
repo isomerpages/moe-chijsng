@@ -10,3 +10,11 @@ Add:       501 Ang Mo Kio Street 13 Singapore 569405 <br>
 Tel:         +65 64549698 <br>
 Fax:        +65 64566169 <br>
 Email:    [chijsng\_pri@moe.edu.sg](mailto:chijsng_pri@moe.edu.sg)
+
+
+### Secondary Section
+
+Add:  501 Ang Mo Kio Street 13 Singapore 569405 <br>
+Tel:         +65 63541839 <br>
+Fax:        +65 64511335 <br>
+Email:    [chijsng\_sec@moe.edu.sg](mailto:chijsng_sec@moe.edu.sg)
