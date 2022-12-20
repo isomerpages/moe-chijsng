@@ -13,8 +13,6 @@ description: ""
 <a href="https://online.fliphtml5.com/nlnnu/fqdq/">Little Lights</a>
 </div>
 
-<a href="https://online.fliphtml5.com/nlnnu/fqdq/"><p style="text-align:center">Little Lights</p></a>
-
 ### 2021
 
 <img style="width: 50%;" src="/images/Littlelights%20July%202021_00001.jpeg" />
