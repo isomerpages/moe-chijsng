@@ -23,14 +23,9 @@ description: ""
 
 ### 2017
 
-<img style="width: 50%;" src="/images/oct2017littlelights.png" />
+<a href="insert pdf url link"><img style="width: 50%;" src="/images/oct2017littlelights.png" /></a>
 
 <br>
 
-<img style="width: 50%;" src="/images/may2017littlelights.png" />
-
-
-
-
-
+<a href="insert pdf url link"><img style="width: 50%;" src="/images/may2017littlelights.png" /></a>
 
