@@ -1,4 +1,5 @@
 collections:
   st-nicks-heartbeat:
     output: true
-    order: []
+    order:
+      - Publications (Secondary).md
