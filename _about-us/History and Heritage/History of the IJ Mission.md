@@ -6,8 +6,11 @@ third_nav_title: History and Heritage
 ---
 #### OUR FOUNDER – BLESSED NICHOLAS BARRÉ (1621 – 1686)
 
-**<u>Early Life</u>** <br>
+
 <img src="/images/Father%20Nicholas.jpeg" style= "width: 30%; margin-right:15px;" align = "left"> 
+
+**<u>Early Life</u>** <br>
+
 Nicolas Barré was born in Amiens, France on 21 October 1621, the first-born and only son to Louis and Antoinette Barré. He grew up in a wealthy merchant family and was educated at a Jesuit college in his hometown. As a young child, he had a deep sense of God. When one of his sisters fell ill, his strong faith in God and prayers led to her recovery.
 
 <br clear = left>
@@ -26,3 +29,16 @@ Father Nicolas Barré continued similar work in Paris with great success. Believ
 Father Nicolas Barré suffered ill health in his later years and died at the age of 65 on 31 May 1686 in France. On 7 March 1999, Father Nicolas Barré was beatified by Pope John Paul II. Blessed Nicolas Barré’s heart for the education of the poor, especially girls, continue to be an inspiration to many generations of CHIJ girls across cultures, background, race and religions.  Through receiving an education in CHIJ schools, all IJ girls are called to act justly with courage and compassion in their lives with a priority to helping the disadvantaged in society.
 
 In commemoration of this great man and what he has done, CHIJ Schools in Singapore celebrate Founder’s Day on 31 May each year.
+
+**<u>MOTHER MATHILDE (1814 – 1911)</u>**
+
+**<u>Early Life</u>** <br>
+
+<img src="/images/Moher%20Mathilde.jpeg" style= "width: 30%; margin-right:15px;" align = "left"> 
+
+**<u>Early Life: “ Be Holy as I am Holy.”</u>**
+
+Mother Mathilde was born Marie Justine Raclot in France in 1814, the first born and only daughter of a family of farmers who were deeply religious. In her childhood, Justine learned much from her father who was kind to the poor especially those stranded without shelter in the severe cold of winter. She was shy and loved the beauty of the garden and the surrounding countryside. One of her childhood joys was to dress up her dolls as little nuns and she would visualise them going away on missionary journeys. At an early age, Justine was already a prayerful child. At age 6, she went to a Primary school and at the age of 12, her father recognising her need for a secondary education, sent her to a boarding school run by the IJ Sisters, who were then known as Dames of St Maur, in France.
+
+
+
