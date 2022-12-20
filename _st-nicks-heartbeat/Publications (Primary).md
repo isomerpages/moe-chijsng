@@ -17,13 +17,19 @@ description: ""
 
 <img style="width: 50%;" src="/images/Littlelights%20July%202021_00001.jpeg" />
 
-<a href="insert pdf url link"><p style="text-align:center">Little Lights</p></a>
+<br>
+
+<div style="text-align:center">    
+<a href="insert pdf link here">Little Lights</a>
+</div>
 
 ### 2018
 
 <img style="width: 50%;" src="/images/Little%20Lights.png" />
 
-<a href="insert pdf url link"><p style="text-align:center">Little Lights</p></a>
+<div style="text-align:center">    
+<a href="insert pdf link here">Little Lights</a>
+</div>
 
 ### 2017
 
