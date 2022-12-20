@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: CHIJ St Nicholas Girl's School
+description: An Isomer site of the Singapore Government
+image: /images/logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
@@ -25,3 +25,4 @@ sections:
       button: Button text
       url: /faq/
 ---
+
