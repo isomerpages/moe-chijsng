@@ -3,38 +3,17 @@ title: Announcement
 permalink: /announcements/
 description: ""
 ---
+### Sec 1 Orientation Day (27 Dec 22)
 
-### Outstanding Youth in Education Award 2022
+Dear 2023 Sec 1 students,
 
-Nominate online at [**go.gov.sg/oyea2022**](https://go.gov.sg/oyea2022)
+Congratulations on your posting to CHIJ St Nicholas Girls' School.
 
-Closing Date: 12 January 2022
-
-More details on the awards can be found [here](https://academyofsingaporeteachers.moe.edu.sg/professional-recognition).
-
-### President's Award for Teachers 2022
-
-Nominate your teachers for these awards now! Nominate online at [**go.gov.sg/pat2022**](https://go.gov.sg/pat2022)
-
-Closing Date: 25 January 2022
-
-More details on the awards can be found [here](https://academyofsingaporeteachers.moe.edu.sg/professional-recognition).
-
-### Caring Teacher Awards 2022
-
-Nominate your teachers for the Caring Teacher Awards 2022  now！
-
-Visit **[www.cta.nie.edu.sg](http://www.cta.nie.edu.sg/)** for more details and submit your nominations online!                  Closing Date: 31 January 2022
-
-### SN Home Based Learning Info Site
-
-Click the link below to access the school's Home Based Learning Info Site
-
-[http://bit.ly/HBL-SN](http://bit.ly/HBL-SN)
+Please refer to [this pdf](http://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u522/Pop-ups/2023%20Sec%201%20Posting%20Result.pdf "Info for 2023 Sec 1 ") for details regarding Sec 1 Orientation Day.
 
 ### School Traffic Safety - Visitor Parking
 
-Click [here](/files/School%20Traffic%20Safety-Visitor%20parking.pdf) to view and download the announcement
+Click [here](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u522/News%20&%20Announcements/School%20Traffic%20Safety-Visitor%20parking.pdf) to view and download the announcement
 
 ### Like us on Facebook
 
@@ -45,3 +24,4 @@ Visit our Facebook page and like us there. 
 ### Updated Operating Hours for School Bookshop (canteen)
 
 Operating Hours : Mon to Fri 8am-3pm (except exam season and school holidays) Ms Fanny (Primary)/ Ms May (Secondary) Tel: 64569943/ Tel: 64599860
+
