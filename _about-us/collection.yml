@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Identity & Ethos/.keep
       - Principal's Message.md
       - CHIJ Board Of Management.md
       - Vision, Mission, Motto, Values.md
+      - Identity & Ethos/.keep
       - History and Heritage/.keep
       - History and Heritage/History and Heritage.md
       - History and Heritage/School Crest.md
