@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Identity & Ethos/.keep
       - Principal's Message.md
       - CHIJ Board Of Management.md
       - Vision, Mission, Motto, Values.md
