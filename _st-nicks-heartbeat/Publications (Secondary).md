@@ -58,9 +58,3 @@ description: ""
 <div style="text-align:center">    
 <a href="insertpdflink">2019 Issue 2 </a>
 </div>
-
-
-
-
-
-
