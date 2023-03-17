@@ -8,8 +8,21 @@ notification: ""
 sections:
   - hero:
       background: /images/Main_Banner.gif
-  - infobar:
-      title: "News & Announcements "
-      button: View ALL
+      key_highlights:
+        - title: SNGS Primary
+          description: ""
+          url: https://chijstnicholasgirls.moe.edu.sg/primary
+        - title: SNGS Secondary
+          description: ""
+          url: https://chijstnicholasgirls.moe.edu.sg/secondary
+  - infopic:
+      description: Primary News & Announcements
+      button: View All
+      url: /announcements
+      alt: Image alt text
+  - infopic:
+      description: Secondary News & Announcements
+      button: View All
       url: /announcements/
+      alt: Image alt text
 ---
