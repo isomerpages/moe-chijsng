@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/CHIJSNGBanner.gif
+      background: /images/Main_Banner.gif
   - infobar:
       title: "News & Announcements "
       button: View ALL
