@@ -29,4 +29,4 @@ The cross which surmounts the crest serves as a reminder that the source of our
 The shield is encircled by a garland of marguerites. These simple flowers are found by the wayside in France and are symbolic of the purity and simplicity which should characterise our relationships at every level.
 
 
-This page was last updated on Mon 20 Mar 2023
+*This page was last updated on Mon 20 Mar 2023*
