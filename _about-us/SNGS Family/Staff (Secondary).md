@@ -11,4 +11,3 @@ third_nav_title: SNGS Family
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
-
