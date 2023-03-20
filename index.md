@@ -18,7 +18,7 @@ sections:
   - infopic:
       description: Primary News & Announcements
       button: View All
-      url: /primary/news-announcements/
+      url: /pri-news-announcements
       alt: Image alt text
   - infopic:
       description: Secondary News & Announcements
