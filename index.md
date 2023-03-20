@@ -15,14 +15,4 @@ sections:
         - title: SNGS Secondary
           description: ""
           url: https://staging.d2kyho38yqhcge.amplifyapp.com/
-  - infopic:
-      description: Primary News & Announcements
-      button: View All
-      url: /pri-news-announcements/
-      alt: Image alt text
-  - infopic:
-      description: Secondary News & Announcements
-      button: View All
-      url: /sec-news-announcements/
-      alt: Image alt text
 ---
