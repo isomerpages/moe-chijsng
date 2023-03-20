@@ -19,3 +19,20 @@ third_nav_title: SNGS Family
 | Miss Tan Wei Qing Regina    |      | tan_wei_qing_regina@schools.gov.sg     |
 | Mrs Daphne Lim     |      | teo_i-bee_daphne@schools.gov.sg     |
 | Miss Tey Poh Choo     |      | teh_poh_choo@schools.gov.sg     |
+
+
+**CHINESE DEPARTMENT**
+
+| Name | Designation | Email Address |
+| -------- | -------- | -------- |
+| Ms Low Yen Yen Jenny 刘燕燕老师     | HOD / Chinese Language     | low_yen_yen_jenny@schools.gov.sg     |
+| Ms Lau Hui Ning 刘慧凝老师     | SH / SAP     | lau_hui_ning@schools.gov.sg     |
+| Mr Tan Yong Meng 陈永铭老师     | SH / Chinese Language    | tan_yong_meng@schools.gov.sg    |
+| Miss Mok Kai Jun 莫凯君老师     | Assistant Year Head (Sec 2)     | mok_kai_jun@schools.gov.sg     |
+| Ms Du Jia 杜佳老师     | Senior Teacher (CL)     | du_jia@schools.gov.sg     |
+| Mr Chang Zheng 常征老师     | co-AYH (Sec 1)     | chang_zheng@schools.gov.sg     |
+| Mdm Chen Jiehui 陈洁慧老师    |      | chen_jiehui@schools.gov.sg     |
+| Ms Chua Shi Yan 蔡诗燕老师     | co-AYH (Sec 1)     | chua_shi_yan@schools.gov.sg     |
+| Ms Ding Lay Yen 陈丽艳老师    | co-AYH (Sec 2)     | ding_lay_yen@schools.gov.sg     |
+| Ms Foo Chiew Yuen Vivian 胡秋云老师     |      | foo_chiew_yuen@schools.gov.sg     |
+| Mdm Goh Siew Ngoh 吴绣娥老师     |      | goh_siew_ngoh@schools.gov.sg     |
