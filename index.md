@@ -23,6 +23,6 @@ sections:
   - infopic:
       description: Secondary News & Announcements
       button: View All
-      url: /sec-news-announcements
+      url: /sec-news-announcements/
       alt: Image alt text
 ---
