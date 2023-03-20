@@ -4,8 +4,6 @@ permalink: /about-us/sngs-family/school-leaders/
 description: ""
 third_nav_title: SNGS Family
 ---
-
-
 | Name | Designation | Email Address |
 | -------- | -------- | -------- |
 | Mrs Fiona Tan     | Principal     | Fiona_YEO@schools.gov.sg     |
@@ -14,5 +12,5 @@ third_nav_title: SNGS Family
 | Mr Ting Poh Leong Aloysius    | Vice Principal (Secondary Section)     | TING_Poh_Leong_Aloysius@schools.gov.sg     |
 | Mr Tham Wai Kong     | Vice Principal (Admin)     | THAM_Wai_Kong@schools.gov.sg     |
 
-This page was last updated on Mon 20 Mar 2023
 
+This page was last updated on Mon 20 Mar 2023
