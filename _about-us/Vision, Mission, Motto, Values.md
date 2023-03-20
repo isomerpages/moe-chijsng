@@ -5,8 +5,9 @@ description: ""
 ---
 #### Our Vision  学校愿景
 
-Girls of Grace ● Women of Strength ● Leaders with Heart
-娴雅少女 ● 坚毅巾帼 ● 仁爱领袖
+**Girls of Grace ● Women of Strength ● Leaders with Heart**
+
+**娴雅少女 ● 坚毅巾帼 ● 仁爱领袖**
 
 
 #### Our Mission  办校宗旨
@@ -19,14 +20,14 @@ The mission of CHIJ St Nicholas Girls' School is the creation of a Christ-centr
 
 #### Our Motto  校训 
 
-Simple in Virtue, Steadfast in Duty 
-德纯, 义坚
+**Simple in Virtue, Steadfast in Duty 
+德纯, 义坚**
 
 
 #### Our Values  价值观
 
-Truth, Justice, Freedom, Love
-真诚、正直、自由、博爱
+**Truth, Justice, Freedom, Love
+真诚、正直、自由、博爱**
 
 
 ![](/images/vision_mission_values.png)
