@@ -37,7 +37,7 @@ third_nav_title: SNGS Family
 | Ms Foo Chiew Yuen Vivian 胡秋云老师     |      | foo_chiew_yuen@schools.gov.sg     |
 | Mdm Goh Siew Ngoh 吴绣娥老师     |      | goh_siew_ngoh@schools.gov.sg     |
 | Ms Jiang Nan 江南老师     |      | jiang_nan@schools.gov.sg     |
-| Miss Jocelyn Ling Jie Ying 林洁莹老师    |      | Jocelyn_ling_jie_ying@schools.gov.sg     |
+| Miss Jocelyn Ling Jie Ying 林洁莹老师    |      | jocelyn_ling_jie_ying@schools.gov.sg     |
 | Ms Niu Sheng Kai 牛盛凯老师     |      | niu_sheng_kai@schools.gov.sg     |
 | Ms Phang Lee Shia 彭栎霞老师     |      | phang_lee_shia@schools.gov.sg     |
 | Mdm Xie Fuzhen 谢馥榛老师     |      | xie_fuzhen@schools.gov.sg     |
