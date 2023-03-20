@@ -4,9 +4,7 @@ permalink: /about-us/sngs-family/staff-secondary/
 description: ""
 third_nav_title: SNGS Family
 ---
-**AESTHETICS DEPARTMENT
-**
-
+**AESTHETICS DEPARTMENT**
 
 | Name | Designation | Email Address |
 | -------- | -------- | -------- |
@@ -21,5 +19,3 @@ third_nav_title: SNGS Family
 | Miss Tan Wei Qing Regina    |      | tan_wei_qing_regina@schools.gov.sg     |
 | Mrs Daphne Lim     |      | teo_i-bee_daphne@schools.gov.sg     |
 | Miss Tey Poh Choo     |      | teh_poh_choo@schools.gov.sg     |
-
-
