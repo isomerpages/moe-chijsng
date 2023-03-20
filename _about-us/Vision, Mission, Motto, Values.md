@@ -29,8 +29,7 @@ Truth, Justice, Freedom, Love
 真诚、正直、自由、博爱
 
 
-#### Desired Outcomes of a St Nicks Girl 
-#### 圣尼各拉学生应具备的优良品质
+#### Desired Outcomes of a St Nicks Girl 圣尼各拉学生应具备的优良品质
 
 | Girls of Grace 娴雅少女 | Women of Strength 坚毅巾帼 | Leaders with Heart 仁爱领袖 |
 | -------- | -------- | -------- |
