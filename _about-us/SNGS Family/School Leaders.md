@@ -4,6 +4,8 @@ permalink: /about-us/sngs-family/school-leaders/
 description: ""
 third_nav_title: SNGS Family
 ---
+![About Us](/images/Banner%20Photos/subpage%2001%20about%20us.jpg)
+
 | Name | Designation | Email Address |
 | -------- | -------- | -------- |
 | Mrs Fiona Tan     | Principal     | Fiona_YEO@schools.gov.sg     |
