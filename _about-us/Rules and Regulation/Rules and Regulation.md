@@ -70,7 +70,7 @@ At all times, pupils are to:
 * Leaving school grounds without permission
 * Truancy from any school activity / event
 * Poor attendance in CCA
-* Wilful absenteeism (reflects poor attitude or defiance)
+* Wilful absenteeism
 
 **Serious Offences (Misconduct)**
 * *Cheating or copying in assessments / tests / exams
@@ -78,12 +78,14 @@ At all times, pupils are to:
 * Forgery
 * Amending test mark / answer after return of paper
 * Open defiance and / or rudeness
-* Bullying / Cyber-bullying
+* Bullying (Intimidating / Taunting / Threatening to cause harm)
+* Cyber-bullying
 * Cyber-baiting
 * Disruptive behaviour
 * Abuse of technology
-* Defamatory blog / facebook, etc
-* Persistent late-coming and repeated minor offence (reflects poor attitude or defiance)
+* Post / Share defamatory, hurtful, inappropriate comments / pictures
+* Persistent late-coming and repeated minor offence (refer to Minor Offence Document in class)
+* Jaywalking
 
 **Serious Offences (Theft/Damage of Property)**
 * Theft
@@ -98,8 +100,10 @@ Assault; Fighting; Gambling; Smoking; Substance abuse; Possession of weapons; 
 **Consequences**
 * Discipline Record - Conduct grade will be Fair / Poor
 * Corrective work order
+* Suspension
 * *Awarded a zero mark and conduct grade will be Fair / Poor
 * Conferencing with parent / guardian
 * Counselling
+* Detention
 
 NB: Besides the consequences listed above, students committing serious offences will be dealt with accordingly.
