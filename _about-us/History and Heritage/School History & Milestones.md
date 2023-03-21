@@ -51,6 +51,3 @@ Principals:
 | 1995 | Granted autonomous status by MOE in recognition of its value-added performances. |
 | 2013 | Started Joint Integrated Programme with Catholic High School, Singapore Chinese Girls’ School and Eunoia Junior College. |
 | 2018 | The school celebrated its 85th anniversary. |
-
-
-*This page was last updated on 21 Mar 2023.*
