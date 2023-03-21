@@ -15,4 +15,7 @@ sections:
         - title: SNGS Secondary
           description: ""
           url: https://staging.d2kyho38yqhcge.amplifyapp.com/
+  - resources:
+      subtitle: News & ANNOUNCEMENTS
+      button: view all
 ---
