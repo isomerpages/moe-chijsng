@@ -3,6 +3,8 @@ title: Publications (Secondary)
 permalink: /st-nicks-heartbeat/Publications-Secondary/
 description: ""
 ---
+![St Nicks Heartbeat](/images/Banner%20Photos/subpage%2002%20St%20Nicks%20Heartbeat.jpg)
+
 ### 2022
 
 <img src="/images/Connexions%202022%20Issue%201%20Cover.jpg" style= "width: 50%;" >
