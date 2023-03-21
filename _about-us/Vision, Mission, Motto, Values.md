@@ -3,6 +3,8 @@ title: Vision, Mission, Motto, Values
 permalink: /about-us/vision-mission-motto-values/
 description: ""
 ---
+![About Us](/images/Banner%20Photos/subpage%2001%20about%20us.jpg)
+
 #### Our Vision  学校愿景
 
 **Girls of Grace ● Women of Strength ● Leaders with Heart 娴雅少女 ● 坚毅巾帼 ● 仁爱领袖**
