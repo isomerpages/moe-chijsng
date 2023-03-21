@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+Test post 2 ![](/images/Main_Banner.gif)
