@@ -4,6 +4,8 @@ permalink: /about-us/sngs-family/staff-secondary/
 description: ""
 third_nav_title: SNGS Family
 ---
+![About Us](/images/Banner%20Photos/subpage%2001%20about%20us.jpg)
+
 **AESTHETICS DEPARTMENT**
 
 | Name | Designation | Email Address |
