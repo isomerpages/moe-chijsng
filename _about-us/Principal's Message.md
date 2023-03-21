@@ -3,6 +3,8 @@ title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
 ---
+![About Us](/images/Banner%20Photos/subpage%2001%20about%20us.jpg)
+
 Since the school’s establishment in 1933, CHIJ St Nicholas Girls’ School has been nurturing generations of accomplished young ladies who are anchored on sound values and driven by passion and purpose. 
 
 As a catholic-mission SAP school, we offer a unique educational experience, one that is future-oriented, yet rich in culture and heritage. As a full school offering both a well-established GCE ‘O’ Level Programme as well as an innovative Integrated Programme, we offer a range of enriching and authentic learning experiences catered to the needs of our students. Our dynamic curriculum reflects our commitment to help every child realise her fullest potential. Our girls enjoy an extensive range of holistic experiences to help them cultivate their abilities and talents in pursuit of all-round excellence. Indeed, many of our girls have moved on to make an indelible mark and blaze new trails in numerous fields.   
