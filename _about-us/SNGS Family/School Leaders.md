@@ -12,6 +12,3 @@ third_nav_title: SNGS Family
 | Ms Baey Ee-Lyn    | Vice Principal (Secondary Section)     | BAEY_Ee_Lyn@schools.gov.sg     |
 | Mr Ting Poh Leong Aloysius    | Vice Principal (Secondary Section)     | TING_Poh_Leong_Aloysius@schools.gov.sg     |
 | Mr Tham Wai Kong     | Vice Principal (Admin)     | THAM_Wai_Kong@schools.gov.sg     |
-
-
-This page was last updated on Mon 20 Mar 2023
