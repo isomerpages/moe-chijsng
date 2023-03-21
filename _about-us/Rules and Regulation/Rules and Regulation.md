@@ -64,7 +64,7 @@ At all times, pupils are to:
 *   Confiscated electronic devices may only be claimed from the Operations Manager the following Monday, during the morning or afternoon break.
 *   Pupils are responsible and accountable for the safekeeping of their personal belongings.
 
-#### **If there is any breach of school conduct and non observance of school rules, the pupil will be dealt with accordingly.**
+##### **If there is any breach of school conduct and non observance of school rules, the pupil will be dealt with accordingly.**
 
 **Serious Offences (Attendance)**
 * Leaving school grounds without permission
