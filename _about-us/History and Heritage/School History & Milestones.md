@@ -4,11 +4,9 @@ permalink: /about-us/history-and-heritage/school-history-milestones/
 description: ""
 third_nav_title: History and Heritage
 ---
+#### CHIJ ST NICHOLAS GIRLS’ SCHOOL
 
-
-#### <center> CHIJ ST NICHOLAS GIRLS’ SCHOOL</center>
-
-#### School History
+**School History**
 
 In the 1930s, the Chinese population in Singapore was increasing rapidly. The Infant Jesus sisters decided to establish a Chinese-medium primary school to provide education for Chinese girls.  On 16 January 1933, Victoria Girls’ School started in the building that used to be Hotel van Wijk.  There were forty pupils and a Chinese teacher.  Sister Solong was its first Principal.  The school was later renamed St Nicholas Girls’ School.
 
@@ -38,17 +36,21 @@ Principals:
 
 **Milestones**
 
-| Year |                                                                                                        Key Event                                                                                                        |
-|:----:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| 1933 | To meet the needs of the growing Chinese population, the Infant Jesus sisters started Victoria Girls’ School to be a Chinese-medium school for girls on 16 Jan 1933. It was later renamed as St Nicholas Girls’ School. |
-| 1938 |                                                                    Start of the first Secondary class. The teacher training section was also set up.                                                                    |
-| 1940 |                                                                           Appointment of first local Chinese Principal, Sister Francoise Lee.                                                                           |
-| 1941 |                                                                First batch of trained teachers graduated; St Nicholas Girls’ School became a full school.                                                               |
-| 1972 |                                                                                First lay principal, Mrs Hwang-Lee Poh See, was appointed.                                                                               |
-| 1979 |                                                          School was selected as a Special Assistance Plan (SAP) school. A Pre-primary section was also set up.                                                          |
-| 1985 |                                                                   School moved from Victoria Street to its permanent premises at Ang Mo Kio Street 13.                                                                  |
-| 1992 |                                                                        St Nicholas Girls’ School was renamed as ‘CHIJ St Nicholas Girls’ School’.                                                                       |
-| 1995 |                                                                     Granted autonomous status by MOE in recognition of its value-added performances.                                                                    |
-| 2013 |                                                 Started Joint Integrated Programme with Catholic High School, Singapore Chinese Girls’ School and Eunoia Junior College.                                                |
-| 2018 |                                                                                        The school celebrated its 85th anniversary                                                                                       |
 
+
+| Year | Key Event |
+| ---- | -------- |
+| 1933 | To meet the needs of the growing Chinese population, the Infant Jesus sisters started Victoria Girls’ School to be a Chinese-medium school for girls on 16 Jan 1933. It was later renamed as St Nicholas Girls’ School. |
+| 1938 | Start of the first Secondary class. The teacher training section was also set up. |
+| 1940 | Appointment of first local Chinese Principal, Sister Francoise Lee. |
+| 1941 | First batch of trained teachers graduated; St Nicholas Girls’ School became a full school. |
+| 1972 | First lay principal, Mrs Hwang-Lee Poh See, was appointed. |
+| 1979 | School was selected as a Special Assistance Plan (SAP) school. A Pre-primary section was also set up. |
+| 1985 | School moved from Victoria Street to its permanent premises at Ang Mo Kio Street 13. |
+| 1992 | St Nicholas Girls’ School was renamed as ‘CHIJ St Nicholas Girls’ School’. |
+| 1995 | Granted autonomous status by MOE in recognition of its value-added performances. |
+| 2013 | Started Joint Integrated Programme with Catholic High School, Singapore Chinese Girls’ School and Eunoia Junior College. |
+| 2018 | The school celebrated its 85th anniversary. |
+
+
+*This page was last updated on 21 Mar 2023.*
