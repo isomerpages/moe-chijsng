@@ -30,7 +30,6 @@ Father Nicolas Barré suffered ill health in his later years and died at the age
 
 In commemoration of this great man and what he has done, CHIJ Schools in Singapore celebrate Founder’s Day on 31 May each year.
 
-
 <img src="/images/Moher%20Mathilde.jpeg" style= "width: 30%; margin-right:15px;" align = "right"> 
 
 #### MOTHER MATHILDE (1814 – 1911)
