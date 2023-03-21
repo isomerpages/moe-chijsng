@@ -42,3 +42,26 @@ third_nav_title: SNGS Family
 | Mdm Xie Fuzhen 谢馥榛老师     |      | xie_fuzhen@schools.gov.sg     |
 | Mdm Yan Guifang 鄢桂芳老师     |      | yan_guifang@schools.gov.sg     |
 | Ms Zhao Hai Ping 赵海萍老师     |      | zhao_hai_ping@schools.gov.sg     |
+
+**ENGLISH DEPARTMENT**
+
+| Name | Designation | Email Address |
+| -------- | -------- | -------- |
+| Mrs Tham May Fen Candy     | HOD / English     | lee_may_fen_candy@schools.gov.sg     |
+| Ms Siti Nur'aini Bte Abdul Rashid    | SH / English Literature     | siti_nuraini_abdul_rashid@schools.gov.sg    |
+| Mr Victor Joseph Francis    | SH / English Language    | victor_joseph_francis@schools.gov.sg    |
+| Mrs Yueh See Hwei     | Senior Teacher (EL)     | chong_see_hwei@schools.gov.sg     |
+| Miss Chan Mei Qi Michelle     |     | chan_mei_qi@schools.gov.sg     |
+| Ms Jacqueline Lim Xin Yi     |     | jacqueline_lim_xin_yi@schools.gov.sg     |
+| Miss Juliana Bte Grahan     |     | juliana_grahan@schools.gov.sg     |
+| Miss Kho Qi En, Shermaine     |     | kho_qi_en_shermaine@schools.gov.sg     |
+| Mrs Chan Lay Choo Theresa    |     | kiong_lay_choo_theresa@schools.gov.sg     |
+| Mr Koh Wen Jin Marcus     |     | koh_wen_jin_marcus@schools.gov.sg     |
+| Mrs Sng Maria     |     | maria_goretti_tang@schools.gov.sg    |
+| Mr Mohammed Khalid Kudabar     |     | mohammed_khalid_kudabar@schools.gov.sg    |
+| Ms Nurulhuda Bte Mohammed Arslan     |     | nurulhuda_mohammed_arslan@schools.gov.sg     |
+| Ms Tan Chork Meng     |     | tan_chork_meng@schools.gov.sg    |
+| Ms Tay Li Na     |     | tay_li_na@schools.gov.sg    |
+| Ms Phua Meow Noi     | AED (T&L)    | phua_meow_noi@schools.gov.sg   |
+
+
