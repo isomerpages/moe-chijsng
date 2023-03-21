@@ -2,4 +2,5 @@ collections:
   connect-with-us:
     output: true
     order:
+      - Gratitude Notes.md
       - Contact Us.md
