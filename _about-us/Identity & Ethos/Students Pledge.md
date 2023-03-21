@@ -4,7 +4,7 @@ permalink: /about-us/identity-and-ethos/student-pledge/
 description: ""
 third_nav_title: Identity & Ethos
 ---
-#### Student's Pledge
+#### Students Pledge 学生信约
 
 We, the pupils of CHIJ St Nicholas Girls’ School, pledge that:  
   
