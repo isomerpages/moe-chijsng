@@ -27,6 +27,3 @@ The mission of CHIJ St Nicholas Girls' School is the creation of a Christ-centr
 
 
 ![](/images/vision_mission_values.png)
-
-
-*This page was last updated on 20 Mar 2023*
