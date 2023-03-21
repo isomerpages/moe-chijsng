@@ -6,7 +6,7 @@ third_nav_title: History and Heritage
 ---
 <img src="/images/Father%20Nicholas.jpeg" style= "width: 30%; margin-right:15px;" align = "right"> 
 
-#### OUR FOUNDER – BLESSED NICHOLAS BARRÉ (1621 – 1686)
+#### **OUR FOUNDER – BLESSED NICHOLAS BARRÉ (1621 – 1686)**
 
 **<u>Early Life</u>** <br>
 
@@ -32,7 +32,7 @@ In commemoration of this great man and what he has done, CHIJ Schools in Singapo
 
 <img src="/images/Moher%20Mathilde.jpeg" style= "width: 30%; margin-right:15px;" align = "right"> 
 
-#### MOTHER MATHILDE (1814 – 1911)
+#### **MOTHER MATHILDE (1814 – 1911)**
 
 **<u>Early Life: “ Be Holy as I am Holy.”</u>**
 
@@ -53,7 +53,7 @@ During those early years, Mother Mathilde faced many difficulties as there was l
 At age 58, Mother Mathilde set out once again on her next mission to Japan. With the same spirit and faith in God, she toiled tirelessly to build the foundations of IJ schools in Yokohama, Tokyo and Shizuoka. Mother Mathilde died at the age of 97 and lies buried at Yokohama. She is deeply honoured by the IJ schools she helped to establish in Japan and at her funeral in Yokohama was paid this compliment by a Protestant Minister in the crowd who called out, “**_Go, good and faithful servant. You have deserved well of the Lord._**” Mother Mathilde was recognised by the government of Singapore in the Women’s Hall of Fame in 2014 for her contributions to education in Singapore. Today, the eleven Convent of the Holy Infant Jesus (CHIJ) schools in Singapore stand as a testament to Mother Mathilde’s work.
 
 
-**THE CHIJ STORY IN SINGAPORE**
+#### **THE CHIJ STORY IN SINGAPORE**
 
 The story of the Convent of the Holy Infant Jesus (CHIJ) in Singapore began with the founding of the first CHIJ school in 1854.
 
