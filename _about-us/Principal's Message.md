@@ -36,7 +36,3 @@ Mrs Fiona Tan
 
   
 杨淑伶校长
-
-
-
-*This page was last updated on Wed 9 Jan 2019*
