@@ -1,6 +1,6 @@
 title: CHIJ St Nicholas Girl's School
 url: https://chijstnicholasgirls.moe.edu.sg
-favicon: /images/School_Crest.jpg
+favicon: /images/02 About Us/School_Crest.jpg
 colors:
   primary-color: "#064f93"
   secondary-color: "#b93737"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d22e87qphr3ylf.amplifyapp.com
 prod: https://master.d22e87qphr3ylf.amplifyapp.com
-shareicon: /images/School_Crest.jpg
+shareicon: /images/02 About Us/School_Crest.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
