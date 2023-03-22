@@ -6,7 +6,7 @@ third_nav_title: Identity & Ethos
 ---
 ![](/images/01%20Banner%20Photos/subpage%2001%20about%20us.jpg)
 
-<img src="/images/School_Crest.jpg" style= "width: 40%; margin-right: 0px;" align = "right">  
+<img src="/images/02%20About%20Us/School_Crest.jpg" style= "width: 40%; margin-right: 0px;" align = "right">  
 
 #### **History of the Badge**
 
