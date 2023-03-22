@@ -4,7 +4,7 @@ permalink: /about-us/history-and-heritage/history-of-the-ij-mission/
 description: ""
 third_nav_title: History and Heritage
 ---
-<img src="/images/Father%20Nicholas.jpeg" style= "width: 30%; margin-right:15px;" align = "right"> 
+<img src="/images/02%20About%20Us/Father%20Nicholas.jpeg" style= "width: 30%; margin-right:15px;" align = "right"> 
 
 #### **OUR FOUNDER – BLESSED NICHOLAS BARRÉ (1621 – 1686)**
 
@@ -30,6 +30,7 @@ Father Nicolas Barré suffered ill health in his later years and died at the age
 
 In commemoration of this great man and what he has done, CHIJ Schools in Singapore celebrate Founder’s Day on 31 May each year.
 
+![](/images/02%20About%20Us/Moher%20Mathilde.jpeg)
 <img src="/images/Moher%20Mathilde.jpeg" style= "width: 30%; margin-right:15px;" align = "right"> 
 
 #### **MOTHER MATHILDE (1814 – 1911)**
