@@ -3,7 +3,7 @@ title: Publications (Primary)
 permalink: /st-nicks-heartbeat/Publications-Primary/
 description: ""
 ---
-![St Nicks Heartbeat](/images/Banner%20Photos/subpage%2002%20St%20Nicks%20Heartbeat.jpg)
+![](/images/01%20Banner%20Photos/subpage%2002%20St%20Nicks%20Heartbeat.jpg)
 
 ### 2022
 
