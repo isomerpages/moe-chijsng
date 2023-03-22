@@ -4,7 +4,7 @@ permalink: /about-us/history-and-heritage/school-history-milestones/
 description: ""
 third_nav_title: History and Heritage
 ---
-![About Us](/images/Banner%20Photos/subpage%2001%20about%20us.jpg)
+![](/images/01%20Banner%20Photos/subpage%2001%20about%20us.jpg)
 
 #### **CHIJ ST NICHOLAS GIRLS’ SCHOOL**
 
