@@ -2,12 +2,6 @@ logo: /images/01 Banner Photos/logo.svg
 links:
   - title: About Us
     collection: about-us
-  - title: Secondary
-    url: https://staging.d2kyho38yqhcge.amplifyapp.com/
-    sublinks: []
-  - title: "Primary "
-    url: https://staging.d6ffahuouz5lv.amplifyapp.com/
-    sublinks: []
   - title: St Nicks Heartbeat
     collection: st-nicks-heartbeat
   - title: Connect With Us
