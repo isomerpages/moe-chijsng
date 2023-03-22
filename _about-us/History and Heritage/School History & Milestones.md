@@ -8,7 +8,7 @@ third_nav_title: History and Heritage
 
 #### **CHIJ ST NICHOLAS GIRLS’ SCHOOL**
 
-##### School History
+##### **School History**
 
 In the 1930s, the Chinese population in Singapore was increasing rapidly. The Infant Jesus sisters decided to establish a Chinese-medium primary school to provide education for Chinese girls.  On 16 January 1933, Victoria Girls’ School started in the building that used to be Hotel van Wijk.  There were forty pupils and a Chinese teacher.  Sister Solong was its first Principal.  The school was later renamed St Nicholas Girls’ School.
 
@@ -24,7 +24,7 @@ By 1980, the school building in Victoria Street could no longer house the entire
 
 In 1995, the school was accorded autonomous status by MOE in recognition of its value-added academic performances.  From end-2009 to 2012, the school underwent PRIME to build a future-ready school. The school celebrated its 80th anniversary in 2013 with the re-opening of the school by Prime Minister Mr Lee Hsien Loong.  In the same year, the school also introduced the Joint Integrated Programme with Catholic High School, Singapore Chinese Girls’ School and Eunoia Junior College. The school celebrated its 85th anniversary in 2018.
 
-##### Principals:
+##### **Principals:**
 
 *   Sister Solong (1933 to 1935)
 *   Sister Felix (1936 to 1937)
@@ -36,7 +36,7 @@ In 1995, the school was accorded autonomous status by MOE in recognition of its 
 *   Mrs Tan Wai Lan (2012 to 2016)
 *   Mrs Fiona Tan (2017 to date)
 
-##### Milestones
+##### **Milestones**
 
 | Year | Key Event |
 | ---- | -------- |
