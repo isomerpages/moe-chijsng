@@ -29,9 +29,9 @@ Mon to Fri:    7.30 am to 5.30 pm   <br>
 
 #### **Getting To CHIJ St. Nicholas Girls' School**
 
-By Bus:     Service 265 from opposite Yio Chu Kang Stadium or Ang Mo Kio Interchange  <br>
-By MRT:    Mayflower Station (Thomson-East Coast Line), then walk along Ang Mo Kio St 13 to Gate 1 <br>
-By Car:     Ang Mo Kio St 13 (Gate 1), Ang Mo Kio Ave 4 (HDB Carpark 26 > Gate 3), Ang Mo Kio Ave 2 (Gate 2)
+<u>By Bus:</u>     Service 265 from opposite Yio Chu Kang Stadium or Ang Mo Kio Interchange  <br>
+<u>By MRT:</u>    Mayflower Station (Thomson-East Coast Line), then walk along Ang Mo Kio St 13 to Gate 1 <br>
+<u>By Car:</u>     Ang Mo Kio St 13 (Gate 1), Ang Mo Kio Ave 4 (HDB Carpark 26 > Gate 3), Ang Mo Kio Ave 2 (Gate 2)
 
 #### **School Gates Opening and Closing Information**
 
