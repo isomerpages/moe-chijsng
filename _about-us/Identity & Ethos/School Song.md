@@ -4,7 +4,7 @@ permalink: /about-us/school-song-students-pledge/
 description: ""
 third_nav_title: Identity & Ethos
 ---
-![About Us](/images/Banner%20Photos/subpage%2001%20about%20us.jpg)
+![](/images/01%20Banner%20Photos/subpage%2001%20about%20us.jpg)
 
 #### **School Song 校歌**
 
