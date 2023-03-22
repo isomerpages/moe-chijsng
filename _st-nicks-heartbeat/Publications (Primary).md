@@ -7,8 +7,6 @@ description: ""
 
 ### 2022
 
-![](/images/03%20St%20Nicks%20Heartbeat/may2017littlelights.png)
-
 <img style="width: 50%;" src="/images/03%20St%20Nicks%20Heartbeat/our%20Little%20Lights.png" />
 
 <br>
