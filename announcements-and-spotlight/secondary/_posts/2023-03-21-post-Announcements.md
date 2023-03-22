@@ -6,10 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
-
-
-
 | Date Posted | Announcement |
 | -------- | -------- |
 | 12 Jan 2023 | <u>2022 GCE O-Level JAE & Other Information</u><br>Dear 2022 Graduands, please refer to this pdf for more information regarding JAE and other related information. |
