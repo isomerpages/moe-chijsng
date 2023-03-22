@@ -98,10 +98,9 @@ third_nav_title: SNGS Family
 | Mdm Lee Keat Peng | Senior Teacher (Mathematics) | lee_keat_peng@schools.gov.sg |
 | Miss Choo Teck Chan |     | choo_teck_chan@schools.gov.sg |
 | Ms Fadhilah Harianto | co-AYH (Sec 3) | fadhilah_r_harianto@schools.gov.sg |
-| Miss Juliet Huang |     | huang_chenmei_juliet@schools.gov.sg |
-| Mrs Lily Tan |     | lim_lily_b@schools.gov.sg |
-| Ms Naseem Fathima |     | naseem_fathima@schools.gov.sg |
-| Mrs Josephine Sherwood Quek Lee Nar |     | quek_lee_nar_josephine@schools.gov.sg |
-| Ms Siti Wajihah Zaran |     | siti_wajihah_zaran@schools.gov.sg |
-| Mr Tung Jowie |     | tung_jowie@schools.gov.sg |
-| Miss Uma Ramakrishnan | co-AYH (Sec 4) | uma_ramakrishnan@schools.gov.sg |
+| Mr Kevin Thesman |     | kevin_andrew_thesman@schools.gov.sg |
+| Mr Kuah Ee Qiang |     | kuah_ee_qiang@schools.gov.sg |
+| Mdm Liesa Wong |     | liesa_wong@schools.gov.sg |
+| Miss Ou Wanjun |     | ou_wanjun@schools.gov.sg |
+| Miss Quek Soo Hiang |     | quek_soo_hiang_a@schools.gov.sg |
+| Mrs Seah Puay Hwa |     | tan_puay_hwa@schools.gov.sg |
