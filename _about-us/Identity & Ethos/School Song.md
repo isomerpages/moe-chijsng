@@ -8,5 +8,5 @@ third_nav_title: Identity & Ethos
 
 #### **School Song 校歌**
 
-![](/images/02%20About%20Us/School%20song%20with%20lyrics.png)<br>
-##### [CHIJ SNGS School Song](https://youtu.be/zjjar0QEGGk)
+[CHIJ SNGS School Song](https://youtu.be/zjjar0QEGGk)
+![](/images/02%20About%20Us/School%20song%20with%20lyrics.png)
