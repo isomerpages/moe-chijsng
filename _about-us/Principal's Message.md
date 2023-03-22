@@ -3,7 +3,7 @@ title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
 ---
-![About Us](/images/Banner%20Photos/subpage%2001%20about%20us.jpg)
+![](/images/01%20Banner%20Photos/subpage%2001%20about%20us.jpg)
 
 Since the school’s establishment in 1933, CHIJ St Nicholas Girls’ School has been nurturing generations of accomplished young ladies who are anchored on sound values and driven by passion and purpose. 
 
