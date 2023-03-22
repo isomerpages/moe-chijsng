@@ -85,3 +85,23 @@ third_nav_title: SNGS Family
 | Ms Siti Wajihah Zaran |     | siti_wajihah_zaran@schools.gov.sg |
 | Mr Tung Jowie |     | tung_jowie@schools.gov.sg |
 | Miss Uma Ramakrishnan | co-AYH (Sec 4) | uma_ramakrishnan@schools.gov.sg |
+
+##### **MATHEMATICS DEPARTMENT**
+
+| Name | Designation | Email Address |
+| -------- | -------- | -------- |
+| Ms Shireen Poore | HOD / Mathematics | shireen_vanitha_poore@schools.gov.sg |
+| Ms Rockey Marsha Rachel | Year Head | rockey_marsha_rachel@schools.gov.sg |
+| Ms Chong Bao Ling | SH / Mathematics | chong_bao_ling@schools.gov.sg |
+| Mrs Fung Hwee Hua | SH / Data Management | lim_hwee_hua@schools.gov.sg |
+| Mdm Yap Mei Ling | SH / Integrated Programme | yap_mei_ling@schools.gov.sg |
+| Mdm Lee Keat Peng | Senior Teacher (Mathematics) | lee_keat_peng@schools.gov.sg |
+| Ms Cher Lian Mui Claire |     | cher_lian_mui_claire@schools.gov.sg |
+| Miss Fatmah Ismail Talib |     | fatmah_ismail_talib@schools.gov.sg |
+| Miss Juliet Huang |     | huang_chenmei_juliet@schools.gov.sg |
+| Mrs Lily Tan |     | lim_lily_b@schools.gov.sg |
+| Ms Naseem Fathima |     | naseem_fathima@schools.gov.sg |
+| Mrs Josephine Sherwood Quek Lee Nar |     | quek_lee_nar_josephine@schools.gov.sg |
+| Ms Siti Wajihah Zaran |     | siti_wajihah_zaran@schools.gov.sg |
+| Mr Tung Jowie |     | tung_jowie@schools.gov.sg |
+| Miss Uma Ramakrishnan | co-AYH (Sec 4) | uma_ramakrishnan@schools.gov.sg |
