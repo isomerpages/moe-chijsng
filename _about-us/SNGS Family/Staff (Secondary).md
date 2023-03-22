@@ -96,8 +96,8 @@ third_nav_title: SNGS Family
 | Mrs Fung Hwee Hua | SH / Data Management | lim_hwee_hua@schools.gov.sg |
 | Mdm Yap Mei Ling | SH / Integrated Programme | yap_mei_ling@schools.gov.sg |
 | Mdm Lee Keat Peng | Senior Teacher (Mathematics) | lee_keat_peng@schools.gov.sg |
-| Ms Cher Lian Mui Claire |     | cher_lian_mui_claire@schools.gov.sg |
-| Miss Fatmah Ismail Talib |     | fatmah_ismail_talib@schools.gov.sg |
+| Miss Choo Teck Chan |     | choo_teck_chan@schools.gov.sg |
+| Ms Fadhilah Harianto | co-AYH (Sec 3) | fadhilah_r_harianto@schools.gov.sg |
 | Miss Juliet Huang |     | huang_chenmei_juliet@schools.gov.sg |
 | Mrs Lily Tan |     | lim_lily_b@schools.gov.sg |
 | Ms Naseem Fathima |     | naseem_fathima@schools.gov.sg |
