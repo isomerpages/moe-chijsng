@@ -104,3 +104,14 @@ third_nav_title: SNGS Family
 | Miss Ou Wanjun |     | ou_wanjun@schools.gov.sg |
 | Miss Quek Soo Hiang |     | quek_soo_hiang_a@schools.gov.sg |
 | Mrs Seah Puay Hwa |     | tan_puay_hwa@schools.gov.sg |
+
+##### **PHYSICAL EDUCATION DEPARTMENT**
+
+| Name | Designation | Email Address |
+| -------- | -------- | -------- |
+| Miss Susan Lim | HOD / PE & CCA | lim_susan@schools.gov.sg |
+| Ms Yang Peishan | SH / Physical Education | yang_peishan@schools.gov.sg |
+| Mr Daryl Chew Ren Jie |     | chew_ren_jie_daryl@schools.gov.sg |
+| Miss Goh Meow Peng Sherry |     | goh_meow_peng_sherry@schools.gov.sg |
+| Miss Lee Le Xin, Francoise |     | lee_le_xin_francoise@schools.gov.sg |
+| Miss Sim Ung Mei Catherine |     | sim_ung_mei_catherine@schools.gov.sg |
