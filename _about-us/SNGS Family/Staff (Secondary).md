@@ -120,22 +120,32 @@ third_nav_title: SNGS Family
 
 | Name | Designation | Email Address |
 | -------- | -------- | -------- |
-| Mrs Hoo Boon Leng | HOD / Science | shireen_vanitha_poore@schools.gov.sg |
-| Mr Tay Kian Hwee | HOD / ICT | rockey_marsha_rachel@schools.gov.sg |
-| Ms Sandra Ong | School Staff Developer | chong_bao_ling@schools.gov.sg |
-| Ms Chia Yan Qi Audrey | SH / Biology | lim_hwee_hua@schools.gov.sg |
-| Ms Lim Hwee Chin | SH / Physics | yap_mei_ling@schools.gov.sg |
-| Mr Wan Yew Boon | SH / Innovation & Research | lee_keat_peng@schools.gov.sg |
-| Miss Chee Yit Ling Melanie | Assistant Year Head (Sec 4) | choo_teck_chan@schools.gov.sg |
-| Ms Lee Ruo-Ning | Senior Teacher (Chemistry) | fadhilah_r_harianto@schools.gov.sg |
-| Mrs Tan Siew Kim | Senior Teacher (Chemistry) | kevin_andrew_thesman@schools.gov.sg |
-| Mr Cai Jinhong |     | kuah_ee_qiang@schools.gov.sg |
-| Mr Chang Hao Hsi David |     | liesa_wong@schools.gov.sg |
-| Mr Joshua Lee Shan Wei |     | ou_wanjun@schools.gov.sg |
-| Mr Khor Eng Hao Daniel |     | quek_soo_hiang_a@schools.gov.sg |
-| Mr Koh Zhi-Ti Jason |     | tan_puay_hwa@schools.gov.sg |
-| Mr Lee Yueh Hwa Andy |     | tan_puay_hwa@schools.gov.sg |
-| Ms Clarissa Lua |     | tan_puay_hwa@schools.gov.sg |
-| Mrs Panthradil Annie-chacko |     | tan_puay_hwa@schools.gov.sg |
-| Ms Tan Ann Nie | co-AYH (Sec 2) | tan_puay_hwa@schools.gov.sg |
-| Miss Yee Kah Yin Amy | co-AYH (Sec 3) | tan_puay_hwa@schools.gov.sg |
+| Mrs Hoo Boon Leng | HOD / Science | ng_boon_leng@schools.gov.sg |
+| Mr Tay Kian Hwee | HOD / ICT | tay_kian_hwee@schools.gov.sg |
+| Ms Sandra Ong | School Staff Developer | ong_pei_sze@schools.gov.sg |
+| Ms Chia Yan Qi Audrey | SH / Biology | audrey_chia@schools.gov.sg |
+| Ms Lim Hwee Chin | SH / Physics | lim_hwee_chin@schools.gov.sg |
+| Mr Wan Yew Boon | SH / Innovation & Research | wan_yew_boon@schools.gov.sg |
+| Miss Chee Yit Ling Melanie | Assistant Year Head (Sec 4) | chee_yit_ling_melanie@schools.gov.sg |
+| Ms Lee Ruo-Ning | Senior Teacher (Chemistry) | lee_ruo-ning@schools.gov.sg |
+| Mrs Tan Siew Kim | Senior Teacher (Chemistry) | toh_siew_kim@schools.gov.sg |
+| Mr Cai Jinhong |     | cai_jinhong@schools.gov.sg |
+| Mr Chang Hao Hsi David |     | chang_hao_hsi_david@schools.gov.sg |
+| Miss Cheong Yunling Cheryl |     | cheong_yunling_cheryl@schools.gov.sg |
+| Mr Joshua Lee Shan Wei |     | joshua_shanwei_lee@schools.gov.sg |
+| Mr Khor Eng Hao Daniel |     | khor_eng_hao_daniel@schools.gov.sg |
+| Mr Koh Zhi-Ti Jason |     | koh_zhi-ti_jason@schools.gov.sg |
+| Mr Lee Yueh Hwa Andy |     | lee_yueh_hwa@schools.gov.sg |
+| Ms Clarissa Lua |     | lua_yi_wen_clarissa@schools.gov.sg |
+| Mrs Panthradil Annie-chacko |     | panthradil_annie-chacko@schools.gov.sg |
+| Ms Tan Ann Nie | co-AYH (Sec 2) | tan_ann_nie@schools.gov.sg |
+| Miss Yee Kah Yin Amy | co-AYH (Sec 3) | yee_kah_yin_amy@schools.gov.sg |
+
+##### **SCHOOL ADMIN TEAM**
+
+| Name | Designation | Email Address |
+| -------- | -------- | -------- |
+| Ms Veronica Loo | Admin Manager | Veronica_LOO@schools.gov.sg |
+| (to be updated) | Operations Manager | (to be updated) |
+| Mdm Azizah Bte Abdullah | ICT Associate | azizah_abdullah@schools.gov.sg |
+
