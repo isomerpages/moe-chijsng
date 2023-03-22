@@ -4,7 +4,7 @@ permalink: /about-us/sngs-family/staff-secondary/
 description: ""
 third_nav_title: SNGS Family
 ---
-![About Us](/images/Banner%20Photos/subpage%2001%20about%20us.jpg)
+![](/images/01%20Banner%20Photos/subpage%2001%20about%20us.jpg)
 
 ##### **AESTHETICS DEPARTMENT**
 
@@ -148,4 +148,3 @@ third_nav_title: SNGS Family
 | Ms Veronica Loo | Admin Manager | Veronica_LOO@schools.gov.sg |
 | (to be updated) | Operations Manager | (to be updated) |
 | Mdm Azizah Bte Abdullah | ICT Associate | azizah_abdullah@schools.gov.sg |
-
