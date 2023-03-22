@@ -11,6 +11,5 @@ Drive-in is allowed in the morning during school arrival time for parents sendin
 All visitors with scheduled appointments to meet staff will have to register at the Guard Post before entering school.
 
 
-**Tham Wai Kong, Vice-Principal (Administration)**
-
+**Tham Wai Kong, Vice-Principal (Administration)**<br>
 **CHIJ St Nicholas Girls’ School**
