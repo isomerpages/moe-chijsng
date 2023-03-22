@@ -4,7 +4,7 @@ permalink: /about-us/history-and-heritage/school-crest/
 description: ""
 third_nav_title: Identity & Ethos
 ---
-![About Us](/images/Banner%20Photos/subpage%2001%20about%20us.jpg)
+![](/images/01%20Banner%20Photos/subpage%2001%20about%20us.jpg)
 
 <img src="/images/School_Crest.jpg" style= "width: 40%; margin-right: 0px;" align = "right">  
 
