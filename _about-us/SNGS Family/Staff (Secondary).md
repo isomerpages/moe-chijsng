@@ -115,3 +115,27 @@ third_nav_title: SNGS Family
 | Miss Goh Meow Peng Sherry |     | goh_meow_peng_sherry@schools.gov.sg |
 | Miss Lee Le Xin, Francoise |     | lee_le_xin_francoise@schools.gov.sg |
 | Miss Sim Ung Mei Catherine |     | sim_ung_mei_catherine@schools.gov.sg |
+
+##### **SCIENCE DEPARTMENT**
+
+| Name | Designation | Email Address |
+| -------- | -------- | -------- |
+| Mrs Hoo Boon Leng | HOD / Science | shireen_vanitha_poore@schools.gov.sg |
+| Mr Tay Kian Hwee | HOD / ICT | rockey_marsha_rachel@schools.gov.sg |
+| Ms Sandra Ong | School Staff Developer | chong_bao_ling@schools.gov.sg |
+| Ms Chia Yan Qi Audrey | SH / Biology | lim_hwee_hua@schools.gov.sg |
+| Ms Lim Hwee Chin | SH / Physics | yap_mei_ling@schools.gov.sg |
+| Mr Wan Yew Boon | SH / Innovation & Research | lee_keat_peng@schools.gov.sg |
+| Miss Chee Yit Ling Melanie | Assistant Year Head (Sec 4) | choo_teck_chan@schools.gov.sg |
+| Ms Lee Ruo-Ning | Senior Teacher (Chemistry) | fadhilah_r_harianto@schools.gov.sg |
+| Mrs Tan Siew Kim | Senior Teacher (Chemistry) | kevin_andrew_thesman@schools.gov.sg |
+| Mr Cai Jinhong |     | kuah_ee_qiang@schools.gov.sg |
+| Mr Chang Hao Hsi David |     | liesa_wong@schools.gov.sg |
+| Mr Joshua Lee Shan Wei |     | ou_wanjun@schools.gov.sg |
+| Mr Khor Eng Hao Daniel |     | quek_soo_hiang_a@schools.gov.sg |
+| Mr Koh Zhi-Ti Jason |     | tan_puay_hwa@schools.gov.sg |
+| Mr Lee Yueh Hwa Andy |     | tan_puay_hwa@schools.gov.sg |
+| Ms Clarissa Lua |     | tan_puay_hwa@schools.gov.sg |
+| Mrs Panthradil Annie-chacko |     | tan_puay_hwa@schools.gov.sg |
+| Ms Tan Ann Nie | co-AYH (Sec 2) | tan_puay_hwa@schools.gov.sg |
+| Miss Yee Kah Yin Amy | co-AYH (Sec 3) | tan_puay_hwa@schools.gov.sg |
