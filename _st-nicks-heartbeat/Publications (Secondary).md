@@ -5,9 +5,9 @@ description: ""
 ---
 ![](/images/01%20Banner%20Photos/subpage%2002%20St%20Nicks%20Heartbeat.jpg)
 
-### 2022
+#### 2022
 
-
+![](/images/03%20St%20Nicks%20Heartbeat/Connexion%202020.jpeg)
 <img src="/images/03%20St%20Nicks%20Heartbeat/Connexions%202022%20Issue%201%20Cover.jpg" style= "width: 50%;" >
 
 <div style="text-align:center">    
@@ -22,9 +22,9 @@ description: ""
 <a href="insertpdflink">2022 Issue 2</a>
 </div>
 
-### 2021 
+#### 2021 
 
-<img src="/images/Connexion%202021.jpeg" style= "width: 50%;" >
+<img src="/images/03%20St%20Nicks%20Heartbeat/Connexion%202021.jpeg" style= "width: 50%;" >
 
 <div style="text-align:center">    
 <a href="https://issuu.com/touche-design/docs/connexions_2021_issue_1">2021 Issue 1</a>
@@ -32,21 +32,21 @@ description: ""
 
 <br>
 
-<img src="/images/Connexions%202.jpeg" style= "width: 50%;" >
+<img src="/images/03%20St%20Nicks%20Heartbeat/Connexions%202.jpeg" style= "width: 50%;" >
 
 <div style="text-align:center">    
 <a href="https://issuu.com/touche-design/docs/connexions_2021_issue_2">2021 Issue 2</a>
 </div>
 
-### 2020 
+#### 2020 
 
-<img src="/images/Connexion%202020.jpeg" style= "width: 50%;" >
+<img src="/images/03%20St%20Nicks%20Heartbeat/Connexion%202020.jpeg" style= "width: 50%;" >
 
 <div style="text-align:center">    
 <a href="https://issuu.com/sngscorpcomms/docs/sngs_connexions_2020">2020 Issue </a>
 </div>
 
-### 2019 
+#### 2019 
 
 <img src="/images/Connexions%201.png" style= "width: 50%;" >
 
