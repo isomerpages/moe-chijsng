@@ -1,4 +1,5 @@
 collections:
   spotlight-archive:
     output: true
-    order: []
+    order:
+      - DSA 2023.md
