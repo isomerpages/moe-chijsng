@@ -1,0 +1,4 @@
+collections:
+  spotlight-archive:
+    output: true
+    order: []
