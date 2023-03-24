@@ -10,14 +10,14 @@ description: ""
 <img src="/images/03%20St%20Nicks%20Heartbeat/Connexions%202022%20Issue%201%20Cover.jpg" style= "width: 25%;" >
 
 <div style="text-align:center">    
-<a href="insertpdflink">2022 Issue 1</a>
+<a href="insertpdflink">2022 Issue 1 (33.6 MB)</a>
 </div>
 <br>
 
 <img src="/images/03%20St%20Nicks%20Heartbeat/Connexions%202022%20Issue%202.png" style= "width: 25%;" >
 
 <div style="text-align:center">    
-<a href="insertpdflink">2022 Issue 2</a>
+<a href="insertpdflink">2022 Issue 2 (89.7 MB)</a>
 </div>
 
 #### 2021 
