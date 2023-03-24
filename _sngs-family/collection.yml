@@ -1,0 +1,4 @@
+collections:
+  sngs-family:
+    output: true
+    order: []
