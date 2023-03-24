@@ -2,6 +2,6 @@ collections:
   sngs-family:
     output: true
     order:
-      - Parents & Alumnae.md
-      - Staff (Secondary).md
       - School Leaders.md
+      - Staff (Secondary).md
+      - Parents & Alumnae.md
