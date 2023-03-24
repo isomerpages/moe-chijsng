@@ -6,11 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
-
-
-
-
-
-
-
-Test Post 1 Random Post ![](/images/CHIJSNGBanner.gif)
+(to be updated)
