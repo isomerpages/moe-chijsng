@@ -68,7 +68,7 @@ At all times, pupils are to:
 
 | Serious Offences | Consequences |
 | -------- | -------- |
-| **Attendance**<br>* Leaving school grounds without permission<br>* Truancy from any school activity / event<br>* Poor attendance in CCA<br>* Wilful absenteeism<br><br>**Serious Offences (Misconduct)**<br>* ^Cheating or copying in assessments / tests / exams<br>* ^Plagiarism<br>* Forgery<br>* Amending test mark / answer after return of paper<br>* Open defiance and / or rudeness<br>* Bullying (Intimidating / Taunting / Threatening to cause harm)<br>* Cyber-bullying<br>* Cyber-baiting<br>* Disruptive behaviour<br>* Abuse of technology<br>* Post / Share defamatory, hurtful, inappropriate comments / pictures<br>* Persistent late-coming and repeated minor offence (refer to Minor Offence Document in class)<br>* Jaywalking     | Discipline Record - Conduct grade will be Fair / Poor<br>* Corrective work order<br>* Suspension<br>* ^Awarded a zero mark<br>* Conferencing with parent / guardian<br>* Counselling<br>* Detention<br><br>NB: Besides the consequences listed above, students committing serious offences will be dealt with accordingly. |
+| **Attendance**<br>* Leaving school grounds without permission<br>* Truancy from any school activity / event<br>* Poor attendance in CCA<br>* Wilful absenteeism<br><br>**Misconduct**<br>* ^Cheating or copying in assessments / tests / exams<br>* ^Plagiarism<br>* Forgery<br>* Amending test mark / answer after return of paper<br>* Open defiance and / or rudeness<br>* Bullying (Intimidating / Taunting / Threatening to cause harm)<br>* Cyber-bullying<br>* Cyber-baiting<br>* Disruptive behaviour<br>* Abuse of technology<br>* Post / Share defamatory, hurtful, inappropriate comments / pictures<br>* Persistent late-coming and repeated minor offence (refer to Minor Offence Document in class)<br>* Jaywalking     | Discipline Record - Conduct grade will be Fair / Poor<br>* Corrective work order<br>* Suspension<br>* ^Awarded a zero mark<br>* Conferencing with parent / guardian<br>* Counselling<br>* Detention<br><br>NB: Besides the consequences listed above, students committing serious offences will be dealt with accordingly. |
 
 
 
@@ -84,4 +84,3 @@ At all times, pupils are to:
 Assault; Fighting; Gambling; Smoking; Substance abuse; Possession of weapons; Gangsterism; Pornography
 
 *The list of serious offence is not exhaustive.*
-
