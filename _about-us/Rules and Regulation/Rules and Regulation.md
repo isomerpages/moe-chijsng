@@ -66,26 +66,14 @@ At all times, pupils are to:
 
 ##### **If there is any breach of school conduct and non observance of school rules, the pupil will be dealt with accordingly.**
 
-**Serious Offences (Attendance)**
-* Leaving school grounds without permission
-* Truancy from any school activity / event
-* Poor attendance in CCA
-* Wilful absenteeism
+| Serious Offences | Consequences |
+| -------- | -------- |
+| **Attendance**<br>* Leaving school grounds without permission<br>* Truancy from any school activity / event<br>* Poor attendance in CCA<br>* Wilful absenteeism<br><br>**Serious Offences (Misconduct)**<br>* ^Cheating or copying in assessments / tests / exams<br>* ^Plagiarism<br>* Forgery<br>* Amending test mark / answer after return of paper<br>* Open defiance and / or rudeness<br>* Bullying (Intimidating / Taunting / Threatening to cause harm)<br>* Cyber-bullying<br>* Cyber-baiting<br>* Disruptive behaviour<br>* Abuse of technology<br>* Post / Share defamatory, hurtful, inappropriate comments / pictures<br>* Persistent late-coming and repeated minor offence (refer to Minor Offence Document in class)<br>* Jaywalking     | Discipline Record - Conduct grade will be Fair / Poor<br>* Corrective work order<br>* Suspension<br>* ^Awarded a zero mark<br>* Conferencing with parent / guardian<br>* Counselling<br>* Detention<br><br>NB: Besides the consequences listed above, students committing serious offences will be dealt with accordingly. |
 
-**Serious Offences (Misconduct)**
-* *Cheating or copying in assessments / tests / exams
-* *Plagiarism
-* Forgery
-* Amending test mark / answer after return of paper
-* Open defiance and / or rudeness
-* Bullying (Intimidating / Taunting / Threatening to cause harm)
-* Cyber-bullying
-* Cyber-baiting
-* Disruptive behaviour
-* Abuse of technology
-* Post / Share defamatory, hurtful, inappropriate comments / pictures
-* Persistent late-coming and repeated minor offence (refer to Minor Offence Document in class)
-* Jaywalking
+
+
+
+
 
 **Serious Offences (Theft/Damage of Property)**
 * Theft
@@ -97,13 +85,3 @@ Assault; Fighting; Gambling; Smoking; Substance abuse; Possession of weapons; 
 
 *The list of serious offence is not exhaustive.*
 
-**Consequences**
-* Discipline Record - Conduct grade will be Fair / Poor
-* Corrective work order
-* Suspension
-* *Awarded a zero mark and conduct grade will be Fair / Poor
-* Conferencing with parent / guardian
-* Counselling
-* Detention
-
-NB: Besides the consequences listed above, students committing serious offences will be dealt with accordingly.
