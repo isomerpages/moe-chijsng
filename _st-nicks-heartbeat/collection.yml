@@ -2,5 +2,6 @@ collections:
   st-nicks-heartbeat:
     output: true
     order:
+      - SNGS Videos.md
       - Publications (Primary).md
       - Publications (Secondary).md
