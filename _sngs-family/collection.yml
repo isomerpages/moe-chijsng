@@ -2,7 +2,7 @@ collections:
   sngs-family:
     output: true
     order:
-      - Staff (Primary)/.keep
       - School Leaders.md
+      - Staff (Primary)/.keep
       - Staff (Secondary).md
       - Parents & Alumnae.md
