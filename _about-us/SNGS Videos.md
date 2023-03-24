@@ -8,3 +8,5 @@ description: ""
 ```
 <iframe width="725" height="408" src="https://www.youtube.com/embed/fCfgyZyeSDw" title="SNGS 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ```
+
+Other videos are available on our [Youtube channel](https://www.youtube.com/channel/UCpXuHO6AYc_aI3WHXjh9OIw).
