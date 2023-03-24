@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - SNGS Videos.md
       - Principal's Message.md
       - CHIJ Board Of Management.md
       - Vision, Mission, Motto, Values.md
@@ -16,3 +15,4 @@ collections:
       - Rules and Regulation/.keep
       - Rules and Regulation/Rules and Regulation.md
       - Rules and Regulation/No Entry Policy.md
+      - SNGS Videos.md
