@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Leaders.md
+      - Staff (Primary)/School EXCO.md
       - Staff (Primary)/.keep
       - Staff (Secondary).md
       - Parents & Alumnae.md
