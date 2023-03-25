@@ -4,4 +4,77 @@ permalink: /sngs-family/staff-primary/exco/
 description: ""
 third_nav_title: Staff (Primary)
 ---
-(to be updated)
+### School Leaders
+
+| Name | Designation | Email Addresses |
+| --- | --- | --- |
+| Mrs Fiona Tan | Principal | [fiona\_yeo@schools.gov.sg](mailto:fiona_yeo@schools.gov.sg) |
+| Miss Yeo Teck Woon | Vice Principal | [yeo\_teck\_woon@schools.gov.sg](mailto:yeo_teck_woon@schools.gov.sg) |
+| Mdm Amy Tan  | Vice Principal  | [tan\_lih\_lin@schools.gov.sg](mailto:%C2%A0tan_lih_lin@schools.gov.sg) |
+
+  
+
+### Heads of Departments
+
+| Name | Designation | Email Addresses |
+| --- | --- | --- |
+| Mdm Chong Fei Ming | HOD English | [chong\_fei\_ming@schools.gov.sg](mailto:chong_fei_ming@schools.gov.sg) |
+| Mdm Yong Sheue Mei  | HOD Chinese   | [yong\_sheue\_mei@schools.gov.sg](mailto:yong_sheue_mei@schools.gov.sg)   
+ |
+| Mrs Gina Chen   | HOD Math   | [lim\_wee\_ping@schools.gov.sg](mailto:lim_wee_ping@schools.gov.sg) |
+| Mdm Tang Sunnie | HOD Science | [tang\_sunnie@schools.gov.sg](mailto:tang_sunnie@schools.gov.sg) |
+| Mdm Lee Ling Ling | HOD SP Chinese | [lee\_ling\_ling\_a@schools.gov.sg](mailto:lee_ling_ling_a@schools.gov.sg)  
+ |
+| Mrs Petrina Lim | HOD PE, CCA & Aesthetics | [tan\_lay\_beng\_petrina@schools.gov.sg](mailto:tan_lay_beng_petrina@schools.gov.sg) |
+| Mr Ahmad Ibrahim | HOD ICT | [ahmad\_ibrahim\_a@schools.gov.sg](mailto:ahmad_ibrahim_a@schools.gov.sg) |
+| Mr Calvin Tay | HOD Pupil Development | [tay\_ngiang\_boon\_calvin@schools.gov.sg](mailto:tay_ngiang_boon_calvin@schools.gov.sg) |
+| Miss Cindy Ng Lai Leng | HOD CCE | [ng\_lai\_leng\_cindy@schools.gov.sg](mailto:ng_lai_leng_cindy@schools.gov.sg) |
+| Miss Judy Koh   | HOD YH LP / Aesthetics  | [koh\_cheng\_tee@schools.gov.sg](mailto:koh_cheng_tee@schools.gov.sg)  
+ |
+| Miss Agnes Lee Ling Ling | HOD YH MP | [lee\_ling\_ling\_agnes@schools.gov.sg](mailto:lee_ling_ling_agnes@schools.gov.sg) |
+| Miss Lum Hui Min  |  HOD YH UP  | [lum\_hui\_min@schools.gov.sg](mailto:lum_hui_min@schools.gov.sg)  |
+| Mdm Chin Lan Shiang | School Staff Developer | [chin\_lan\_shiang@schools.gov.sg](mailto:chin_lan_shiang@schools.gov.sg)        [](mailto:chin_lan_shiang@moe.edu.sg)  
+ |
+| Mrs Phoebe Peer-Lee | LT CCE      | [](mailto:lee_hui_lin_phoebe@schools.gov.sg)[lee\_hui\_lin\_phoebe@schools.gov.sg](mailto:lee_hui_lin_phoebe@schools.gov.sg)  |
+
+  
+
+### Level Heads
+
+| Name | Designation | Email Addresses |
+| --- | --- | --- |
+| Miss Genevieve Chow  | LH English | [chow\_wai\_har\_genevieve@schools.gov.sg](mailto:chow_wai_har_genevieve@schools.gov.sg) |
+| Mrs Justine Hum | LH Math  | [choo\_hui\_kian@schools.gov.sg](mailto:choo_hui_kian@schools.gov.sg)  
+ |
+| Ms Brenda Wong | LH Science | [wong\_pek\_chin\_brenda@schools.gov.sg](mailto:wong_pek_chin_brenda@schools.gov.sg) |
+
+  
+
+###   
+
+###   
+
+###   
+
+###   
+
+###   
+
+### Subject Heads
+
+| Name | Designation | Email Addresses |
+| --- | --- | --- |
+| Mdm Noelle Lee  | AYH Lower Pri | [lee\_meiting\_noelle\_francesca@schools.gov.sg](mailto:lee_meiting_noelle_francesca@schools.gov.sg) |
+| Mdm Grace Chen | SH Leadership | [chen\_suhua@schools.gov.sg](mailto:chen_suhua@schools.gov.sg) |
+| Mrs Marilyn Tan | SH PE | [teo\_hong\_ling\_marilyn@schools.gov.sg](mailto:teo_hong_ling_marilyn@schools.gov.sg) |
+| Mr Muhammad Azahar  | SH ICT  | [muhammad\_azahar\_rosli@schools.gov.sg](mailto:muhammad_azahar_rosli@schools.gov.sg)  |
+
+  
+
+### EAS Department
+
+| Name | Designation | Email Addresses |
+| --- | --- | --- |
+| Ms Celeste Goh   
+ | Administration Manager  | [celeste\_goh@schools.gov.sg](mailto:celeste_goh@schools.gov.sg)[](mailto:celeste_adeline_goh@moe.edu.sg) |
+| Mr Ng Kim Kheng | Operations Manager | [ng\_kim\_kheng@schools.gov.sg](mailto:ng_kim_kheng@schools.gov.sg) |
