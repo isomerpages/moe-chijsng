@@ -4,7 +4,9 @@ permalink: /sngs-family/staff-primary/exco/
 description: ""
 third_nav_title: Staff (Primary)
 ---
-### School Leaders
+![](/images/01%20Banner%20Photos/subpage%2001%20about%20us.jpg)
+
+##### **School Leaders**
 
 | Name | Designation | Email Addresses |
 | --- | --- | --- |
@@ -12,9 +14,7 @@ third_nav_title: Staff (Primary)
 | Miss Yeo Teck Woon | Vice Principal | [yeo\_teck\_woon@schools.gov.sg](mailto:yeo_teck_woon@schools.gov.sg) |
 | Mdm Amy Tan  | Vice Principal  | [tan\_lih\_lin@schools.gov.sg](mailto:%C2%A0tan_lih_lin@schools.gov.sg) |
 
-  
-
-### Heads of Departments
+ ##### **Heads of Departments**
 
 | Name | Designation | Email Addresses |
 | --- | --- | --- |
@@ -39,7 +39,7 @@ third_nav_title: Staff (Primary)
 
   
 
-### Level Heads
+##### **Level Heads**
 
 | Name | Designation | Email Addresses |
 | --- | --- | --- |
@@ -48,19 +48,8 @@ third_nav_title: Staff (Primary)
  |
 | Ms Brenda Wong | LH Science | [wong\_pek\_chin\_brenda@schools.gov.sg](mailto:wong_pek_chin_brenda@schools.gov.sg) |
 
-  
 
-###   
-
-###   
-
-###   
-
-###   
-
-###   
-
-### Subject Heads
+##### **Subject Heads**
 
 | Name | Designation | Email Addresses |
 | --- | --- | --- |
@@ -71,10 +60,9 @@ third_nav_title: Staff (Primary)
 
   
 
-### EAS Department
+##### **EAS Department**
 
 | Name | Designation | Email Addresses |
 | --- | --- | --- |
-| Ms Celeste Goh   
- | Administration Manager  | [celeste\_goh@schools.gov.sg](mailto:celeste_goh@schools.gov.sg)[](mailto:celeste_adeline_goh@moe.edu.sg) |
+| Ms Celeste Goh   | Administration Manager  | [celeste\_goh@schools.gov.sg](mailto:celeste_goh@schools.gov.sg)|
 | Mr Ng Kim Kheng | Operations Manager | [ng\_kim\_kheng@schools.gov.sg](mailto:ng_kim_kheng@schools.gov.sg) |
