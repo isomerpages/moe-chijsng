@@ -12,7 +12,7 @@ We, the pupils of CHIJ St Nicholas Girls’ School, pledge that:
   
 We will strive for excellence, always working hard to achieve all-round development and balanced lives.  
 We will be good daughters at home, loving and respecting our parents and all other members of our families.  
-We will be good students in school, loving and respecting our Principal and teachers.</br>
+We will be good students in school, loving and respecting our Principal and teachers.<br>
 As fellow students, we will be sisters to one another.  
 We will, as a mission school community, strive to promote truth, justice, freedom, and love, always upholding our school motto: Simple in Virtue, Steadfast in Duty.  
 And we will be dedicated and committed to the security and future of our country, always working towards building a nation that is gracious and continually progressing.
