@@ -130,3 +130,20 @@ third_nav_title: Staff (Primary)
 | Nurazlina (AED - LBS)  | [nurazlina\_abdullah@schools.gov.sg](mailto:nurazlina_abdullah@schools.gov.sg)  |
 | Mary Manimuthu | [mary\_manimuthu@schools.gov.sg](mailto:mary_manimuthu@schools.gov.sg) |
 | Ms Vathana (SENO) | [Vathana\_Sreemurugavel@schools.gov.sg](mailto:Vathana_Sreemurugavel@schools.gov.sg) |
+
+##### **ICT/MRL**
+
+| Staff Name | Email Address |
+| --- | --- |
+| Mr Ahmad Ibrahim (HOD ICT) | [ahmad\_ibrahim\_a@schools.gov.sg](mailto:ahmad_ibrahim_a@schools.gov.sg) |
+| Mrs Gina Chen (HOD MA) | [lim\_wee\_ping@schools.gov.sg](mailto:lim_wee_ping@schools.gov.sg) |
+| Mdm Sunnie Tang (HOD SC)  | [tang\_sunnie@schools.gov.sg](mailto:tang_sunnie@schools.gov.sg) |
+| Mrs Joaquim Chan (Senior ICT Mentor SC) | [chan\_tsze\_min\_joaquim@schools.gov.sg](mailto:chan_tsze_min_joaquim@schools.gov.sg)  |
+| Mr Muhammad Azahar (SH ICT/Cockpit/AV Coordinator) | [muhammad\_azahar\_rosli@schools.gov.sg](mailto:muhammad_azahar_rosli@schools.gov.sg)  |
+| Mr Ng Jun Yuan (ICT Mentor MA) | [ng\_junyun@schools.gov.sg](mailto:ng_junyun@schools.gov.sg)  |
+| Ms Dong Yu Yi (ICT Mentor CL) | [dong\_yuyi@schools.gov.sg](mailto:dong_yuyi@schools.gov.sg)  |
+| Mrs Ruth Quek (ICT Mentor PE/Aesthetics) | [tan\_wee\_siew\_ruth@schools.gov.sg](mailto:tan_wee_siew_ruth@schools.gov.sg) |
+| Mr Chang Hiang Heng (ICT Manager)  | [chang\_hiang\_heng@schools.gov.sg](mailto:chang_hiang_heng@schools.gov.sg) |
+| Mr Choo Han Yang (DE) | [choo.han.yang@ncs.com.sg](mailto:choo.han.yang@ncs.com.sg) |
+| Ms Yuvannesha Raj (DE)  | [yr.raju.durai@ncs.com.sg](mailto:yr.raju.durai@ncs.com.sg) |
+| Mdm Ng Yen Ling (Librarian) | [YenLing.Ng@staff.spydus.com.sg](mailto:YenLing.Ng@staff.spydus.com.sg) |
