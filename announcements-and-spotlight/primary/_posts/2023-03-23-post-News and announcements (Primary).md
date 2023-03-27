@@ -6,4 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-(to be updated)
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
