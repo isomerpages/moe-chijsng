@@ -13,10 +13,4 @@ description: ""
 | | <img src="/images/03%20St%20Nicks%20Heartbeat/Connexions%202.jpeg" style= "width: 70%; margin-right:5px;" align = "left" > | <div style="text-align:left"><a href="https://issuu.com/touche-design/docs/connexions_2021_issue_2">2021 Issue 2</a></div> |
 | **2020** | <img src="/images/03%20St%20Nicks%20Heartbeat/Connexion%202020.jpeg" style= "width: 70%; margin-right:5px;" align = "left" > | <div style="text-align:left"><a href="https://issuu.com/sngscorpcomms/docs/sngs_connexions_2020">2020 Issue </a></div> |
 | **2019** | <img src="/images/03%20St%20Nicks%20Heartbeat/Connexions%201.png" style= "width: 70%; margin-right:5px;" align = "left" > | <div style="text-align:left"><a href="insertpdflink">2019 Issue 1 </a></div> |
-
-
-<img src="/images/03%20St%20Nicks%20Heartbeat/Connexions%202.png" style= "width: 25%;" >
-
-<div style="text-align:center">    
-<a href="insertpdflink">2019 Issue 2 </a>
-</div>
+| | <img src="/images/03%20St%20Nicks%20Heartbeat/Connexions%202.png" style= "width: 70%; margin-right:5px;" align = "left" > | <div style="text-align:left"><a href="insertpdflink">2019 Issue 2 </a></div> |
