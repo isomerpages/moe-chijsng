@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
+| Date Posted | Announcement |
+| -------- | -------- | 
+| - | **2023 P6 Weighted Assessment (WA) Assessment Scope (Term 1)**<br>Click the link to view assessment scope<br> |
+| - | **SN Home-based Learning Info Site**<br>Click the link below to access the school's Home-based Learning Info Site [http://bit.ly/HBL-SN](http://bit.ly/HBL-SN)      |
