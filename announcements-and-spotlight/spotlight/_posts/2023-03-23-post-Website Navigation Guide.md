@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 Dear visitor,
 
 Our school website has just been migrated to the ISOMER platform in Apr 2023.
