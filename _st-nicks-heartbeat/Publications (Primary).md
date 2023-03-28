@@ -14,20 +14,14 @@ description: ""
 #### 2021
 
 <img style="width: 40%;" src="/images/03%20St%20Nicks%20Heartbeat/Littlelights%20July%202021_00001.jpeg" />
-
-<br>
-
 <div style="text-align:center">    
-<a href="https://online.fliphtml5.com/nmauk/usfs/">Little Lights 2021</a>
-</div>
+<a href="https://online.fliphtml5.com/nmauk/usfs/">Little Lights 2021</a></div>
 
 #### 2018
 
 <img style="width: 40%;" src="/images/03%20St%20Nicks%20Heartbeat/Little%20Lights.png" />
-
 <div style="text-align:center">    
-<a href="https://online.fliphtml5.com/nmauk/kvjk/">Little Lights 2018</a>
-</div>
+<a href="https://online.fliphtml5.com/nmauk/kvjk/">Little Lights 2018</a></div>
 
 #### 2017
 
