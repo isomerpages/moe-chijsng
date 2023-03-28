@@ -24,8 +24,8 @@ description: ""
 <a href="https://online.fliphtml5.com/nmauk/kvjk/">Little Lights 2018</a></div>
 
 #### 2017
-
-<a href="insert pdf url link"><img style="width: 40%;" src="/images/03%20St%20Nicks%20Heartbeat/oct2017littlelights.png" /></a>
+<img style="width: 40%;" src="/images/03%20St%20Nicks%20Heartbeat/oct2017littlelights.png" /></a>
+<a href="https://online.fliphtml5.com/nmauk/wslj/">Little Lights 2017 October</a></div>
 
 <br>
 
