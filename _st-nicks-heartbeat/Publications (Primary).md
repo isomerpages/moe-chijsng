@@ -22,7 +22,7 @@ description: ""
 <br>
 
 <div style="text-align:center">    
-<a href="insert pdf link here">Little Lights</a>
+<a href="https://issuu.com/chijsngs/docs/littlelights\_july\_2021">Little Lights 2021</a>
 </div>
 
 ### 2018
