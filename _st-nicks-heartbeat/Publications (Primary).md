@@ -30,7 +30,7 @@ description: ""
 <img style="width: 25%;" src="/images/03%20St%20Nicks%20Heartbeat/Little%20Lights.png" />
 
 <div style="text-align:center">    
-<a href="https://issuu.com/chijsngs/docs/littlelights_2018">Little Lights 2018</a>
+<a href="https://online.fliphtml5.com/nmauk/kvjk/">Little Lights 2018</a>
 </div>
 
 ### 2017
