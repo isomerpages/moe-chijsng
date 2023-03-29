@@ -39,10 +39,9 @@ third_nav_title: Staff (Primary)
 
 | Name | Designation | Email Addresses |
 | --- | --- | --- |
-| Miss Genevieve Chow  | LH English | [chow\_wai\_har\_genevieve@schools.gov.sg](mailto:chow_wai_har_genevieve@schools.gov.sg) |
-| Mrs Justine Hum | LH Math  | [choo\_hui\_kian@schools.gov.sg](mailto:choo_hui_kian@schools.gov.sg)  
- |
-| Ms Brenda Wong | LH Science | [wong\_pek\_chin\_brenda@schools.gov.sg](mailto:wong_pek_chin_brenda@schools.gov.sg) |
+| Miss Genevieve Chow  | LH English | [chow_wai_har_genevieve@schools.gov.sg](mailto:chow_wai_har_genevieve@schools.gov.sg) |
+| Mrs Justine Hum | LH Math  | [choo_hui_kian@schools.gov.sg](mailto:choo_hui_kian@schools.gov.sg) |
+| Ms Brenda Wong | LH Science | [wong_pek_chin_brenda@schools.gov.sg](mailto:wong_pek_chin_brenda@schools.gov.sg) |
 
 
 ##### **Subject Heads**
