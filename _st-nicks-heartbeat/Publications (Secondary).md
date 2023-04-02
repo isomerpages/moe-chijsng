@@ -1,0 +1,16 @@
+---
+title: Publications (Secondary)
+permalink: /st-nicks-heartbeat/Publications-Secondary/
+description: ""
+---
+![](/images/01%20Banner%20Photos/subpage%2002%20St%20Nicks%20Heartbeat.jpg)
+
+| Year | Issue | Link | 
+| -------- | -------- | -------- |
+| **2022** | <img src="/images/03%20St%20Nicks%20Heartbeat/Connexions%202022%20Issue%201%20Cover.jpg" style= "width: 70%; margin-right:5px;" align = "left" > | <a href="https://online.fliphtml5.com/nmauk/ywwg/">2022 Issue 1</a> | 
+| 2022 | <img src="/images/03%20St%20Nicks%20Heartbeat/Connexions%202022%20Issue%202.png" style= "width: 70%; margin-right:5px;" align = "left" > | <a href="https://online.fliphtml5.com/nmauk/nalz/">2022 Issue 2</a> |
+| **2021** | <img src="/images/03%20St%20Nicks%20Heartbeat/Connexion%202021.jpeg" style= "width: 70%; margin-right:5px;" align = "left" > | <a href="https://issuu.com/touche-design/docs/connexions_2021_issue_1">2021 Issue 1</a> |
+| 2021 | <img src="/images/03%20St%20Nicks%20Heartbeat/Connexions%202.jpeg" style= "width: 70%; margin-right:5px;" align = "left" > | <a href="https://issuu.com/touche-design/docs/connexions_2021_issue_2">2021 Issue 2</a> |
+| **2020** | <img src="/images/03%20St%20Nicks%20Heartbeat/Connexion%202020.jpeg" style= "width: 70%; margin-right:5px;" align = "left" > | <a href="https://issuu.com/sngscorpcomms/docs/sngs_connexions_2020">2020 Issue </a> |
+| **2019** | <img src="/images/03%20St%20Nicks%20Heartbeat/Connexions%201.png" style= "width: 70%; margin-right:5px;" align = "left" > | <a href="insertpdflink">2019 Issue 1 (link down) </a> |
+| 2019 | <img src="/images/03%20St%20Nicks%20Heartbeat/Connexions%202.png" style= "width: 70%; margin-right:5px;" align = "left" > | <a href="https://online.fliphtml5.com/nmauk/mpay/">2019 Issue 2 </a> |

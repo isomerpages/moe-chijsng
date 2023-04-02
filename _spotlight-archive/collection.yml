@@ -1,0 +1,5 @@
+collections:
+  spotlight-archive:
+    output: true
+    order:
+      - DSA 2023.md

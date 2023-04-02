@@ -1,32 +1,21 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: CHIJ St Nicholas Girl's School
+description: An Isomer site of the Singapore Government
+image: /images/02 About Us/School_Crest.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/01 Banner Photos/Main_Banner.gif
+      key_highlights:
+        - title: SNGS Primary
+          description: ""
+          url: https://staging.d6ffahuouz5lv.amplifyapp.com/
+        - title: SNGS Secondary
+          description: ""
+          url: https://staging.d2kyho38yqhcge.amplifyapp.com/
+  - resources:
+      subtitle: News & Spotlight
+      button: view all
 ---
-

@@ -1,15 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/01 Banner Photos/logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    collection: about-us
+  - title: SNGS Family
+    collection: sngs-family
+  - title: St Nicks Heartbeat
+    collection: st-nicks-heartbeat
+  - title: Connect With Us
+    collection: connect-with-us
