@@ -11,10 +11,10 @@ sections:
       key_highlights:
         - title: SNGS Primary
           description: ""
-          url: https://staging.d6ffahuouz5lv.amplifyapp.com/
+          url: https://master.d6ffahuouz5lv.amplifyapp.com
         - title: SNGS Secondary
           description: ""
-          url: https://staging.d2kyho38yqhcge.amplifyapp.com/
+          url: https://master.d2kyho38yqhcge.amplifyapp.com
   - resources:
       subtitle: News & Spotlight
       button: view all
