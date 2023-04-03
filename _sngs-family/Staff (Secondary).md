@@ -145,5 +145,5 @@ description: ""
 | Name | Designation | Email Address |
 | -------- | -------- | -------- |
 | Ms Veronica Loo | Admin Manager | Veronica_LOO@schools.gov.sg |
-| Mr Goh Liang Khoon | Operations Manager | (to be updated) |
+| Mr Goh Liang Khoon | Operations Manager | goh_liang_khoon@schools.gov.sg |
 | Mdm Azizah Bte Abdullah | ICT Associate | azizah_abdullah@schools.gov.sg |
