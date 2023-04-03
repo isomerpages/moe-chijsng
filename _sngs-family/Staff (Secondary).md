@@ -3,7 +3,6 @@ title: Staff (Secondary)
 permalink: /about-us/sngs-family/staff-secondary/
 description: ""
 ---
-
 ![](/images/01%20Banner%20Photos/subpage%2001%20about%20us.jpg)
 
 ##### **AESTHETICS DEPARTMENT**
@@ -146,5 +145,5 @@ description: ""
 | Name | Designation | Email Address |
 | -------- | -------- | -------- |
 | Ms Veronica Loo | Admin Manager | Veronica_LOO@schools.gov.sg |
-| (to be updated) | Operations Manager | (to be updated) |
+| Mr Goh Liang Khoon | Operations Manager | goh_liang_khoon@schools.gov.sg |
 | Mdm Azizah Bte Abdullah | ICT Associate | azizah_abdullah@schools.gov.sg |

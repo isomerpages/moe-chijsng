@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/01 Banner Photos/Main_Banner.gif
+      background: /images/01 Banner Photos/main banner v10.gif
       key_highlights:
         - title: SNGS Primary
           description: ""
