@@ -54,11 +54,3 @@ third_nav_title: Staff (Primary)
 | Mr Muhammad Azahar  | SH ICT  | [muhammad\_azahar\_rosli@schools.gov.sg](mailto:muhammad_azahar_rosli@schools.gov.sg)  |
 
   
-
-##### **EAS Department**
-
-| Name | Designation | Email Addresses |
-| --- | --- | --- |
-| Ms Celeste Goh   | Administration Manager  | [celeste\_goh@schools.gov.sg](mailto:celeste_goh@schools.gov.sg)|
-| Mr Ng Kim Kheng | Operations Manager | [ng\_kim\_kheng@schools.gov.sg](mailto:ng_kim_kheng@schools.gov.sg) |
-| Mr Chang Hiang Heng | ICT Manager | [chang\_hiang\_heng@schools.gov.sg](mailto:chang_hiang_heng@schools.gov.sg) |
