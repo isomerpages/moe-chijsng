@@ -27,9 +27,9 @@ third_nav_title: Staff (Primary)
 | Mr Ahmad Ibrahim | HOD ICT | [ahmad_ibrahim_a@schools.gov.sg](mailto:ahmad_ibrahim_a@schools.gov.sg) |
 | Mr Calvin Tay | HOD Pupil Development | [tay_ngiang_boon_calvin@schools.gov.sg](mailto:tay_ngiang_boon_calvin@schools.gov.sg) |
 | Miss Cindy Ng Lai Leng | HOD CCE | [ng_lai_leng_cindy@schools.gov.sg](mailto:ng_lai_leng_cindy@schools.gov.sg) |
-| Miss Judy Koh | HOD YH LP / Aesthetics  | [koh_cheng_tee@schools.gov.sg](mailto:koh_cheng_tee@schools.gov.sg) |
-| Miss Agnes Lee Ling Ling | HOD YH MP | [lee_ling_ling_agnes@schools.gov.sg](mailto:lee_ling_ling_agnes@schools.gov.sg) |
-| Miss Lum Hui Min | HOD YH UP | [lum_hui_min@schools.gov.sg](mailto:lum_hui_min@schools.gov.sg) |
+| Miss Judy Koh | Year Head LP  | [koh_cheng_tee@schools.gov.sg](mailto:koh_cheng_tee@schools.gov.sg) |
+| Miss Agnes Lee Ling Ling | Year Head MP | [lee_ling_ling_agnes@schools.gov.sg](mailto:lee_ling_ling_agnes@schools.gov.sg) |
+| Miss Lum Hui Min | Year Head UP | [lum_hui_min@schools.gov.sg](mailto:lum_hui_min@schools.gov.sg) |
 | Mdm Chin Lan Shiang | School Staff Developer | [chin_lan_shiang@schools.gov.sg](mailto:chin_lan_shiang@schools.gov.sg) |
 | Mrs Phoebe Peer-Lee | LT CCE |[lee_hui_lin_phoebe@schools.gov.sg](mailto:lee_hui_lin_phoebe@schools.gov.sg) |
 
@@ -49,7 +49,7 @@ third_nav_title: Staff (Primary)
 | Name | Designation | Email Addresses |
 | --- | --- | --- |
 | Mdm Noelle Lee  | AYH Lower Pri | [lee\_meiting\_noelle\_francesca@schools.gov.sg](mailto:lee_meiting_noelle_francesca@schools.gov.sg) |
-| Mdm Grace Chen | SH Leadership | [chen\_suhua@schools.gov.sg](mailto:chen_suhua@schools.gov.sg) |
+| Mdm Grace Chen | SH Student Leadership | [chen\_suhua@schools.gov.sg](mailto:chen_suhua@schools.gov.sg) |
 | Mrs Marilyn Tan | SH PE | [teo\_hong\_ling\_marilyn@schools.gov.sg](mailto:teo_hong_ling_marilyn@schools.gov.sg) |
 | Mr Muhammad Azahar  | SH ICT  | [muhammad\_azahar\_rosli@schools.gov.sg](mailto:muhammad_azahar_rosli@schools.gov.sg)  |
 
