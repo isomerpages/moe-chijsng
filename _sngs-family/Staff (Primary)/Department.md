@@ -70,6 +70,9 @@ third_nav_title: Staff (Primary)
 | Mdm Yap Yng Ling | [yap\_yng\_ling@schools.gov.sg](mailto:yap_yng_ling@schools.gov.sg) |
 | Miss Siti Nurzaifah (AED T&L) | [siti\_nurzaifah@schools.gov.sg](mailto:siti_nurzaifah@schools.gov.sg) |
 | Mdm Peng Yee Ping | [peng\_yee\_ping@schools.gov.sg](mailto:peng_yee_ping@schools.gov.sg) |
+| Mrs Lee Pei Ting | [lee\_pei\_ting@schools.gov.sg](mailto:lee_pei_ting@schools.gov.sg) |
+
+
 
 ##### **Chinese**
 
