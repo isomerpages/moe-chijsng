@@ -118,19 +118,19 @@ third_nav_title: Staff (Primary)
 
 | Staff Name  | Email Address  |
 | --- | --- |
-| Cindy Ng (HOD CCE)   | [ng\_lai\_leng\_cindy@schools.gov.sg](mailto:ng_lai_leng_cindy@schools.gov.sg)  |
-| Phoebe Peer (LT CCE)  | [lee\_hui\_lin\_phoebe@schools.gov.sg](mailto:lee_hui_lin_phoebe@schools.gov.sg)  |
-| Grace Chen (SH Student Leadership)  | [chen\_suhua@schools.gov.sg](mailto:chen_suhua@schools.gov.sg)  |
-| Calvin Tay (HOD VIA and Partnership)  | [tay\_ngiang\_boon\_calvin@schools.gov.sg](mailto:tay_ngiang_boon_calvin@schools.gov.sg)  |
-| Agnes Lee Ling Ling (YH MP)  | [lee\_ling\_ling\_agnes@schools.gov.sg](mailto:lee_ling_ling_agnes@schools.gov.sg)  |
-| Noelle Lee (AYH MP)  | [lee\_meiting\_noelle\_francesca@schools.gov.sg](mailto:lee_meiting_noelle_francesca@schools.gov.sg)  |
-| Xuanie Chin (AYH LP) (Internal)  | [chin\_yi\_xuan@schools.gov.sg](mailto:chin_yi_xuan@schools.gov.sg)  |
-| Judy Koh (YH LP) | [koh\_cheng\_tee@schools.gov.sg](mailto:koh_cheng_tee@schools.gov.sg) |
-| Lum Hui Min (YH UP)  | [lum\_hui\_min@schools.gov.sg](mailto:lum_hui_min@schools.gov.sg)  |
-| Juay Chiew Joo (AYH UP) (Internal)  | [Juay\_chiew\_joo@schools.gov.sg](mailto:Juay_chiew_joo@schools.gov.sg)  |
-| Nurazlina (AED - LBS)  | [nurazlina\_abdullah@schools.gov.sg](mailto:nurazlina_abdullah@schools.gov.sg)  |
-| Mary Manimuthu | [mary\_manimuthu@schools.gov.sg](mailto:mary_manimuthu@schools.gov.sg) |
-| Ms Vathana (SENO) | [Vathana\_Sreemurugavel@schools.gov.sg](mailto:Vathana_Sreemurugavel@schools.gov.sg) |
+| Miss Cindy Ng (HOD CCE)   | [ng\_lai\_leng\_cindy@schools.gov.sg](mailto:ng_lai_leng_cindy@schools.gov.sg)  |
+| Mrs Phoebe Peer (LT CCE)  | [lee\_hui\_lin\_phoebe@schools.gov.sg](mailto:lee_hui_lin_phoebe@schools.gov.sg)  |
+| Mdm Grace Chen (SH Student Leadership)  | [chen\_suhua@schools.gov.sg](mailto:chen_suhua@schools.gov.sg)  |
+| Mr Calvin Tay (HOD VIA and Partnership)  | [tay\_ngiang\_boon\_calvin@schools.gov.sg](mailto:tay_ngiang_boon_calvin@schools.gov.sg)  |
+| Mdm Agnes Lee Ling Ling (YH MP)  | [lee\_ling\_ling\_agnes@schools.gov.sg](mailto:lee_ling_ling_agnes@schools.gov.sg)  |
+| Mdm Noelle Lee (AYH MP)  | [lee\_meiting\_noelle\_francesca@schools.gov.sg](mailto:lee_meiting_noelle_francesca@schools.gov.sg)  |
+| Ms Xuanie Chin (AYH LP) (Internal)  | [chin\_yi\_xuan@schools.gov.sg](mailto:chin_yi_xuan@schools.gov.sg)  |
+| Miss Judy Koh (YH LP) | [koh\_cheng\_tee@schools.gov.sg](mailto:koh_cheng_tee@schools.gov.sg) |
+| Miss Lum Hui Min (YH UP)  | [lum\_hui\_min@schools.gov.sg](mailto:lum_hui_min@schools.gov.sg)  |
+| Ms Juay Chiew Joo (AYH UP) (Internal)  | [Juay\_chiew\_joo@schools.gov.sg](mailto:Juay_chiew_joo@schools.gov.sg)  |
+| Mdm Nurazlina (AED - LBS)  | [nurazlina\_abdullah@schools.gov.sg](mailto:nurazlina_abdullah@schools.gov.sg)  |
+| Mdm Mary Manimuthu | [mary\_manimuthu@schools.gov.sg](mailto:mary_manimuthu@schools.gov.sg) |
+| Miss Vathana (SENO) | [Vathana\_Sreemurugavel@schools.gov.sg](mailto:Vathana_Sreemurugavel@schools.gov.sg) |
 
 ##### **ICT/MRL**
 
