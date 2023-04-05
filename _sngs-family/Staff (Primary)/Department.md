@@ -98,6 +98,11 @@ third_nav_title: Staff (Primary)
 | Mdm Wong Ying | [wong\_ying@schools.gov.sg](mailto:wong_ying@schools.gov.sg) |
 | Mdm Jia Yangyang | [Jia\_Yangyang@schools.gov.sg](mailto:Jia_Yangyang@schools.gov.sg) |
 | Mdm Lim Geok Yen | [Lim\_Geok\_Yen@schools.gov.sg](mailto:Lim_Geok_Yen@schools.gov.sg) |
+| Ms Ng Sock Ling | [ng\_sock\_ling@schools.gov.sg](mailto:ng_sock_ling@schools.gov.sg) |
+| Mdn Tan Lee Yoke Kew | [tan_lee\_yoke\_kew@schools.gov.sg](mailto:tan_lee_yoke_kew@schools.gov.sg) |
+| Mdm Wong Soo Mei | [wong\_soo\_mei@schools.gov.sg](mailto:wong_soo_mei_a@schools.gov.sg) |
+| Mdm Teng Mui Kim | [teng\_mui\_kim@schools.gov.sg](mailto:teng_mui_kim@schools.gov.sg) |
+
 
 ##### **PE & Aesthetics**
 
