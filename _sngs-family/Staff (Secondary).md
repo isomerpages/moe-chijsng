@@ -127,7 +127,7 @@ description: ""
 | Mr Wan Yew Boon | SH / Innovation & Research | wan_yew_boon@schools.gov.sg |
 | Miss Chee Yit Ling Melanie | Assistant Year Head (Sec 4) | chee_yit_ling_melanie@schools.gov.sg |
 | Ms Lee Ruo-Ning | Senior Teacher (Chemistry) | lee_ruo-ning@schools.gov.sg |
-| Mrs Tan Siew Kim | Senior Teacher (Chemistry) | toh_siew_kim@schools.gov.sg |
+| Mrs Tan Siew Kim | Senior Teacher (Lower Sec Science) | toh_siew_kim@schools.gov.sg |
 | Mr Cai Jinhong |     | cai_jinhong@schools.gov.sg |
 | Mr Chang Hao Hsi David |     | chang_hao_hsi_david@schools.gov.sg |
 | Miss Cheong Yunling Cheryl |     | cheong_yunling_cheryl@schools.gov.sg |
