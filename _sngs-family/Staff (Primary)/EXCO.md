@@ -25,7 +25,7 @@ third_nav_title: Staff (Primary)
 | Mdm Lee Ling Ling | HOD SP Chinese | [lee_ling_ling_a@schools.gov.sg](mailto:lee_ling_ling_a@schools.gov.sg) |
 | Mrs Petrina Lim | HOD PE, CCA & Aesthetics | [tan_lay_beng_petrina@schools.gov.sg](mailto:tan_lay_beng_petrina@schools.gov.sg) |
 | Mr Ahmad Ibrahim | HOD ICT | [ahmad_ibrahim_a@schools.gov.sg](mailto:ahmad_ibrahim_a@schools.gov.sg) |
-| Mr Calvin Tay | HOD Pupil Development | [tay_ngiang_boon_calvin@schools.gov.sg](mailto:tay_ngiang_boon_calvin@schools.gov.sg) |
+| Mr Calvin Tay | HOD Student Development Team | [tay_ngiang_boon_calvin@schools.gov.sg](mailto:tay_ngiang_boon_calvin@schools.gov.sg) |
 | Miss Cindy Ng Lai Leng | HOD CCE | [ng_lai_leng_cindy@schools.gov.sg](mailto:ng_lai_leng_cindy@schools.gov.sg) |
 | Miss Judy Koh | Year Head LP  | [koh_cheng_tee@schools.gov.sg](mailto:koh_cheng_tee@schools.gov.sg) |
 | Miss Agnes Lee Ling Ling | Year Head MP | [lee_ling_ling_agnes@schools.gov.sg](mailto:lee_ling_ling_agnes@schools.gov.sg) |
