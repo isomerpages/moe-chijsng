@@ -61,7 +61,7 @@ third_nav_title: Staff (Primary)
 | Mr Daniel Chng | [chng\_chye\_thiam@schools.gov.sg](mailto:chng_chye_thiam@schools.gov.sg) |
 | Miss Joaquim Chan (Senior Teacher Science)  | [chan\_tsze\_min\_joaquim@schools.gov.sg](mailto:chan_tsze_min_joaquim@schools.gov.sg)   |
 | Mdm Grace Chen (SH Student Leadership) | [chen\_suhua@schools.gov.sg](mailto:chen_suhua@schools.gov.sg) |
-| Mr Muhammad Azahar | [muhammad\_azahar\_rosli@schools.gov.sg](mailto:muhammad_azahar_rosli@schools.gov.sg) |
+| Mr Muhammad Azahar (SH ICT) | [muhammad\_azahar\_rosli@schools.gov.sg](mailto:muhammad_azahar_rosli@schools.gov.sg) |
 | Miss Pung Chuan Ting | [pung\_chuan\_ting@schools.gov.sg](mailto:pung_chuan_ting@schools.gov.sg) |
 | Miss Sharon Shalini | [shalini\_sharon@schools.gov.sg](mailto:shalini_sharon@schools.gov.sg) |
 | Mrs Queenie Leong  | [chua\_bor\_chwen\_queenie@schools.gov.sg](mailto:chua_bor_chwen_queenie@schools.gov.sg)  |
