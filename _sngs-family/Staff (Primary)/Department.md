@@ -141,7 +141,7 @@ third_nav_title: Staff (Primary)
 | Mrs Gina Chen (HOD MA) | [lim\_wee\_ping@schools.gov.sg](mailto:lim_wee_ping@schools.gov.sg) |
 | Mdm Sunnie Tang (HOD SC)  | [tang\_sunnie@schools.gov.sg](mailto:tang_sunnie@schools.gov.sg) |
 | Mrs Joaquim Chan (Senior ICT Mentor SC) | [chan\_tsze\_min\_joaquim@schools.gov.sg](mailto:chan_tsze_min_joaquim@schools.gov.sg)  |
-| Mr Muhammad Azahar (SH ICT/Cockpit/AV Coordinator) | [muhammad\_azahar\_rosli@schools.gov.sg](mailto:muhammad_azahar_rosli@schools.gov.sg)  |
+| Mr Muhammad Azahar (SH ICT) | [muhammad\_azahar\_rosli@schools.gov.sg](mailto:muhammad_azahar_rosli@schools.gov.sg)  |
 | Mr Ng Jun Yuan (ICT Mentor MA) | [ng\_junyun@schools.gov.sg](mailto:ng_junyun@schools.gov.sg)  |
 | Ms Dong Yu Yi (ICT Mentor CL) | [dong\_yuyi@schools.gov.sg](mailto:dong_yuyi@schools.gov.sg)  |
 | Mrs Ruth Quek (ICT Mentor PE/Aesthetics) | [tan\_wee\_siew\_ruth@schools.gov.sg](mailto:tan_wee_siew_ruth@schools.gov.sg) |
