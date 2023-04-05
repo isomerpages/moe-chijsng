@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Staff (Primary)
 ---
 ##### **Primary 1**
-Year Head - [Xuanie Chin](mailto:chin_yi_xuan@schools.gov.sg)
+###### Year Head - [Xuanie Chin](mailto:chin_yi_xuan@schools.gov.sg)
 
 | Class | Form Teachers | Co-Form Teachers
 | --- | --- | --- |
@@ -18,7 +18,7 @@ Year Head - [Xuanie Chin](mailto:chin_yi_xuan@schools.gov.sg)
 | 1W | [Balinda Salleh](mailto:balinda_salleh@schools.gov.sg) | [Tan Lay Peng](mailto:tan_lay_peng@schools.gov.sg) |
 
 ##### **Primary 2**
-Year Head - [Judy Koh](mailto:koh_cheng_tee@schools.gov.sg)
+###### Year Head - [Judy Koh](mailto:koh_cheng_tee@schools.gov.sg)
 
 | Class | Form Teachers | Co-Form Teachers |
 | --- | --- |--- |
@@ -31,7 +31,7 @@ Year Head - [Judy Koh](mailto:koh_cheng_tee@schools.gov.sg)
 |  2W | [Christina Chan](mailto:tan_liang_hong_christina@schools.gov.sg) | [Ng Sock Ling](mailto:ng_sock_ling@schools.gov.sg) |
 
 ##### **Primary 3**
-Year Head - [Agnes Lee](mailto:lee_ling_ling_agnes@schools.gov.sg)
+###### Year Head - [Agnes Lee](mailto:lee_ling_ling_agnes@schools.gov.sg)
 
 | Class | Form Teachers | Co-Form Teachers |
 | --- | --- | --- |
@@ -43,7 +43,7 @@ Year Head - [Agnes Lee](mailto:lee_ling_ling_agnes@schools.gov.sg)
 | 3P | [Elsa Zainudin](mailto:suelsa_zainudin@schools.gov.sg) | [Lui Yenn KaI](mailto:lui_yenn_kai_a@schools.gov.sg) |
 
 ##### **Primary 4**
-Year Head - [Noelle Lee](mailto:lee_meiting_noelle_francesca@schools.gov.sg)
+###### Year Head - [Noelle Lee](mailto:lee_meiting_noelle_francesca@schools.gov.sg)
 
 | Class | Form Teachers | Co-Form Teachers |
 | --- | --- | --- |
@@ -55,7 +55,7 @@ Year Head - [Noelle Lee](mailto:lee_meiting_noelle_francesca@schools.gov.sg)
 | 4P | [Ng Puay Huen](mailto:ng_puay_huen@schools.gov.sg) | [Peng Yee Ping](mailto:peng_yee_ping@moe.edu.sg) |
 
 ##### **Primary 5**
-Year Head - [Lum Hui Min](mailto:lum_hui_min@schools.gov.sg)
+###### Year Head - [Lum Hui Min](mailto:lum_hui_min@schools.gov.sg)
 
 | Class | Form Teachers | Co-Form Teachers |
 | --- | --- | --- |
@@ -67,7 +67,7 @@ Year Head - [Lum Hui Min](mailto:lum_hui_min@schools.gov.sg)
 | 5P | [Laura Lim](mailto:koh_kim_suat_laura@schools.gov.sg) | [Chay Kit See](mailto:chay_kit_see@schools.gov.sg) |
 
 ##### **Primary 6**
-Year Head - [Juay Chiew Joo](mailto:juay_chiew_joo@schools.gov.sg) 
+###### Year Head - [Juay Chiew Joo](mailto:juay_chiew_joo@schools.gov.sg) 
 
 | Class | Form Teachers | Co-Form Teachers |
 | --- | --- | --- |
