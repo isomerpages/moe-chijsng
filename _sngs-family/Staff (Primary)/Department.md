@@ -153,3 +153,12 @@ third_nav_title: Staff (Primary)
 | Mr Choo Han Yang (DE) | [choo.han.yang@ncs.com.sg](mailto:choo.han.yang@ncs.com.sg) |
 | Ms Yuvannesha Raj (DE)  | [yr.raju.durai@ncs.com.sg](mailto:yr.raju.durai@ncs.com.sg) |
 | Mdm Ng Yen Ling (Librarian) | [YenLing.Ng@staff.spydus.com.sg](mailto:YenLing.Ng@staff.spydus.com.sg) |
+
+
+##### **School Admin Team**
+
+| Name | Designation | Email Addresses |
+| --- | --- | --- |
+| Ms Celeste Goh   | Administration Manager  | [celeste\_goh@schools.gov.sg](mailto:celeste_goh@schools.gov.sg)|
+| Mr Ng Kim Kheng | Operations Manager | [ng\_kim\_kheng@schools.gov.sg](mailto:ng_kim_kheng@schools.gov.sg) |
+| Mr Chang Hiang Heng | ICT Manager | [chang\_hiang\_heng@schools.gov.sg](mailto:chang_hiang_heng@schools.gov.sg) |
