@@ -22,7 +22,7 @@ third_nav_title: Staff (Primary)
 | Mdm Yong Sheue Mei  | HOD Chinese   | [yong_sheue_mei@schools.gov.sg](mailto:yong_sheue_mei@schools.gov.sg) |
 | Mrs Gina Chen   | HOD Math   | [lim_wee_ping@schools.gov.sg](mailto:lim_wee_ping@schools.gov.sg) |
 | Mdm Tang Sunnie | HOD Science | [tang_sunnie@schools.gov.sg](mailto:tang_sunnie@schools.gov.sg) |
-| Mdm Lee Ling Ling | HOD SP | [lee_ling_ling_a@schools.gov.sg](mailto:lee_ling_ling_a@schools.gov.sg) |
+| Mdm Lee Ling Ling | HOD Special Projects | [lee_ling_ling_a@schools.gov.sg](mailto:lee_ling_ling_a@schools.gov.sg) |
 | Mrs Petrina Lim | HOD PE, CCA & Aesthetics | [tan_lay_beng_petrina@schools.gov.sg](mailto:tan_lay_beng_petrina@schools.gov.sg) |
 | Mr Ahmad Ibrahim | HOD ICT | [ahmad_ibrahim_a@schools.gov.sg](mailto:ahmad_ibrahim_a@schools.gov.sg) |
 | Mr Calvin Tay | HOD Pupil Development | [tay_ngiang_boon_calvin@schools.gov.sg](mailto:tay_ngiang_boon_calvin@schools.gov.sg) |
