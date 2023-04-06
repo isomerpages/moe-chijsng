@@ -8,15 +8,15 @@ third_nav_title: Staff (Primary)
 
 | Staff Name | Email Address |
 | --- | --- |
-| Mdm Chong Fei Ming (HOD EL) | [chong\_fei\_ming@schools.gov.sg](mailto:chong_fei_ming@schools.gov.sg) |
+| Mdm Chong Fei Ming (HOD English) | [chong\_fei\_ming@schools.gov.sg](mailto:chong_fei_ming@schools.gov.sg) |
 | Mr Ahmad Ibrahim (HOD ICT) | [ahmad\_ibrahim\_a@schools.gov.sg](mailto:ahmad_ibrahim_a@schools.gov.sg) |
-| Mr Calvin Tay (HOD VIA & P) | [tay\_ngiang\_boon\_calvin@schools.gov.sg](mailto:tay_ngiang_boon_calvin@schools.gov.sg)  |
-| Miss Genevive Chow (LH EL) | [chow\_wai\_har\_genevieve@schools.gov.sg](mailto:chow_wai_har_genevieve@schools.gov.sg) |
+| Mr Calvin Tay (HOD Pupil Development) | [tay\_ngiang\_boon\_calvin@schools.gov.sg](mailto:tay_ngiang_boon_calvin@schools.gov.sg)  |
+| Miss Genevive Chow (LH English) | [chow\_wai\_har\_genevieve@schools.gov.sg](mailto:chow_wai_har_genevieve@schools.gov.sg) |
 | Mrs Phoebe Peer (LT CCE) | [lee\_hui\_lin\_phoebe@schools.gov.sg](mailto:lee_hui_lin_phoebe@schools.gov.sg)  |
 | Mdm Noelle Lee (AYH MP) | [lee\_meiting\_noelle\_francesca@schools.gov.sg](mailto:lee_meiting_noelle_francesca@schools.gov.sg) |
-| Mrs Laura Lim (Senior Teacher EL)   | [koh\_kim\_suat\_laura@schools.gov.sg](mailto:koh_kim_suat_laura@schools.gov.sg) |
-| Mrs Jade Ng  | [lim\_swee\_chern\_jade@schools.gov.sg](mailto:lim_swee_chern_jade@schools.gov.sg) |
-| Mrs Balinda Sudin Bte Salleh | [balinda\_salleh@schools.gov.sg](mailto:balinda_salleh@schools.gov.sg) |
+| Mrs Laura Lim (ST English)   | [koh\_kim\_suat\_laura@schools.gov.sg](mailto:koh_kim_suat_laura@schools.gov.sg) |
+| Mrs Jade Ng | [lim\_swee\_chern\_jade@schools.gov.sg](mailto:lim_swee_chern_jade@schools.gov.sg) |
+| Mrs Balinda Sudin | [balinda\_salleh@schools.gov.sg](mailto:balinda_salleh@schools.gov.sg) |
 | Miss Candy Gan | [gan\_xin\_lin\_candy@schools.gov.sg](mailto:gan_xin_lin_candy@schools.gov.sg) |
 | Ms Catherine Boswell | [boswell\_catherine@schools.gov.sg](mailto:boswell_catherine@schools.gov.sg) |
 | Mrs Chay Jiawei | [guo\_jiawei@schools.gov.sg](mailto:guo_jiawei@schools.gov.sg) |
@@ -27,7 +27,7 @@ third_nav_title: Staff (Primary)
 | Mdm Suelsa Bte Zainudin | [suelsa\_zainudin@schools.gov.sg](mailto:suelsa_zainudin@schools.gov.sg) |
 | Ms Chantel Cheong  | [cheong\_wen\_yee\_chantel@schools.gov.sg](mailto:cheong_wen_yee_chantel@schools.gov.sg)  |
 | Mrs Esme Loh | [esme\_foo@schools.gov.sg](mailto:esme_foo@schools.gov.sg) |
-| Miss Lee Hwee Ing  | [lee\_hwee\_ing@schools.gov.sg](mailto:lee_hwee_ing@schools.gov.sg)  |
+| Ms Lee Hwee Ing  | [lee\_hwee\_ing@schools.gov.sg](mailto:lee_hwee_ing@schools.gov.sg)  |
 | Ms Susan Gan  | [gan\_woon\_ee\_susan@schools.gov.sg](mailto:gan_woon_ee_susan@schools.gov.sg)  |
 | Mrs Nisha Ling | [nisha\_keshyiap\_ram-putre@schools.gov.sg](mailto:nisha_keshyiap_ram-putre@schools.gov.sg) |
 
