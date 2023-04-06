@@ -58,19 +58,19 @@ third_nav_title: Staff (Primary)
 
 | Staff Name | Email Address |
 | --- | --- |
-| Mdm Sunnie Tang (HOD SC) | [tang\_sunnie@schools.gov.sg](mailto:tang_sunnie@schools.gov.sg) |
-| Ms Brenda Wong (LH SC) | [wong\_pek\_chin\_brenda@schools.gov.sg](mailto:wong_pek_chin_brenda@schools.gov.sg) |
+| Mdm Sunnie Tang (HOD Science) | [tang\_sunnie@schools.gov.sg](mailto:tang_sunnie@schools.gov.sg) |
+| Ms Brenda Wong (LH Science) | [wong\_pek\_chin\_brenda@schools.gov.sg](mailto:wong_pek_chin_brenda@schools.gov.sg) |
 | Mr Daniel Chng | [chng\_chye\_thiam@schools.gov.sg](mailto:chng_chye_thiam@schools.gov.sg) |
-| Mrs Joaquim Chan (Senior Teacher Science)  | [chan\_tsze\_min\_joaquim@schools.gov.sg](mailto:chan_tsze_min_joaquim@schools.gov.sg)   |
+| Mdm Joaquim Chan (ST Science)  | [chan\_tsze\_min\_joaquim@schools.gov.sg](mailto:chan_tsze_min_joaquim@schools.gov.sg)   |
 | Mdm Grace Chen (SH Student Leadership) | [chen\_suhua@schools.gov.sg](mailto:chen_suhua@schools.gov.sg) |
 | Mr Muhammad Azahar (SH ICT) | [muhammad\_azahar\_rosli@schools.gov.sg](mailto:muhammad_azahar_rosli@schools.gov.sg) |
-| Miss Pung Chuan Ting | [pung\_chuan\_ting@schools.gov.sg](mailto:pung_chuan_ting@schools.gov.sg) |
-| Miss Sharon Shalini | [shalini\_sharon@schools.gov.sg](mailto:shalini_sharon@schools.gov.sg) |
+| Ms Pung Chuan Ting | [pung\_chuan\_ting@schools.gov.sg](mailto:pung_chuan_ting@schools.gov.sg) |
+| Ms Sharon Shalini | [shalini\_sharon@schools.gov.sg](mailto:shalini_sharon@schools.gov.sg) |
 | Mrs Queenie Leong  | [chua\_bor\_chwen\_queenie@schools.gov.sg](mailto:chua_bor_chwen_queenie@schools.gov.sg)  |
 | Mr Lui Yenn Kai | [lui\_yenn\_kai\_a@schools.gov.sg](mailto:lui_yenn_kai_a@schools.gov.sg) |
 | Mdm Yap Yng Ling | [yap\_yng\_ling@schools.gov.sg](mailto:yap_yng_ling@schools.gov.sg) |
-| Miss Siti Nurzaifah (AED T&L) | [siti\_nurzaifah@schools.gov.sg](mailto:siti_nurzaifah@schools.gov.sg) |
-| Mdm Peng Yee Ping | [peng\_yee\_ping@schools.gov.sg](mailto:peng_yee_ping@schools.gov.sg) |
+| Ms Siti Nurzaifah (AED T&L) | [siti\_nurzaifah@schools.gov.sg](mailto:siti_nurzaifah@schools.gov.sg) |
+| Mrs Peng Yee Ping | [peng\_yee\_ping@schools.gov.sg](mailto:peng_yee_ping@schools.gov.sg) |
 | Mrs Lee Pei Ting | [lee\_pei\_ting@schools.gov.sg](mailto:lee_pei_ting@schools.gov.sg) |
 
 
