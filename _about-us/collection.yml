@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Rules and Regulations/.keep
       - Principal's Message.md
       - CHIJ Board Of Management.md
       - Vision, Mission, Motto, Values.md
@@ -16,3 +15,4 @@ collections:
       - Rules and Regulation/.keep
       - Rules and Regulation/Rules and Regulations.md
       - Rules and Regulation/No Entry Policy.md
+      - Rules and Regulations/.keep
