@@ -30,6 +30,8 @@ third_nav_title: Staff (Primary)
 | Ms Lee Hwee Ing  | [lee\_hwee\_ing@schools.gov.sg](mailto:lee_hwee_ing@schools.gov.sg)  |
 | Ms Susan Gan  | [gan\_woon\_ee\_susan@schools.gov.sg](mailto:gan_woon_ee_susan@schools.gov.sg)  |
 | Mrs Nisha Ling | [nisha\_keshyiap\_ram-putre@schools.gov.sg](mailto:nisha_keshyiap_ram-putre@schools.gov.sg) |
+| Mdm Frances Goh Pih Chee  | [frances\_goh\_pih\_chee@schools.gov.sg](mailto:frances_goh_pih_chee@schools.gov.sg) |
+
 
 ##### **Mathematics**
 
@@ -38,19 +40,19 @@ third_nav_title: Staff (Primary)
 | Mrs Gina Chen (HOD Math) | [lim\_wee\_ping@schools.gov.sg](mailto:lim_wee_ping@schools.gov.sg) |
 | Mrs Justine Hum (LH Math)  | [choo\_hui\_kian@schools.gov.sg](mailto:choo_hui_kian@schools.gov.sg) |
 | Mdm Chin Lan Shiang (SSD) | [chin\_lan\_shiang@schools.gov.sg](mailto:chin_lan_shiang@schools.gov.sg) |
-| Miss Juay Chiew Joo (AYH UP Int)  | [juay\_chiew\_joo@schools.gov.sg](mailto:juay_chiew_joo@schools.gov.sg) |
-| Mrs Rachel Tan (Senior Teacher MA) | [lee\_kim\_lin\_rachel@schools.gov.sg](mailto:lee_kim_lin_rachel@schools.gov.sg) |
+| Ms Juay Chiew Joo (AYH UP Int)  | [juay\_chiew\_joo@schools.gov.sg](mailto:juay_chiew_joo@schools.gov.sg) |
+| Mrs Rachel Tan (ST Math) | [lee\_kim\_lin\_rachel@schools.gov.sg](mailto:lee_kim_lin_rachel@schools.gov.sg) |
 | Mdm Toh Poh Yen  | [toh\_poh\_yen@schools.gov.sg](mailto:toh_poh_yen@schools.gov.sg) |
 | Mrs Christina Chan  | [tan\_liang\_hong\_christina@schools.gov.sg](mailto:tan_liang_hong_christina@schools.gov.sg) |
 | Mrs Angie Choong | [chong\_sou\_foong@schools.gov.sg](mailto:chong_sou_foong@schools.gov.sg) |
 | Mrs Carolyn Tan | [wu\_ruixian\_carolyn@schools.gov.sg](mailto:wu_ruixian_carolyn@schools.gov.sg) |
-| Mrs Loh Shihan | [loh\_shihan@schools.gov.sg](mailto:loh_shihan@schools.gov.sg) |
+| Ms Loh Shihan | [loh\_shihan@schools.gov.sg](mailto:loh_shihan@schools.gov.sg) |
 | Miss Rebecca Lim | [lim\_mei\_li@schools.gov.sg](mailto:lim_mei_li@schools.gov.sg) |
 | Mrs Sheon Wee  | [lee\_sze\_yuin@schools.gov.sg](mailto:lee_sze_yuin@schools.gov.sg) |
 | Mr Ng Junyuan  | [ng\_junyuan@schools.gov.sg](mailto:ng_junyuan@schools.gov.sg) |
 | Mrs Lucy Tan | [tan\_lucy@schools.gov.sg](mailto:tan_lucy@schools.gov.sg) |
 | Mdm Eunice Lim  | [eunice\_lim\_siew\_boon@schools.gov.sg](mailto:eunice_lim_siew_boon@schools.gov.sg) |
-| Mdm Frances Goh Pih Chee  | [frances\_goh\_pih\_chee@schools.gov.sg](mailto:frances_goh_pih_chee@schools.gov.sg) |
+
 
 ##### **Science**
 
