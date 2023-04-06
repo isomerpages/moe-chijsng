@@ -134,17 +134,17 @@ third_nav_title: Staff (Primary)
 | Miss Judy Koh (Year Head LP) | [koh\_cheng\_tee@schools.gov.sg](mailto:koh_cheng_tee@schools.gov.sg) |
 | Miss Lum Hui Min (Year Head UP)  | [lum\_hui\_min@schools.gov.sg](mailto:lum_hui_min@schools.gov.sg)  |
 | Ms Juay Chiew Joo (AYH UP Int)  | [Juay\_chiew\_joo@schools.gov.sg](mailto:Juay_chiew_joo@schools.gov.sg)  |
-| Mdm Nurazlina (AED - LBS)  | [nurazlina\_abdullah@schools.gov.sg](mailto:nurazlina_abdullah@schools.gov.sg)  |
-| Mdm Mary Manimuthu | [mary\_manimuthu@schools.gov.sg](mailto:mary_manimuthu@schools.gov.sg) |
-| Miss Vathana (SENO) | [Vathana\_Sreemurugavel@schools.gov.sg](mailto:Vathana_Sreemurugavel@schools.gov.sg) |
+| Mdm Nurazlina (SEN Officer)  | [nurazlina\_abdullah@schools.gov.sg](mailto:nurazlina_abdullah@schools.gov.sg)  |
+| Mdm Mary Manimuthu (Senior School Councilor) | [mary\_manimuthu@schools.gov.sg](mailto:mary_manimuthu@schools.gov.sg) |
+| Miss Vathana (SEN Officer) | [Vathana\_Sreemurugavel@schools.gov.sg](mailto:Vathana_Sreemurugavel@schools.gov.sg) |
 
 ##### **ICT/MRL**
 
 | Staff Name | Email Address |
 | --- | --- |
 | Mr Ahmad Ibrahim (HOD ICT) | [ahmad\_ibrahim\_a@schools.gov.sg](mailto:ahmad_ibrahim_a@schools.gov.sg) |
-| Mrs Gina Chen (HOD MA) | [lim\_wee\_ping@schools.gov.sg](mailto:lim_wee_ping@schools.gov.sg) |
-| Mdm Sunnie Tang (HOD SC)  | [tang\_sunnie@schools.gov.sg](mailto:tang_sunnie@schools.gov.sg) |
+| Mrs Gina Chen (HOD Math) | [lim\_wee\_ping@schools.gov.sg](mailto:lim_wee_ping@schools.gov.sg) |
+| Mdm Sunnie Tang (HOD Science)  | [tang\_sunnie@schools.gov.sg](mailto:tang_sunnie@schools.gov.sg) |
 | Mrs Joaquim Chan (Senior ICT Mentor SC) | [chan\_tsze\_min\_joaquim@schools.gov.sg](mailto:chan_tsze_min_joaquim@schools.gov.sg)  |
 | Mr Muhammad Azahar (SH ICT) | [muhammad\_azahar\_rosli@schools.gov.sg](mailto:muhammad_azahar_rosli@schools.gov.sg)  |
 | Mr Ng Jun Yuan (ICT Mentor MA) | [ng\_junyun@schools.gov.sg](mailto:ng_junyun@schools.gov.sg)  |
