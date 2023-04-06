@@ -82,14 +82,14 @@ third_nav_title: Staff (Primary)
 | Mdm Yong Sheue Mei (HOD Chinese) | [yong\_sheue\_mei@schools.gov.sg](mailto:yong_sheue_mei@schools.gov.sg) |
 | Miss Cindy Ng (HOD CCE) | [ng\_lai\_leng\_cindy@schools.gov.sg](mailto:ng_lai_leng_cindy@schools.gov.sg) |
 | Mdm Lee Ling Ling (HOD Special Projects) | [lee\_ling\_ling\_a@schools.gov.sg](mailto:lee_ling_ling_a@schools.gov.sg) |
-| Miss Lum Hui Min (AYH UP ) | [lum\_hui\_min@schools.gov.sg](mailto:lum_hui_min@schools.gov.sg) |
-| Mdm Ng Puay Huen (Senior Teacher CL) | [ng\_puay\_huen@schools.gov.sg](mailto:ng_puay_huen@schools.gov.sg) |
+| Miss Lum Hui Min (Year Head UP) | [lum\_hui\_min@schools.gov.sg](mailto:lum_hui_min@schools.gov.sg) |
+| Mdm Ng Puay Huen (ST Chinese) | [ng\_puay\_huen@schools.gov.sg](mailto:ng_puay_huen@schools.gov.sg) |
 | Mdm Chan Hui Ming   | [chan\_hui\_ming@schools.gov.sg](mailto:chan_hui_ming@schools.gov.sg) |
-| Miss Dong Yuyi | [dong\_yuyi@schools.gov.sg](mailto:dong_yuyi@schools.gov.sg) |
+| Ms Dong Yuyi | [dong\_yuyi@schools.gov.sg](mailto:dong_yuyi@schools.gov.sg) |
 | Mdm Li Yan Zhen | [li\_yan\_zhen@schools.gov.sg](mailto:li_yan_zhen@schools.gov.sg) |
 | Mdm Lim Qi Ning | [lim\_qi\_ning@schools.gov.sg](mailto:lim_qi_ning@schools.gov.sg) |
 | Mdm Lim Siew Kheng  | [lim\_siew\_kheng@schools.gov.sg](mailto:lim_siew_kheng@schools.gov.sg) |
-| Miss Patricia Koh | [koh\_yi\_guan\_patricia@schools.gov.sg](mailto:koh_yi_guan_patricia@schools.gov.sg) |
+| Ms Patricia Koh | [koh\_yi\_guan\_patricia@schools.gov.sg](mailto:koh_yi_guan_patricia@schools.gov.sg) |
 | Mdm Tan Choon Pei | [tan\_choon\_pei@schools.gov.sg](mailto:tan_choon_pei@schools.gov.sg) |
 | Mdm Wang Ying | [wang\_ying@schools.gov.sg](mailto:wang_ying@schools.gov.sg) |
 | Mdm Wong Pih Foung | [wong\_pih\_foung@schools.gov.sg](mailto:wong_pih_foung@schools.gov.sg) |
