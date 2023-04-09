@@ -1,10 +1,10 @@
 ---
-title: Rules and Regulation
-permalink: /about-us/School-Rules-and-Regulation/Rules-and-Regulation/
+title: Rules and Regulations
+permalink: /about-us/school-rules-and-regulation/rules-and-regulations/
 description: ""
-third_nav_title: Rules and Regulation
+third_nav_title: Rules and Regulations
 ---
-#### Respect for our Nation & School
+#### Respect for our Nation &amp; School
 
 *   All Singapore citizens are to sing the National Anthem and recite the National Pledge with fervour. They will recite the National Pledge with their right fists placed over their hearts.
 *   Pupils who are not Singapore citizens must stand at attention and remain silent whenever the National Anthem is sung and the National Pledge is recited.
@@ -12,7 +12,7 @@ third_nav_title: Rules and Regulation
 *   All pupils will join in to pray or remain silent and adopt a respectful disposition during prayer times.
 *   Pupils will be dealt with, accordingly, if the above are not observed.
 
-#### Respect for Self & Others
+#### Respect for Self &amp; Others
 
 At all times, pupils are to:
 
@@ -20,7 +20,7 @@ At all times, pupils are to:
 *   be kind, generous, and considerate to others;
 *   be appreciative and not take things for granted.
 
-#### Assignments, Tests, & Examinations
+#### Assignments, Tests, &amp; Examinations
 
 *   All pupils are to submit all assignments properly and punctually. Late assignments may incur a penalty in terms of marks or be awarded no marks at all.
 *   All pupils must sit for all scheduled tests and examinations unless they have been certified medically unfit. A medical certificate must be produced within three days of the test. Otherwise, the pupil will be awarded a score of zero for that test or examination. No arrangements would be made for pupils to sit for the paper on another day.
@@ -41,7 +41,7 @@ At all times, pupils are to:
 *   Hair that is at least shoulder-length must be neatly tied up; fringes must be trimmed and kept above the eyebrows at all times.
 *   Hair accessories must be kept simple and be either black or dark blue in colour.
 
-#### Respect for Personal & School Property
+#### Respect for Personal &amp; School Property
 
 At all times, pupils are to:
 
@@ -51,7 +51,7 @@ At all times, pupils are to:
 *   return all borrowed items to the appropriate parties promptly and in good condition;
 *   report any equipment fault to the relevant parties promptly.
 
-#### Punctuality & Attendance
+#### Punctuality &amp; Attendance
 
 *   At all times, pupils are to be punctual in reporting for school, lessons, tests, examinations, and activities. Unless otherwise specified, the school day begins at 7.30 am.
 *   Pupils who are not present with their classes when the flag-raising ceremony starts are considered late.
@@ -68,6 +68,6 @@ At all times, pupils are to:
 
 | Serious Offences | Consequences |
 | -------- | -------- |
-| **Attendance**<br>* Leaving school grounds without permission<br>* Truancy from any school activity / event<br>* Poor attendance in CCA<br>* Wilful absenteeism<br><br>**Misconduct**<br>* ^Cheating or copying in assessments / tests / exams<br>* ^Plagiarism<br>* Forgery<br>* Amending test mark / answer after return of paper<br>* Open defiance and / or rudeness<br>* Bullying (Intimidating / Taunting / Threatening to cause harm)<br>* Cyber-bullying<br>* Cyber-baiting<br>* Disruptive behaviour<br>* Abuse of technology<br>* Post / Share defamatory, hurtful, inappropriate comments / pictures<br>* Persistent late-coming and repeated minor offence (refer to Minor Offence Document in class)<br>* Jaywalking<br><br>**Theft/Damage of Property**<br>* Theft<br>* Vandalism<br>* Arson<br><br>**Others**<br>Assault; Fighting; Gambling; Smoking; Substance abuse; Possession of weapons; Gangsterism; Pornography | Discipline Record - Conduct grade will be Fair / Poor<br>* Corrective work order<br>* Suspension<br>* ^Awarded a zero mark<br>* Conferencing with parent / guardian<br>* Counselling<br>* Detention<br><br>NB: Besides the consequences listed above, students committing serious offences will be dealt with accordingly. |
+| **Attendance**<br>* Leaving school grounds without permission<br>* Truancy from any school activity / event<br>* Poor attendance in CCA<br>* Wilful absenteeism<br><br>**Misconduct**<br>* ^Cheating or copying in assessments /&nbsp;tests / exams<br>* ^Plagiarism<br>* Forgery<br>* Amending test mark /&nbsp;answer after return of paper<br>* Open defiance and / or rudeness<br>* Bullying (Intimidating / Taunting / Threatening to cause harm)<br>* Cyber-bullying<br>* Cyber-baiting<br>* Disruptive behaviour<br>* Abuse of technology<br>* Post / Share defamatory, hurtful, inappropriate comments / pictures<br>* Persistent late-coming and repeated minor&nbsp;offence (refer to Minor Offence Document in class)<br>* Jaywalking<br><br>**Theft/Damage of Property**<br>* Theft<br>* Vandalism<br>* Arson<br><br>**Others**<br>Assault; Fighting; Gambling; Smoking;&nbsp;Substance abuse; Possession of weapons;&nbsp;Gangsterism; Pornography | Discipline Record -&nbsp;Conduct grade will be Fair / Poor<br>* Corrective work order<br>* Suspension<br>* ^Awarded a zero mark<br>* Conferencing with parent / guardian<br>* Counselling<br>* Detention<br><br>NB: Besides the consequences listed above, students&nbsp;committing serious offences will be dealt&nbsp;with accordingly. |
 
 *The list of serious offence is not exhaustive.*
