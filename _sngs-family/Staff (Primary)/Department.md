@@ -56,6 +56,9 @@ third_nav_title: Staff (Primary)
 | Mr Ng Junyuan  | [ng\_junyuan@schools.gov.sg](mailto:ng_junyuan@schools.gov.sg) |
 | Mrs Lucy Tan | [tan\_lucy@schools.gov.sg](mailto:tan_lucy@schools.gov.sg) |
 | Mdm Eunice Lim  | [eunice\_lim\_siew\_boon@schools.gov.sg](mailto:eunice_lim_siew_boon@schools.gov.sg) |
+| Mrs Cheryl Tay  | [kang\_liwen\_cheryl\_ann@schools.gov.sg](mailto:kang_liwen_cheryl_ann@schools.gov.sg) |
+
+
 
 
 ##### **Science**
