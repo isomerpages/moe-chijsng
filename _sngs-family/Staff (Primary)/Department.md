@@ -127,41 +127,6 @@ third_nav_title: Staff (Primary)
 | Ms Lee Hui Yi  | [lee\_hui\_yi\_a@schools.gov.sg](mailto:lee_hui_yi_a@schools.gov.sg) |
 | Mrs Ruth Quek  | [tan\_wee\_siew\_ruth@schools.gov.sg](mailto:tan_wee_siew_ruth@schools.gov.sg) |
 
-##### **Pupil Development Team**
-
-| Staff Name  | Email Address  |
-| --- | --- |
-| Miss Cindy Ng (HOD CCE)   | [ng\_lai\_leng\_cindy@schools.gov.sg](mailto:ng_lai_leng_cindy@schools.gov.sg)  |
-| Mrs Phoebe Peer (LT CCE)  | [lee\_hui\_lin\_phoebe@schools.gov.sg](mailto:lee_hui_lin_phoebe@schools.gov.sg)  |
-| Mdm Grace Chen (SH Student Leadership)  | [chen\_suhua@schools.gov.sg](mailto:chen_suhua@schools.gov.sg)  |
-| Mr Calvin Tay (HOD Pupil Development)  | [tay\_ngiang\_boon\_calvin@schools.gov.sg](mailto:tay_ngiang_boon_calvin@schools.gov.sg)  |
-| Ms Agnes Lee Ling Ling (Year Head MP)  | [lee\_ling\_ling\_agnes@schools.gov.sg](mailto:lee_ling_ling_agnes@schools.gov.sg)  |
-| Mdm Noelle Lee (AYH MP)  | [lee\_meiting\_noelle\_francesca@schools.gov.sg](mailto:lee_meiting_noelle_francesca@schools.gov.sg)  |
-| Ms Xuanie Chin (AYH LP Int)  | [chin\_yi\_xuan@schools.gov.sg](mailto:chin_yi_xuan@schools.gov.sg)  |
-| Miss Judy Koh (Year Head LP) | [koh\_cheng\_tee@schools.gov.sg](mailto:koh_cheng_tee@schools.gov.sg) |
-| Miss Lum Hui Min (Year Head UP)  | [lum\_hui\_min@schools.gov.sg](mailto:lum_hui_min@schools.gov.sg)  |
-| Ms Juay Chiew Joo (AYH UP Int)  | [Juay\_chiew\_joo@schools.gov.sg](mailto:Juay_chiew_joo@schools.gov.sg)  |
-| Mdm Nurazlina (SEN Officer)  | [nurazlina\_abdullah@schools.gov.sg](mailto:nurazlina_abdullah@schools.gov.sg)  |
-| Mdm Mary Manimuthu (Senior School Councilor) | [mary\_manimuthu@schools.gov.sg](mailto:mary_manimuthu@schools.gov.sg) |
-| Miss Vathana (SEN Officer) | [Vathana\_Sreemurugavel@schools.gov.sg](mailto:Vathana_Sreemurugavel@schools.gov.sg) |
-
-##### **ICT/MRL**
-
-| Staff Name | Email Address |
-| --- | --- |
-| Mr Ahmad Ibrahim (HOD ICT) | [ahmad\_ibrahim\_a@schools.gov.sg](mailto:ahmad_ibrahim_a@schools.gov.sg) |
-| Mrs Gina Chen (HOD Math) | [lim\_wee\_ping@schools.gov.sg](mailto:lim_wee_ping@schools.gov.sg) |
-| Mdm Sunnie Tang (HOD Science)  | [tang\_sunnie@schools.gov.sg](mailto:tang_sunnie@schools.gov.sg) |
-| Mrs Joaquim Chan (Senior ICT Mentor SC) | [chan\_tsze\_min\_joaquim@schools.gov.sg](mailto:chan_tsze_min_joaquim@schools.gov.sg)  |
-| Mr Muhammad Azahar (SH ICT) | [muhammad\_azahar\_rosli@schools.gov.sg](mailto:muhammad_azahar_rosli@schools.gov.sg)  |
-| Mr Ng Jun Yuan (ICT Mentor MA) | [ng\_junyun@schools.gov.sg](mailto:ng_junyun@schools.gov.sg)  |
-| Ms Dong Yu Yi (ICT Mentor CL) | [dong\_yuyi@schools.gov.sg](mailto:dong_yuyi@schools.gov.sg)  |
-| Mrs Ruth Quek (ICT Mentor PE/Aesthetics) | [tan\_wee\_siew\_ruth@schools.gov.sg](mailto:tan_wee_siew_ruth@schools.gov.sg) |
-| Mr Chang Hiang Heng (ICT Manager)  | [chang\_hiang\_heng@schools.gov.sg](mailto:chang_hiang_heng@schools.gov.sg) |
-| Mr Choo Han Yang (DE) | [choo.han.yang@ncs.com.sg](mailto:choo.han.yang@ncs.com.sg) |
-| Ms Yuvannesha Raj (DE)  | [yr.raju.durai@ncs.com.sg](mailto:yr.raju.durai@ncs.com.sg) |
-| Mdm Ng Yen Ling (Librarian) | [YenLing.Ng@staff.spydus.com.sg](mailto:YenLing.Ng@staff.spydus.com.sg) |
-
 
 ##### **School Admin Team**
 
