@@ -10,7 +10,7 @@ third_nav_title: Staff (Primary)
 | Class | Form Teachers | Co-Form Teachers
 | --- | --- | --- |
 | 1C | [Rebecca Lim](mailto:lim_mei_li@schools.gov.sg) | [Lee Ling Ling](mailto:lee_ling_ling_a@schools.gov.sg) |
-| 1F | [Candy Gan](mailto:gan_xin_lin_candy@schools.gov.sg) | [Chua Keng Wah](mailto:chua_keng_wah@schools.gov.sg) |
+| 1F | [Candy Gan](mailto:gan_xin_lin_candy@schools.gov.sg) | [Teng Mui Kim](mailto:Teng_Mui_Kim@schools.gov.sg) |
 | 1G | [Lee Hwee Ing](mailto:lee_hwee_ing@schools.gov.sg) | [Jia Yangyang](mailto:Jia_Yangyang@moe.edu.sg) |
 | 1H | [Eileen Low](mailto:low_wei_ling_eileen@schools.gov.sg) | [Esme Loh](mailto:esme_foo@schools.gov.sg) |
 | 1J | [Suelynn Sing](mailto:tan_suelynn@schools.gov.sg) | [Jane Lee](mailto:Chua_jie_ying_jand@schools.gov.sg) |
