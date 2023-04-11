@@ -87,9 +87,9 @@ third_nav_title: Staff (Primary)
 | Staff Name | Email Address |
 | --- | --- |
 | Mdm Yong Sheue Mei (HOD Chinese) | [yong\_sheue\_mei@schools.gov.sg](mailto:yong_sheue_mei@schools.gov.sg) |
-| Miss Cindy Ng (HOD CCE) | [ng\_lai\_leng\_cindy@schools.gov.sg](mailto:ng_lai_leng_cindy@schools.gov.sg) |
-| Mdm Lee Ling Ling (HOD Special Projects) | [lee\_ling\_ling\_a@schools.gov.sg](mailto:lee_ling_ling_a@schools.gov.sg) |
-| Miss Lum Hui Min (Year Head UP) | [lum\_hui\_min@schools.gov.sg](mailto:lum_hui_min@schools.gov.sg) |
+| Ms Cindy Ng (HOD CCE) | [ng\_lai\_leng\_cindy@schools.gov.sg](mailto:ng_lai_leng_cindy@schools.gov.sg) |
+| Mdm Lee Ling Ling (HOD SAP) | [lee\_ling\_ling\_a@schools.gov.sg](mailto:lee_ling_ling_a@schools.gov.sg) |
+| Ms Lum Hui Min (YH UP) | [lum\_hui\_min@schools.gov.sg](mailto:lum_hui_min@schools.gov.sg) |
 | Mdm Ng Puay Huen (ST Chinese) | [ng\_puay\_huen@schools.gov.sg](mailto:ng_puay_huen@schools.gov.sg) |
 | Mdm Chan Hui Ming   | [chan\_hui\_ming@schools.gov.sg](mailto:chan_hui_ming@schools.gov.sg) |
 | Ms Dong Yuyi | [dong\_yuyi@schools.gov.sg](mailto:dong_yuyi@schools.gov.sg) |
