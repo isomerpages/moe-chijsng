@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Staff (Primary)
 ---
 ##### **Primary 1**
-###### Year Head - [Xuanie Chin](mailto:chin_yi_xuan@schools.gov.sg)
+###### Year Head - Ms [Xuanie Chin](mailto:chin_yi_xuan@schools.gov.sg)
 
 | Class | Form Teachers | Co-Form Teachers
 | --- | --- | --- |
@@ -18,12 +18,12 @@ third_nav_title: Staff (Primary)
 | 1W | Mrs [Balinda Salleh](mailto:balinda_salleh@schools.gov.sg) | Mdm [Tan Lay Peng](mailto:tan_lay_peng@schools.gov.sg) |
 
 ##### **Primary 2**
-###### Year Head - [Judy Koh](mailto:koh_cheng_tee@schools.gov.sg)
+###### Year Head - Ms [Judy Koh](mailto:koh_cheng_tee@schools.gov.sg)
 
 | Class | Form Teachers | Co-Form Teachers |
 | --- | --- |--- |
-| 2C | [Jade Ng](mailto:lim_swee_chern_jade@schools.gov.sg) | [Christina Loh](mailto:chee_mei_lan_christina@schools.gov.sg) |
-| 2F | [Catherine Boswell](mailto:boswell_catherine@schools.gov.sg) | [Wang Ying](mailto:wang_ying@schools.gov.sg) |
+| 2C | Mrs [Jade Ng](mailto:lim_swee_chern_jade@schools.gov.sg) | Mrs [Christina Loh](mailto:chee_mei_lan_christina@schools.gov.sg) |
+| 2F | Ms [Catherine Boswell](mailto:boswell_catherine@schools.gov.sg) | Mdm [Wang Ying](mailto:wang_ying@schools.gov.sg) |
 | 2G | [Gomathi](mailto:gomathi_a@schools.gov.sg) | [Marilyn Tan](mailto:teo_hong_ling_marilyn@schools.gov.sg) |
 | 2H | [He Fang](mailto:he_fang@schools.gov.sg) | [Chim Shu Min](mailto:chim_shu_min@schools.gov.sg) |
 | 2J | [Tan Choon Pei](mailto:tan_choon_pei@schools.gov.sg) | [Guo Jiawei](mailto:guo_jiawei@schools.gov.sg) |
