@@ -24,8 +24,8 @@ third_nav_title: Staff (Primary)
 | --- | --- |--- |
 | 2C | Mrs [Jade Ng](mailto:lim_swee_chern_jade@schools.gov.sg) | Mrs [Christina Loh](mailto:chee_mei_lan_christina@schools.gov.sg) |
 | 2F | Ms [Catherine Boswell](mailto:boswell_catherine@schools.gov.sg) | Mdm [Wang Ying](mailto:wang_ying@schools.gov.sg) |
-| 2G | [Gomathi](mailto:gomathi_a@schools.gov.sg) | [Marilyn Tan](mailto:teo_hong_ling_marilyn@schools.gov.sg) |
-| 2H | [He Fang](mailto:he_fang@schools.gov.sg) | [Chim Shu Min](mailto:chim_shu_min@schools.gov.sg) |
+| 2G | Mrs [Gomathi](mailto:gomathi_a@schools.gov.sg) | Mrs [Marilyn Tan](mailto:teo_hong_ling_marilyn@schools.gov.sg) |
+| 2H | Ms [He Fang](mailto:he_fang@schools.gov.sg) | [Chim Shu Min](mailto:chim_shu_min@schools.gov.sg) |
 | 2J | [Tan Choon Pei](mailto:tan_choon_pei@schools.gov.sg) | [Guo Jiawei](mailto:guo_jiawei@schools.gov.sg) |
 |  2P | [Angie Choong](mailto:chong_sou_foong@schools.gov.sg) | [Elizabeth Mohan](mailto:elizabeth_rathi_mohan@schools.gov.sg) |
 |  2W | [Christina Chan](mailto:tan_liang_hong_christina@schools.gov.sg) | [Ng Sock Ling](mailto:ng_sock_ling@schools.gov.sg) |
