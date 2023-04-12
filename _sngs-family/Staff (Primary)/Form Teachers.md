@@ -27,8 +27,8 @@ third_nav_title: Staff (Primary)
 | 2G | Mrs [Gomathi](mailto:gomathi_a@schools.gov.sg) | Mrs [Marilyn Tan](mailto:teo_hong_ling_marilyn@schools.gov.sg) |
 | 2H | Ms [He Fang](mailto:he_fang@schools.gov.sg) | Ms [Chim Shu Min](mailto:chim_shu_min@schools.gov.sg) |
 | 2J |Mdm [Tan Choon Pei](mailto:tan_choon_pei@schools.gov.sg) | Mrs [Guo Jiawei](mailto:guo_jiawei@schools.gov.sg) |
-|  2P | [Angie Choong](mailto:chong_sou_foong@schools.gov.sg) | [Elizabeth Mohan](mailto:elizabeth_rathi_mohan@schools.gov.sg) |
-|  2W | [Christina Chan](mailto:tan_liang_hong_christina@schools.gov.sg) | [Ng Sock Ling](mailto:ng_sock_ling@schools.gov.sg) |
+|  2P | Mrs [Angie Choong](mailto:chong_sou_foong@schools.gov.sg) | Ms [Elizabeth Mohan](mailto:elizabeth_rathi_mohan@schools.gov.sg) |
+|  2W | Mrs [Christina Chan](mailto:tan_liang_hong_christina@schools.gov.sg) | Ms [Ng Sock Ling](mailto:ng_sock_ling@schools.gov.sg) |
 
 ##### **Primary 3**
 ###### Year Head - [Agnes Lee](mailto:lee_ling_ling_agnes@schools.gov.sg)
