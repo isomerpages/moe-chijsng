@@ -36,8 +36,8 @@ third_nav_title: Staff (Primary)
 | Class | Form Teachers | Co-Form Teachers |
 | --- | --- | --- |
 | 3C | Mdm [Wong Pih Foung](mailto:wong_pih_foung@schools.gov.sg) | Ms [Chantel Cheong](mailto:cheong_wen_yee_chantel@schools.gov.sg) |
-| 3F | Mdm [Chia Yi Ling](mailto:chia_yi_ling@schools.gov.sg) | [Chan Hui Ming](mailto:chan_hui_ming@schools.gov.sg) |
-| 3G | [Patricia Koh](mailto:koh_yi_guan_patricia@schools.gov.sg) | [Grace Chen](mailto:chen_suhua@schools.gov.sg) |
+| 3F | Mdm [Chia Yi Ling](mailto:chia_yi_ling@schools.gov.sg) | Mdm [Chan Hui Ming](mailto:chan_hui_ming@schools.gov.sg) |
+| 3G | Ms [Patricia Koh](mailto:koh_yi_guan_patricia@schools.gov.sg) | Mdm [Grace Chen](mailto:chen_suhua@schools.gov.sg) |
 | 3H | [Lee Pei Ting](mailto:lee_pei_ting@schools.gov.sg) | [Lim Lee Koon](mailto:lim_lee_koon_a@schools.gov.sg) |
 | 3J | [Lee Hui Yi](mailto:lee_hui_yi_a@schools.gov.sg)[](mailto:lee_hui_yi_a@schools.gov.sg) | [Yap Yng Ling](mailto:yap_yng_ling@schools.gov.sg) |
 | 3P | [Elsa Zainudin](mailto:suelsa_zainudin@schools.gov.sg) | [Lui Yenn Kai](mailto:lui_yenn_kai_a@schools.gov.sg) |
