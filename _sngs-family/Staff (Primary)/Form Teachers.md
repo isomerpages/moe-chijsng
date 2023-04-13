@@ -40,7 +40,7 @@ third_nav_title: Staff (Primary)
 | 3G | Ms [Patricia Koh](mailto:koh_yi_guan_patricia@schools.gov.sg) | Mdm [Grace Chen](mailto:chen_suhua@schools.gov.sg) |
 | 3H | Mrs[Lee Pei Ting](mailto:lee_pei_ting@schools.gov.sg) | Mdm [Lim Lee Koon](mailto:lim_lee_koon_a@schools.gov.sg) |
 | 3J | Ms [Lee Hui Yi](mailto:lee_hui_yi_a@schools.gov.sg)[](mailto:lee_hui_yi_a@schools.gov.sg) | Mdm [Yap Yng Ling](mailto:yap_yng_ling@schools.gov.sg) |
-| 3P | Mdm [Elsa Zainudin](mailto:suelsa_zainudin@schools.gov.sg) | [Lui Yenn Kai](mailto:lui_yenn_kai_a@schools.gov.sg) |
+| 3P | Mdm [Elsa Zainudin](mailto:suelsa_zainudin@schools.gov.sg) | Mr [Lui Yenn Kai](mailto:lui_yenn_kai_a@schools.gov.sg) |
 
 ##### **Primary 4**
 ###### Year Head - Mdm [Noelle Lee](mailto:lee_meiting_noelle_francesca@schools.gov.sg)
