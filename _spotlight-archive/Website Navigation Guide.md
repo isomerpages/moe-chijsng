@@ -1,13 +1,8 @@
 ---
 title: Website Navigation Guide
-permalink: /announcements-and-spotlight/spotlight/website-navigation/
-date: 2023-03-27
-layout: post
+permalink: /spotlight-archive/websitenav/
 description: ""
-image: ""
 ---
-
-
 Dear visitor,
 
 Our school website has just been migrated to the ISOMER platform in Apr 2023.
