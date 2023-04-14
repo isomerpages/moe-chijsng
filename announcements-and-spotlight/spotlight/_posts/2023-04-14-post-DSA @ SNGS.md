@@ -14,7 +14,7 @@ CHIJ St Nicholas Girls’ School (SNGS) will be accepting students into Secondar
 
 The JIP by CHIJ SNGS is in partnership with Eunoia Junior College. Students will spend their first 4 years in CHIJ SNGS before progressing to Eunoia Junior College to complete the JIP by sitting for the GCE A-Levels Examination. 
 
-**B.	Applicants Not Studying in MOE Mainstream Primary Schools **
+**B.	Applicants Not Studying in MOE Mainstream Primary Schools**
 
 * Applicants who are not studying in MOE mainstream primary schools should apply online for a Registration Number via MOE DSA website in order to access the DSA portal. For more information, please refer to the MOE website: https://go.gov.sg/nmsdsa-sec-application.  
 
@@ -22,8 +22,10 @@ The JIP by CHIJ SNGS is in partnership with Eunoia Junior College. Students will
 
 * International students must take part and fulfil the requirements of the Admissions Exercise for International Students (AEIS) before they can be considered for admission to secondary school via DSA-Sec. For further information, please refer to the AEIS website: https://www.moe.gov.sg/international-students/aeis  
 
-C.	Overview of DSA-Sec Talent Areas
+**C.	Overview of DSA-Sec Talent Areas**
+
 Selection will consider candidates’ overall readiness to benefit from the JIP or O-Level Programme. Candidates are encouraged to indicate their preferred track, where applicable.
+
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the candidate’s area of talent.
 
 The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec.
