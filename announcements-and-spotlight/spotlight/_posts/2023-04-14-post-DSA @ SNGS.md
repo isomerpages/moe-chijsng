@@ -51,4 +51,9 @@ The selection criteria and process for the talent areas will be updated from ear
 * Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school (i.e. CHIJ SNGS) and programme, which is 4 years for the O-Level Programme and 6 years for the JIP (4 years in CHIJ SNGS and 2 years in EJC). They are expected to participate in the activities related to the talent area they are selected for from Year 1 to 4.
 * Successful applicants will NOT be allowed to participate in the Secondary 1 Posting Exercise to opt for secondary schools and will NOT be allowed to seek transfer to another school after the release of the PSLE results. They will be assured of a place in CHIJ SNGS so long as they are eligible for the Express course option based on their PSLE results.
 
+**E.	Enquiries about SNGS DSA-Secondary Exercise**
+
+For further enquiries pertaining to the DSA admissions process, please contact CHIJ SNGS at 63541839 (telephone) or email chijsng.DSA@gmail.com 
+
+
 *The information in this page is correct as of 13 Apr 2023*
