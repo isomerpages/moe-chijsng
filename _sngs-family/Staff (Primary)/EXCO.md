@@ -14,7 +14,7 @@ third_nav_title: Staff (Primary)
 | Ms Yeo Teck Woon | Vice Principal | [yeo\_teck\_woon@schools.gov.sg](mailto:yeo_teck_woon@schools.gov.sg) |
 | Mdm Amy Tan  | Vice Principal  | [tan\_lih\_lin@schools.gov.sg](mailto:%C2%A0tan_lih_lin@schools.gov.sg) |
 
-#####  **Heads of Departments**
+#####  **Head of Department**
 
 | Name | Designation | Email Addresses |
 | --- | --- | --- |
