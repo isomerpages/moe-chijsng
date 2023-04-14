@@ -41,11 +41,12 @@ third_nav_title: Staff (Primary)
 | Mdm Chin Lan Shiang | School Staff Developer | [chin_lan_shiang@schools.gov.sg](mailto:chin_lan_shiang@schools.gov.sg) |
 
 
+##### **Lead Teacher**
 
+| Name | Designation | Email Address |
+| -------- | -------- | -------- |
+| Mrs Phoebe Peer | LT CCE  | [lee_hui_lin_phoebe@schools.gov.sg](mailto:lee_hui_lin_phoebe@schools.gov.sg)  |
 
-
-
-	
 
 ##### **Level Head**
 
