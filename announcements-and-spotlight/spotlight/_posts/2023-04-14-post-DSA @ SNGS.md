@@ -45,7 +45,7 @@ The selection criteria and process for the talent areas will be updated from ear
 
 | Talent Area | Information |
 | -------- | -------- |
-| Bilingualism<br>中英双语 | Information in English<br>英文解说 |
+| Bilingualism<br>中英双语 | Information in English<br>英文解说<br><br>We are looking for linguistically talented students who are passionate to hone both English and Chinese language abilities and deepen their appreciation of the Western and Chinese cultures. Students should demonstrate critical thinking and oratorical competency in both languages. |
 | Text | Text |
 
 *The information in this page is correct as of 13 Apr 2023*
