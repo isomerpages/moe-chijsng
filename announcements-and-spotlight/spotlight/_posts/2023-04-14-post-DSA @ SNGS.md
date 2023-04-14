@@ -45,7 +45,7 @@ The selection criteria and process for the talent areas will be updated from ear
 
 | Talent Area | Information |
 | -------- | -------- |
-| Bilingualism<br>中英双语 | Information in English<br>英文解说<br><br>We are looking for linguistically talented students who are passionate to hone both English and Chinese language abilities and deepen their appreciation of the Western and Chinese cultures. Students should demonstrate critical thinking and oratorical competency in both languages. |
+| Bilingualism<br>中英双语 | Information in English<br>英文解说<br><br>We are looking for linguistically talented students who are passionate to hone both English and Chinese language abilities and deepen their appreciation of the Western and Chinese cultures. Students should demonstrate critical thinking and oratorical competency in both languages.<br><br>As a SAP school, we provide an immersive experience to nurture the DSA-Bilingualism students to become Singapore’s bilingual and bicultural talents. To continue to deepen their interests and abilities in Bilingualism, students have opportunities such as immersion trips to China and the USA, Global Classroom programmes with our sister US school as well as SAP activities such as the DJ programme, author-in-residence programme and bilingual debates, just to name a few. Students experience both breadth and depth in their language and cultural learning to deepen every student’s strengths and passions. |
 | Text | Text |
 
 *The information in this page is correct as of 13 Apr 2023*
