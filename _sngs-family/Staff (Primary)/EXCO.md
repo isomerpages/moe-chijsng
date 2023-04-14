@@ -27,7 +27,7 @@ third_nav_title: Staff (Primary)
 | Mr Ahmad Ibrahim | HOD ICT | [ahmad_ibrahim_a@schools.gov.sg](mailto:ahmad_ibrahim_a@schools.gov.sg) |
 | Mr Calvin Tay | HOD Pupil Development | [tay_ngiang_boon_calvin@schools.gov.sg](mailto:tay_ngiang_boon_calvin@schools.gov.sg) |
 | Ms Cindy Ng Lai Leng | HOD CCE | [ng_lai_leng_cindy@schools.gov.sg](mailto:ng_lai_leng_cindy@schools.gov.sg) |
-| Ms Judy Koh | YH LP  | [koh_cheng_tee@schools.gov.sg](mailto:koh_cheng_tee@schools.gov.sg) |
+
 
 
 
