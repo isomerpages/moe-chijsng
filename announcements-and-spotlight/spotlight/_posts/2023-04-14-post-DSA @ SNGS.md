@@ -17,8 +17,8 @@ The JIP by CHIJ SNGS is in partnership with Eunoia Junior College. Students will
 **B.	Applicants Not Studying in MOE Mainstream Primary Schools **
 
 * Applicants who are not studying in MOE mainstream primary schools should apply online for a Registration Number via MOE DSA website in order to access the DSA portal. For more information, please refer to the MOE website: https://go.gov.sg/nmsdsa-sec-application.  
-* 
-* ●	All applicants should fulfil the age requirement for Secondary 1 admission in 2024
+
+* All applicants should fulfil the age requirement for Secondary 1 admission in 2024
 * o	Singapore Citizens or Permanent Residents must be born between 2 Jan 2007 and 1 Jan 2012
 * o	International Students (non-SC/PR) must be born between 2 Jan 2009 and 1 Jan 2012
 * 
