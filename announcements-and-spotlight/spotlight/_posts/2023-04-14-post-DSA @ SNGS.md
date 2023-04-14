@@ -20,9 +20,8 @@ The JIP by CHIJ SNGS is in partnership with Eunoia Junior College. Students will
 
 * All applicants should fulfil the age requirement for Secondary 1 admission in 2024: (a) Singapore Citizens or Permanent Residents must be born between 2 Jan 2007 and 1 Jan 2012; (b) International Students (non-SC/PR) must be born between 2 Jan 2009 and 1 Jan 2012
 
-* ●	International students must take part and fulfil the requirements of the Admissions Exercise for International Students (AEIS) before they can be considered for admission to secondary school via DSA-Sec.
-* ●	For further information, please refer to the AEIS website: https://www.moe.gov.sg/international-students/aeis  
-* 
+* International students must take part and fulfil the requirements of the Admissions Exercise for International Students (AEIS) before they can be considered for admission to secondary school via DSA-Sec. For further information, please refer to the AEIS website: https://www.moe.gov.sg/international-students/aeis  
+
 C.	Overview of DSA-Sec Talent Areas
 Selection will consider candidates’ overall readiness to benefit from the JIP or O-Level Programme. Candidates are encouraged to indicate their preferred track, where applicable.
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the candidate’s area of talent.
