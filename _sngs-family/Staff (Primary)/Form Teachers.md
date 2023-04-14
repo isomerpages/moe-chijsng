@@ -61,9 +61,9 @@ third_nav_title: Staff (Primary)
 | --- | --- | --- |
 | 5C | Mdm [Lim Qi Ning](mailto:lim_qi_ning@schools.gov.sg) | Mdm [Chin Lan Shiang](mailto:chin_lan_shiang@schools.gov.sg) |
 | 5F | Mrs [Sheon Wee](mailto:lee_sze_yuin@schools.gov.sg) | Mr [Calvin Tay](mailto:tay_ngiang_boon_calvin@schools.gov.sg) |
-| 5G | [Denise Jung](mailto:jung_gee_ting@schools.gov.sg) | [Chong Fei Ming](mailto:chong_fei_ming@schools.gov.sg) |
-| 5H | [Ng Junyuan](mailto:ng_junyuan@schools.gov.sg) | [Cindy Ng](mailto:ng_lai_leng_cindy@schools.gov.sg) |
-| 5J | [Toh Poh Yen](mailto:toh_poh_yen@schools.gov.sg) | [Muhammad Azahar](mailto:muhammad_azahar_rosli@schools.gov.sg) |
+| 5G | Mdm [Denise Jung](mailto:jung_gee_ting@schools.gov.sg) | Mdm [Chong Fei Ming](mailto:chong_fei_ming@schools.gov.sg) |
+| 5H | Mr [Ng Junyuan](mailto:ng_junyuan@schools.gov.sg) | Ms [Cindy Ng](mailto:ng_lai_leng_cindy@schools.gov.sg) |
+| 5J | Mrs [Toh Poh Yen](mailto:toh_poh_yen@schools.gov.sg) | Mr [Muhammad Azahar](mailto:muhammad_azahar_rosli@schools.gov.sg) |
 | 5P | [Laura Lim](mailto:koh_kim_suat_laura@schools.gov.sg) | [Chay Kit See](mailto:chay_kit_see@schools.gov.sg) |
 
 ##### **Primary 6**
