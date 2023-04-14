@@ -2,4 +2,5 @@ collections:
   spotlight-archive:
     output: true
     order:
+      - Website Navigation Guide.md
       - DSA 2023.md
