@@ -133,8 +133,8 @@ third_nav_title: Staff (Primary)
 
 | Staff Name | Email Address |
 | -------- | -------- |
-| Mdm Nurazlina Binte Abdullah | Text     |
-| Text     | Text     |
+| Mdm Nurazlina Binte Abdullah | [nurazlina\_abdullah@schools.gov.sg](mailto:nurazlina_abdullah@schools.gov.sg) |
+| Ms Vathana d/o Sreemurugavel | Text     |
 
 
 
