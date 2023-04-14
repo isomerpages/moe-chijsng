@@ -31,7 +31,7 @@ third_nav_title: Staff (Primary)
 | Ms Agnes Lee Ling Ling | YH MP | [lee_ling_ling_agnes@schools.gov.sg](mailto:lee_ling_ling_agnes@schools.gov.sg) |
 | Ms Lum Hui Min | YH UP | [lum_hui_min@schools.gov.sg](mailto:lum_hui_min@schools.gov.sg) |
 | Mdm Chin Lan Shiang | School Staff Developer | [chin_lan_shiang@schools.gov.sg](mailto:chin_lan_shiang@schools.gov.sg) |
-| Mrs Phoebe Peer | LT CCE |[lee_hui_lin_phoebe@schools.gov.sg](mailto:lee_hui_lin_phoebe@schools.gov.sg) |
+
 
 
 ##### **School Staff Developer**
