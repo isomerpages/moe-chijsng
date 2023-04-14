@@ -71,8 +71,8 @@ third_nav_title: Staff (Primary)
 
 | Class | Form Teachers | Co-Form Teachers |
 | --- | --- | --- |
-|  6C | [Joaquim Chan](mailto:chan_tsze_min_joaquim@schools.gov.sg) | [Petrina Lim](mailto:tan_lay_beng_petrina@schools.gov.sg) |
-| 6F | [Justine Hum](mailto:choo_hui_kian@schools.gov.sg)[](mailto:lee_hui_yi_a@schools.gov.sg) | [Phoebe Peer](mailto:lee_hui_lin_phoebe@schools.gov.sg) |
+|  6C | Mdm [Joaquim Chan](mailto:chan_tsze_min_joaquim@schools.gov.sg) | Mrs [Petrina Lim](mailto:tan_lay_beng_petrina@schools.gov.sg) |
+| 6F | Mrs [Justine Hum](mailto:choo_hui_kian@schools.gov.sg)[](mailto:lee_hui_yi_a@schools.gov.sg) | Mrs [Phoebe Peer](mailto:lee_hui_lin_phoebe@schools.gov.sg) |
 |   6G  | [Dong Yuyi](mailto:dong_yuyi@schools.gov.sg) | [Sunnie Tang](mailto:tang_sunnie@schools.gov.sg) |
 |  6H | [Loh Shihan](mailto:loh_shihan@schools.gov.sg) | [Ho Yok Kum](mailto:ho_yok_kum@schools.gov.sg) / [Genevieve Chow](mailto:chow_wai_har_genevieve@schools.gov.sg) |
 | 6J | [Li Yan Zhen](mailto:li_yan_zhen@schools.gov.sg) | [Gina Chen](mailto:lim_wee_ping@schools.gov.sg) |
