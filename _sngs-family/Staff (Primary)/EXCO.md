@@ -35,7 +35,7 @@ third_nav_title: Staff (Primary)
 
   
 
-##### **Level Heads**
+##### **Level Head**
 
 | Name | Designation | Email Addresses |
 | --- | --- | --- |
@@ -44,7 +44,7 @@ third_nav_title: Staff (Primary)
 | Ms Brenda Wong | LH Science | [wong_pek_chin_brenda@schools.gov.sg](mailto:wong_pek_chin_brenda@schools.gov.sg) |
 
 
-##### **Subject Heads**
+##### **Subject Head**
 
 | Name | Designation | Email Addresses |
 | --- | --- | --- |
