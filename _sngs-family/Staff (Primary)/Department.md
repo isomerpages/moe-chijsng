@@ -129,7 +129,7 @@ third_nav_title: Staff (Primary)
 
 ##### **SEN Officer**
 
-| Staff Name | Email Address |
+| Staff Name |  Email Address |
 | -------- | -------- |
 | Mdm Nurazlina Binte Abdullah | [nurazlina\_abdullah@schools.gov.sg](mailto:nurazlina_abdullah@schools.gov.sg) |
 | Ms Vathana d/o Sreemurugavel | [vathana\_sreemurugavel@schools.gov.sg](mailto:vathana_sreemurugavel@schools.gov.sg) |
