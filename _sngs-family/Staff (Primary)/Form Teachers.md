@@ -76,4 +76,4 @@ third_nav_title: Staff (Primary)
 |   6G  | Ms [Dong Yuyi](mailto:dong_yuyi@schools.gov.sg) | Mdm [Sunnie Tang](mailto:tang_sunnie@schools.gov.sg) |
 |  6H | Ms [Loh Shihan](mailto:loh_shihan@schools.gov.sg) | Dr [Ho Yok Kum](mailto:ho_yok_kum@schools.gov.sg) / Ms [Genevieve Chow](mailto:chow_wai_har_genevieve@schools.gov.sg) |
 | 6J | Mdm [Li Yan Zhen](mailto:li_yan_zhen@schools.gov.sg) | Mrs [Gina Chen](mailto:lim_wee_ping@schools.gov.sg) |
-| 6P | [Carolyn Tan](mailto:wu_ruixian_carolyn@schools.gov.sg) | [Yong Sheue Mei](mailto:yong_sheue_mei@schools.gov.sg) |
+| 6P | Mrs [Carolyn Tan](mailto:wu_ruixian_carolyn@schools.gov.sg) | Mdm [Yong Sheue Mei](mailto:yong_sheue_mei@schools.gov.sg) |
