@@ -16,9 +16,9 @@ The JIP by CHIJ SNGS is in partnership with Eunoia Junior College. Students will
 
 **B.	Applicants Not Studying in MOE Mainstream Primary Schools**
 
-* Applicants who are not studying in MOE mainstream primary schools should apply online for a Registration Number via MOE DSA website in order to access the DSA portal. For more information, please refer to the MOE website: https://go.gov.sg/nmsdsa-sec-application.
+* Applicants who are not studying in MOE mainstream primary schools should apply online for a Registration Number via MOE DSA website in order to access the DSA portal. For more information, please refer to the MOE website: [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application).
 * All applicants should fulfil the age requirement for Secondary 1 admission in 2024: (a) Singapore Citizens or Permanent Residents must be born between 2 Jan 2007 and 1 Jan 2012; (b) International Students (non-SC/PR) must be born between 2 Jan 2009 and 1 Jan 2012.
-* International students must take part and fulfil the requirements of the Admissions Exercise for International Students (AEIS) before they can be considered for admission to secondary school via DSA-Sec. For further information, please refer to the AEIS website: https://www.moe.gov.sg/international-students/aeis  
+* International students must take part and fulfil the requirements of the Admissions Exercise for International Students (AEIS) before they can be considered for admission to secondary school via DSA-Sec. For further information, please refer to the AEIS website: [https://www.moe.gov.sg/international-students/aeis](https://www.moe.gov.sg/international-students/aeis).  
 
 **C.	Overview of DSA-Sec Talent Areas**
 
