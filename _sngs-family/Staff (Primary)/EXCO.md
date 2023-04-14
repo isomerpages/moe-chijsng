@@ -29,11 +29,6 @@ third_nav_title: Staff (Primary)
 | Ms Cindy Ng Lai Leng | HOD CCE | [ng_lai_leng_cindy@schools.gov.sg](mailto:ng_lai_leng_cindy@schools.gov.sg) |
 
 
-
-
-
-
-
 ##### **School Staff Developer**
 
 | Name | Designation | Email Address |
@@ -71,7 +66,6 @@ third_nav_title: Staff (Primary)
 
 | Name | Designation | Email Addresses |
 | --- | --- | --- |
-| Mdm Noelle Lee  | AYH MP | [lee\_meiting\_noelle\_francesca@schools.gov.sg](mailto:lee_meiting_noelle_francesca@schools.gov.sg) |
 | Mdm Grace Chen | SH Student Leadership | [chen\_suhua@schools.gov.sg](mailto:chen_suhua@schools.gov.sg) |
 | Mrs Marilyn Tan | SH PE | [teo\_hong\_ling\_marilyn@schools.gov.sg](mailto:teo_hong_ling_marilyn@schools.gov.sg) |
 | Mr Muhammad Azahar  | SH ICT  | [muhammad\_azahar\_rosli@schools.gov.sg](mailto:muhammad_azahar_rosli@schools.gov.sg)  |
