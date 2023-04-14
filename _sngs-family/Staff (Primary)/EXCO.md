@@ -55,7 +55,7 @@ third_nav_title: Staff (Primary)
 
 ##### **Level Head**
 
-| Name | Designation | Email Addresses |
+| Name | Designation |   Email Addresses |
 | --- | --- | --- |
 | Ms Genevieve Chow  | LH English | [chow_wai_har_genevieve@schools.gov.sg](mailto:chow_wai_har_genevieve@schools.gov.sg) |
 | Mrs Justine Hum | LH Math  | [choo_hui_kian@schools.gov.sg](mailto:choo_hui_kian@schools.gov.sg) |
