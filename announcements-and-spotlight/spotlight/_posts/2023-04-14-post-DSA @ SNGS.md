@@ -29,3 +29,14 @@ Selection will consider candidates’ overall readiness to benefit from the JIP 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the candidate’s area of talent.
 
 The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec.
+
+##### **DSA Talent Areas for O-Level Programme <u>and</u> 6-year JIP**
+
+
+
+| Talent Area | Information |
+| -------- | -------- |
+| **Sports and Games**   | We are looking for highly motivated and disciplined students. They should demonstrate a high level of aptitude in their respective sport. Students should be sporting role models who demonstrate passion, grit, resilience, and discipline to challenge themselves and strive for excellence.<br><br>Our Sports and Games CCAs have a strong team of teachers and coaches who are dedicated in ensuring the best training experience for our students. Students can look forward to participating in competitions for sporting excellence and leadership development opportunities. We promote a strong culture of camaraderie and team spirit in developing our students to be sportswomen of strong moral character.     |
+
+
+*The information in this page is correct as of 13 Apr 2023*
