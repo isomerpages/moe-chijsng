@@ -55,4 +55,4 @@ The selection criteria and process for the talent areas will be updated from ear
 
 For further enquiries pertaining to the DSA admissions process, please contact CHIJ SNGS at 63541839 (telephone) or email [chijsng.DSA@moe.edu.sg](mailto:chijsng.DSA@moe.edu.sg)
 
-*The information in this page is correct as of 13 Apr 2023*
+*The information on this page is correct as of 13 Apr 2023.*
