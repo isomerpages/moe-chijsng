@@ -47,7 +47,7 @@ third_nav_title: Staff (Primary)
 
 | Class | Form Teachers | Co-Form Teachers |
 | --- | --- | --- |
-| 4C | [Tan Lee Ching](mailto:tan_lee_ching@schools.gov.sg) | [Pung Chuan Ting](mailto:pung_chuan_ting@schools.gov.sg) / [Brenda Wong](mailto:wong_pek_chin_brenda@schools.gov.sg) |
+| 4C | Mrs [Tan Lee Ching](mailto:tan_lee_ching@schools.gov.sg) | Ms [Pung Chuan Ting](mailto:pung_chuan_ting@schools.gov.sg) / Ms [Brenda Wong](mailto:wong_pek_chin_brenda@schools.gov.sg) |
 | 4F | [Cheryl Tay](mailto:kang_liwen_cheryl_ann@schools.gov.sg) | [Ahmad Ibrahim](mailto:ahmad_ibrahim_a@schools.gov.sg) |
 | 4G | [Queenie Leong](mailto:chua_bor_chwen_queenie@schools.gov.sg) | [Toh Wan Ting](mailto:chiam_wan_ting@schools.gov.sg) |
 | 4H | [Daniel Chng](mailto:chng_chye_thiam@schools.gov.sg) | [Nisha Ling](mailto:nisha_keshyiap_ram_putre@schools.gov.sg) |
