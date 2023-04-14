@@ -57,7 +57,7 @@ third_nav_title: Staff (Primary)
 | -------- | -------- | -------- |
 | Ms Judy Koh  | YH LP  | [koh_cheng_tee@schools.gov.sg](mailto:koh_cheng_tee@schools.gov.sg) |
 | Ms Agnes Lee Ling Ling  | YH MP  | [lee_ling_ling_agnes@schools.gov.sg](mailto:lee_ling_ling_agnes@schools.gov.sg)  |
-| Text     | Text     | Text     |
+| Ms Lum Hui Min  | YH UP  | [lum_hui_min@schools.gov.sg](mailto:lum_hui_min@schools.gov.sg)  |
 | Text     | Text     | Text     |
 
 
