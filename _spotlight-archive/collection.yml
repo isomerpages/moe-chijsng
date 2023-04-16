@@ -2,4 +2,5 @@ collections:
   spotlight-archive:
     output: true
     order:
+      - Want to join SNGS via DSA? Click here to find out more!.md
       - Website Navigation Guide.md
