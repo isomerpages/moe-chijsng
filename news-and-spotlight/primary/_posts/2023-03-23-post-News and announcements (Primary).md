@@ -1,6 +1,6 @@
 ---
 title: News and announcements (Primary)
-permalink: /features/primary-news/news/
+permalink: /news-and-spotlight/spotlight/news-pri/
 date: 2023-03-23
 layout: post
 description: ""

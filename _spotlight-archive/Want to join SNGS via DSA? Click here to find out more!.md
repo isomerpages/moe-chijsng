@@ -1,10 +1,7 @@
 ---
 title: Want to join SNGS via DSA? Click here to find out more!
-permalink: /announcements-and-spotlight/spotlight/dsasngs/
-date: 2023-04-14
-layout: post
+permalink: /spotlight-archive/sngsdsa2023/
 description: ""
-image: ""
 ---
 #### **Admission to Secondary 1 / Year 1 in CHIJ St Nicholas Girls’ School (AY 2024)**
 
