@@ -19,3 +19,5 @@ Come find out more about our school culture, take part in campus tours led by st
 |10.20 am - 10.50 am | Guided Tour 2 |
 | 11.00 am - 12.00 pm | Principal's Talk, General DSA Information and Q&amp;A (Session 2) |
 |12.15 pm - 12.45 pm | Guided Tour 3 |
+
+[Click here](https://go.gov.sg/stnicksopenhouse) to find out more and register for the Principal's Talk and Guided Tour.
