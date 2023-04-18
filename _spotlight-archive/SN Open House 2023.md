@@ -4,7 +4,7 @@ permalink: /spotlight-archive/sn-open-house-2023/
 description: ""
 ---
 #### **St Nicks Open House 2023**
-**6 May (Sat), 8.30am-1.00pm**
+**6 May (Sat), 8.30 am - 1.00 pm**
 
 ![SN Open House 2023](/images/Spotlight/open%20house%20poster%20final%202023.jpg)<br>
 A warm welcome to St Nicks!<br> 
