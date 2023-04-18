@@ -17,5 +17,5 @@ sections:
           url: https://master.d2kyho38yqhcge.amplifyapp.com
   - resources:
       subtitle: News & Spotlight
-      button: view all
+      button: view all spotlight & news
 ---
