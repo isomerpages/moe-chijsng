@@ -6,6 +6,7 @@ description: ""
 #### **St Nicks Open House 2023**
 **6 May (Sat), 8.30am-1.00pm**
 
+![SN Open House 2023](/images/Spotlight/open%20house%20poster%20final%202023.jpg)<br>
 A warm welcome to St Nicks!<br> 
 Come find out more about our school culture, take part in campus tours led by student councillors, and meet our Principal and 姐妹们!<br>
 
