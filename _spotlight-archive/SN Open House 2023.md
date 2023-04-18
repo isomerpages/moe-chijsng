@@ -21,3 +21,7 @@ Come find out more about our school culture, take part in campus tours led by st
 |12.15 pm - 12.45 pm | Guided Tour 3 |
 
 [Click here](https://go.gov.sg/stnicksopenhouse) to find out more and register for the Principal's Talk and Guided Tour.
+
+**Arriving at St Nicks:**<br>
+* Gates 1 - 3 will be open during the Open House; transport and parking options can be found [here](https://www.chijstnicholasgirls.moe.edu.sg/about-us/contact-information/).
+* Visitors who are driving can park at the HDB carparks beside our school (Ang Mo Kio St 13 - opp Gate 1 or Ang Mo Kio Ave 4 - beside Gate 3).
