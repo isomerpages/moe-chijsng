@@ -21,6 +21,7 @@ third_nav_title: Staff (Primary)
 | Ms Chantel Cheong  | [cheong\_wen\_yee\_chantel@schools.gov.sg](mailto:cheong_wen_yee_chantel@schools.gov.sg)  |
 | Mrs Chay Jiawei | [guo\_jiawei@schools.gov.sg](mailto:guo_jiawei@schools.gov.sg) |
 | Mdm Chay Kit See | [chay\_kit_seei@schools.gov.sg](mailto:chay_kit_see@schools.gov.sg) |
+| Mrs Chew Lee Ching | [tan\_lee\_ching@schools.gov.sg](mailto:tan_lee_ching@schools.gov.sg) |
 | Mdm Chia Yi Ling  | [chia\_yi\_ling\_chantel@schools.gov.sg](mailto:chia_yi_ling@schools.gov.sg)  |
 | Ms Chim Shu Min  | [chim\_shu\_min@schools.gov.sg](mailto:chim_shu_yee_min@schools.gov.sg)  |
 | Ms Elizabeth Rathi Mohan  | [elizabeth\_rathi\_mohan@schools.gov.sg](mailto:elizabeth_rathi_mohan@schools.gov.sg)  |
@@ -34,7 +35,7 @@ third_nav_title: Staff (Primary)
 | Mdm Suelsa Zainudin | [suelsa\_zainudin@schools.gov.sg](mailto:suelsa_zainudin@schools.gov.sg) |
 | Mrs Suelynn Sing | [tan\_suelynn@schools.gov.sg](mailto:tan_suelynn@schools.gov.sg) |
 | Ms Susan Gan  | [gan\_woon\_ee\_susan@schools.gov.sg](mailto:gan_woon_ee_susan@schools.gov.sg)  |
-| Mrs Chew Lee Ching | [tan\_lee\_ching@schools.gov.sg](mailto:tan_lee_ching@schools.gov.sg) |
+
 
 
 ##### **Mathematics**
