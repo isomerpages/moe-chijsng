@@ -20,7 +20,7 @@ third_nav_title: Staff (Primary)
 | Mdm Chay Kit See (CAJT) | [chay\_kit_seei@schools.gov.sg](mailto:chay_kit_see@schools.gov.sg) |
 | Mdm Chia Yi Ling  | [chia\_yi\_ling\_chantel@schools.gov.sg](mailto:chia_yi_ling@schools.gov.sg)  |
 | Ms Chim Shu Min  | [chim\_shu\_min@schools.gov.sg](mailto:chim_shu_yee_min@schools.gov.sg)  |
-| Miss Elizabeth Rathi Mohan  | [elizabeth\_rathi\_mohan@schools.gov.sg](mailto:elizabeth_rathi_mohan@schools.gov.sg)  |
+| Ms Elizabeth Rathi Mohan  | [elizabeth\_rathi\_mohan@schools.gov.sg](mailto:elizabeth_rathi_mohan@schools.gov.sg)  |
 | Mrs Esme Loh | [esme\_foo@schools.gov.sg](mailto:esme_foo@schools.gov.sg) |
 | Mdm Frances Goh Pih Chee  | [frances\_goh\_pih\_chee@schools.gov.sg](mailto:frances_goh_pih_chee@schools.gov.sg) |
 | Mrs Gomathi Chakz | [gomathi\_a@schools.gov.sg](mailto:gomathi_a@schools.gov.sg) |
