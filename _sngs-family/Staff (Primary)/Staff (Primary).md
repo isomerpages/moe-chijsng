@@ -9,7 +9,7 @@ third_nav_title: Staff (Primary)
 | Staff Name | Email Address |
 | --- | --- |
 | Mdm Chong Fei Ming (HOD English) | [chong\_fei\_ming@schools.gov.sg](mailto:chong_fei_ming@schools.gov.sg) |
-| Miss Genevieve Chow (LH English) | [chow\_wai\_har\_genevieve@schools.gov.sg](mailto:chow_wai_har_genevieve@schools.gov.sg) |
+| Ms Genevieve Chow (LH English) | [chow\_wai\_har\_genevieve@schools.gov.sg](mailto:chow_wai_har_genevieve@schools.gov.sg) |
 | Mr Ahmad Ibrahim (HOD ICT) | [ahmad\_ibrahim\_a@schools.gov.sg](mailto:ahmad_ibrahim_a@schools.gov.sg) |
 | Mrs Balinda Sudin | [balinda\_salleh@schools.gov.sg](mailto:balinda_salleh@schools.gov.sg) |
 | Mr Calvin Tay (HOD Pupil Development) | [tay\_ngiang\_boon\_calvin@schools.gov.sg](mailto:tay_ngiang_boon_calvin@schools.gov.sg)  |
