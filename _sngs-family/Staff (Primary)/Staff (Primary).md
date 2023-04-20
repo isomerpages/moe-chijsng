@@ -55,22 +55,10 @@ third_nav_title: Staff (Primary)
 | Mdm Eunice Lim  | [eunice\_lim\_siew\_boon@schools.gov.sg](mailto:eunice_lim_siew_boon@schools.gov.sg) |
 | Ms Loh Shihan | [loh\_shihan@schools.gov.sg](mailto:loh_shihan@schools.gov.sg) |
 | Mrs Lucy Tan | [tan\_lucy@schools.gov.sg](mailto:tan_lucy@schools.gov.sg) |
-
-
-
-| Mdm Toh Poh Yen  | [toh\_poh\_yen@schools.gov.sg](mailto:toh_poh_yen@schools.gov.sg) |
-
-
-
-
+| Mr Ng Junyuan  | [ng\_junyuan@schools.gov.sg](mailto:ng_junyuan@schools.gov.sg) |
 | Ms Rebecca Lim | [lim\_mei\_li@schools.gov.sg](mailto:lim_mei_li@schools.gov.sg) |
 | Mrs Sheon Wee  | [lee\_sze\_yuin@schools.gov.sg](mailto:lee_sze_yuin@schools.gov.sg) |
-| Mr Ng Junyuan  | [ng\_junyuan@schools.gov.sg](mailto:ng_junyuan@schools.gov.sg) |
-
-
-
-
-
+| Mdm Toh Poh Yen  | [toh\_poh\_yen@schools.gov.sg](mailto:toh_poh_yen@schools.gov.sg) |
 
 
 ##### **Science**
