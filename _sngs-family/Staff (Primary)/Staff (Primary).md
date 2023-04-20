@@ -1,5 +1,5 @@
 ---
-title: Department
+title: Staff (Primary)
 permalink: /sngs-family/staff-primary/department/
 description: ""
 third_nav_title: Staff (Primary)
@@ -9,18 +9,18 @@ third_nav_title: Staff (Primary)
 | Staff Name | Email Address |
 | --- | --- |
 | Mdm Chong Fei Ming (HOD English) | [chong\_fei\_ming@schools.gov.sg](mailto:chong_fei_ming@schools.gov.sg) |
-| Miss Genevieve Chow (LH English) | [chow\_wai\_har\_genevieve@schools.gov.sg](mailto:chow_wai_har_genevieve@schools.gov.sg) |
+| Ms Genevieve Chow (LH English) | [chow\_wai\_har\_genevieve@schools.gov.sg](mailto:chow_wai_har_genevieve@schools.gov.sg) |
 | Mr Ahmad Ibrahim (HOD ICT) | [ahmad\_ibrahim\_a@schools.gov.sg](mailto:ahmad_ibrahim_a@schools.gov.sg) |
 | Mrs Balinda Sudin | [balinda\_salleh@schools.gov.sg](mailto:balinda_salleh@schools.gov.sg) |
 | Mr Calvin Tay (HOD Pupil Development) | [tay\_ngiang\_boon\_calvin@schools.gov.sg](mailto:tay_ngiang_boon_calvin@schools.gov.sg)  |
-| Miss Candy Gan | [gan\_xin\_lin\_candy@schools.gov.sg](mailto:gan_xin_lin_candy@schools.gov.sg) |
+| Ms Candy Gan | [gan\_xin\_lin\_candy@schools.gov.sg](mailto:gan_xin_lin_candy@schools.gov.sg) |
 | Ms Catherine Boswell  | [boswell\_catherine@schools.gov.sg](mailto:boswell_catherine@schools.gov.sg) 
 | Ms Chantel Cheong  | [cheong\_wen\_yee\_chantel@schools.gov.sg](mailto:cheong_wen_yee_chantel@schools.gov.sg)  |
 | Mrs Chay Jiawei | [guo\_jiawei@schools.gov.sg](mailto:guo_jiawei@schools.gov.sg) |
-| Mdm Chay Kit See (CAJT) | [chay\_kit_seei@schools.gov.sg](mailto:chay_kit_see@schools.gov.sg) |
+| Mdm Chay Kit See | [chay\_kit_seei@schools.gov.sg](mailto:chay_kit_see@schools.gov.sg) |
 | Mdm Chia Yi Ling  | [chia\_yi\_ling\_chantel@schools.gov.sg](mailto:chia_yi_ling@schools.gov.sg)  |
-| Misss Chim Shu Min  | [chim\_shu\_min@schools.gov.sg](mailto:chim_shu_yee_min@schools.gov.sg)  |
-| Miss Elizabeth Rathi Mohan  | [elizabeth\_rathi\_mohan@schools.gov.sg](mailto:elizabeth_rathi_mohan@schools.gov.sg)  |
+| Ms Chim Shu Min  | [chim\_shu\_min@schools.gov.sg](mailto:chim_shu_yee_min@schools.gov.sg)  |
+| Ms Elizabeth Rathi Mohan  | [elizabeth\_rathi\_mohan@schools.gov.sg](mailto:elizabeth_rathi_mohan@schools.gov.sg)  |
 | Mrs Esme Loh | [esme\_foo@schools.gov.sg](mailto:esme_foo@schools.gov.sg) |
 | Mdm Frances Goh Pih Chee  | [frances\_goh\_pih\_chee@schools.gov.sg](mailto:frances_goh_pih_chee@schools.gov.sg) |
 | Mrs Gomathi Chakz | [gomathi\_a@schools.gov.sg](mailto:gomathi_a@schools.gov.sg) |
@@ -51,7 +51,7 @@ third_nav_title: Staff (Primary)
 | Mrs Angie Choong | [chong\_sou\_foong@schools.gov.sg](mailto:chong_sou_foong@schools.gov.sg) |
 | Mrs Carolyn Tan | [wu\_ruixian\_carolyn@schools.gov.sg](mailto:wu_ruixian_carolyn@schools.gov.sg) |
 | Ms Loh Shihan | [loh\_shihan@schools.gov.sg](mailto:loh_shihan@schools.gov.sg) |
-| Miss Rebecca Lim | [lim\_mei\_li@schools.gov.sg](mailto:lim_mei_li@schools.gov.sg) |
+| Ms Rebecca Lim | [lim\_mei\_li@schools.gov.sg](mailto:lim_mei_li@schools.gov.sg) |
 | Mrs Sheon Wee  | [lee\_sze\_yuin@schools.gov.sg](mailto:lee_sze_yuin@schools.gov.sg) |
 | Mr Ng Junyuan  | [ng\_junyuan@schools.gov.sg](mailto:ng_junyuan@schools.gov.sg) |
 | Mrs Lucy Tan | [tan\_lucy@schools.gov.sg](mailto:tan_lucy@schools.gov.sg) |
@@ -127,6 +127,14 @@ third_nav_title: Staff (Primary)
 | Ms Lee Hui Yi  | [lee\_hui\_yi\_a@schools.gov.sg](mailto:lee_hui_yi_a@schools.gov.sg) |
 | Mrs Ruth Quek  | [tan\_wee\_siew\_ruth@schools.gov.sg](mailto:tan_wee_siew_ruth@schools.gov.sg) |
 
+
+##### **Senior School Counsellor**
+
+| Staff Name |  Email Address |
+| -------- | -------- |
+| Mdm Mary Manimuthu | [mary\_manimuthu@schools.gov.sg](mailto:mary_manimuthu@schools.gov.sg) |
+
+
 ##### **SEN Officer**
 
 | Staff Name |  Email Address |
@@ -142,4 +150,4 @@ third_nav_title: Staff (Primary)
 | Ms Celeste Goh   | Administration Manager  | [celeste\_goh@schools.gov.sg](mailto:celeste_goh@schools.gov.sg)|
 | Mr Ng Kim Kheng | Operations Manager | [ng\_kim\_kheng@schools.gov.sg](mailto:ng_kim_kheng@schools.gov.sg) |
 | Mr Chang Hiang Heng | ICT Manager | [chang\_hiang\_heng@schools.gov.sg](mailto:chang_hiang_heng@schools.gov.sg) |
-| Mdm Mary Manimuthu | Senior School Counsellor | [mary\_manimuthu@schools.gov.sg](mailto:mary_manimuthu@schools.gov.sg) |
+
