@@ -47,17 +47,23 @@ third_nav_title: Staff (Primary)
 | Mdm Chin Lan Shiang (SSD) | [chin\_lan\_shiang@schools.gov.sg](mailto:chin_lan_shiang@schools.gov.sg) |
 | Mrs Rachel Tan (ST Math) | [lee\_kim\_lin\_rachel@schools.gov.sg](mailto:lee_kim_lin_rachel@schools.gov.sg) |
 | Ms Juay Chiew Joo (AYH UP Int)  | [juay\_chiew\_joo@schools.gov.sg](mailto:juay_chiew_joo@schools.gov.sg) |
-| Mdm Toh Poh Yen  | [toh\_poh\_yen@schools.gov.sg](mailto:toh_poh_yen@schools.gov.sg) |
-| Mrs Christina Chan  | [tan\_liang\_hong\_christina@schools.gov.sg](mailto:tan_liang_hong_christina@schools.gov.sg) |
 | Mrs Angie Choong | [chong\_sou\_foong@schools.gov.sg](mailto:chong_sou_foong@schools.gov.sg) |
 | Mrs Carolyn Tan | [wu\_ruixian\_carolyn@schools.gov.sg](mailto:wu_ruixian_carolyn@schools.gov.sg) |
+| Mrs Cheryl Tay  | [kang\_liwen\_cheryl\_ann@schools.gov.sg](mailto:kang_liwen_cheryl_ann@schools.gov.sg) |
+
+
+
+| Mdm Toh Poh Yen  | [toh\_poh\_yen@schools.gov.sg](mailto:toh_poh_yen@schools.gov.sg) |
+| Mrs Christina Chan  | [tan\_liang\_hong\_christina@schools.gov.sg](mailto:tan_liang_hong_christina@schools.gov.sg) |
+
+
 | Ms Loh Shihan | [loh\_shihan@schools.gov.sg](mailto:loh_shihan@schools.gov.sg) |
 | Ms Rebecca Lim | [lim\_mei\_li@schools.gov.sg](mailto:lim_mei_li@schools.gov.sg) |
 | Mrs Sheon Wee  | [lee\_sze\_yuin@schools.gov.sg](mailto:lee_sze_yuin@schools.gov.sg) |
 | Mr Ng Junyuan  | [ng\_junyuan@schools.gov.sg](mailto:ng_junyuan@schools.gov.sg) |
 | Mrs Lucy Tan | [tan\_lucy@schools.gov.sg](mailto:tan_lucy@schools.gov.sg) |
 | Mdm Eunice Lim  | [eunice\_lim\_siew\_boon@schools.gov.sg](mailto:eunice_lim_siew_boon@schools.gov.sg) |
-| Mrs Cheryl Tay  | [kang\_liwen\_cheryl\_ann@schools.gov.sg](mailto:kang_liwen_cheryl_ann@schools.gov.sg) |
+
 | Mdm Denise Jung  | [jung\_gee\_ting@schools.gov.sg](mailto:jung_gee_ting@schools.gov.sg) |
 
 
