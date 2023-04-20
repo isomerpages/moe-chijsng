@@ -127,6 +127,14 @@ third_nav_title: Staff (Primary)
 | Ms Lee Hui Yi  | [lee\_hui\_yi\_a@schools.gov.sg](mailto:lee_hui_yi_a@schools.gov.sg) |
 | Mrs Ruth Quek  | [tan\_wee\_siew\_ruth@schools.gov.sg](mailto:tan_wee_siew_ruth@schools.gov.sg) |
 
+
+##### **Senior School Counsellor**
+
+| Staff Name |  Email Address |
+| -------- | -------- |
+| Mdm Mary Manimuthu | [mary\_manimuthu@schools.gov.sg](mailto:mary_manimuthu@schools.gov.sg) |
+
+
 ##### **SEN Officer**
 
 | Staff Name |  Email Address |
@@ -142,4 +150,3 @@ third_nav_title: Staff (Primary)
 | Ms Celeste Goh   | Administration Manager  | [celeste\_goh@schools.gov.sg](mailto:celeste_goh@schools.gov.sg)|
 | Mr Ng Kim Kheng | Operations Manager | [ng\_kim\_kheng@schools.gov.sg](mailto:ng_kim_kheng@schools.gov.sg) |
 | Mr Chang Hiang Heng | ICT Manager | [chang\_hiang\_heng@schools.gov.sg](mailto:chang_hiang_heng@schools.gov.sg) |
-| Mdm Mary Manimuthu | Senior School Counsellor | [mary\_manimuthu@schools.gov.sg](mailto:mary_manimuthu@schools.gov.sg) |
