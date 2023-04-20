@@ -17,7 +17,7 @@ third_nav_title: Staff (Primary)
 | Ms Catherine Boswell  | [boswell\_catherine@schools.gov.sg](mailto:boswell_catherine@schools.gov.sg) 
 | Ms Chantel Cheong  | [cheong\_wen\_yee\_chantel@schools.gov.sg](mailto:cheong_wen_yee_chantel@schools.gov.sg)  |
 | Mrs Chay Jiawei | [guo\_jiawei@schools.gov.sg](mailto:guo_jiawei@schools.gov.sg) |
-| Mdm Chay Kit See (CAJT) | [chay\_kit_seei@schools.gov.sg](mailto:chay_kit_see@schools.gov.sg) |
+| Mdm Chay Kit See | [chay\_kit_seei@schools.gov.sg](mailto:chay_kit_see@schools.gov.sg) |
 | Mdm Chia Yi Ling  | [chia\_yi\_ling\_chantel@schools.gov.sg](mailto:chia_yi_ling@schools.gov.sg)  |
 | Ms Chim Shu Min  | [chim\_shu\_min@schools.gov.sg](mailto:chim_shu_yee_min@schools.gov.sg)  |
 | Ms Elizabeth Rathi Mohan  | [elizabeth\_rathi\_mohan@schools.gov.sg](mailto:elizabeth_rathi_mohan@schools.gov.sg)  |
