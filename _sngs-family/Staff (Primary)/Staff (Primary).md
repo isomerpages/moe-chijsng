@@ -52,6 +52,8 @@ third_nav_title: Staff (Primary)
 | Mrs Cheryl Tay  | [kang\_liwen\_cheryl\_ann@schools.gov.sg](mailto:kang_liwen_cheryl_ann@schools.gov.sg) |
 | Mrs Christina Chan  | [tan\_liang\_hong\_christina@schools.gov.sg](mailto:tan_liang_hong_christina@schools.gov.sg) |
 | Mdm Denise Jung  | [jung\_gee\_ting@schools.gov.sg](mailto:jung_gee_ting@schools.gov.sg) |
+| Mdm Eunice Lim  | [eunice\_lim\_siew\_boon@schools.gov.sg](mailto:eunice_lim_siew_boon@schools.gov.sg) |
+
 
 | Mdm Toh Poh Yen  | [toh\_poh\_yen@schools.gov.sg](mailto:toh_poh_yen@schools.gov.sg) |
 
@@ -62,7 +64,7 @@ third_nav_title: Staff (Primary)
 | Mrs Sheon Wee  | [lee\_sze\_yuin@schools.gov.sg](mailto:lee_sze_yuin@schools.gov.sg) |
 | Mr Ng Junyuan  | [ng\_junyuan@schools.gov.sg](mailto:ng_junyuan@schools.gov.sg) |
 | Mrs Lucy Tan | [tan\_lucy@schools.gov.sg](mailto:tan_lucy@schools.gov.sg) |
-| Mdm Eunice Lim  | [eunice\_lim\_siew\_boon@schools.gov.sg](mailto:eunice_lim_siew_boon@schools.gov.sg) |
+
 
 
 
