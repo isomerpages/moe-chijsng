@@ -13,7 +13,7 @@ third_nav_title: Staff (Primary)
 | Mr Ahmad Ibrahim (HOD ICT) | [ahmad\_ibrahim\_a@schools.gov.sg](mailto:ahmad_ibrahim_a@schools.gov.sg) |
 | Mrs Balinda Sudin | [balinda\_salleh@schools.gov.sg](mailto:balinda_salleh@schools.gov.sg) |
 | Mr Calvin Tay (HOD Pupil Development) | [tay\_ngiang\_boon\_calvin@schools.gov.sg](mailto:tay_ngiang_boon_calvin@schools.gov.sg)  |
-| Miss Candy Gan | [gan\_xin\_lin\_candy@schools.gov.sg](mailto:gan_xin_lin_candy@schools.gov.sg) |
+| Ms Candy Gan | [gan\_xin\_lin\_candy@schools.gov.sg](mailto:gan_xin_lin_candy@schools.gov.sg) |
 | Ms Catherine Boswell  | [boswell\_catherine@schools.gov.sg](mailto:boswell_catherine@schools.gov.sg) 
 | Ms Chantel Cheong  | [cheong\_wen\_yee\_chantel@schools.gov.sg](mailto:cheong_wen_yee_chantel@schools.gov.sg)  |
 | Mrs Chay Jiawei | [guo\_jiawei@schools.gov.sg](mailto:guo_jiawei@schools.gov.sg) |
