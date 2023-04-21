@@ -86,29 +86,30 @@ third_nav_title: Staff (Primary)
 | Staff Name | Email Address |
 | --- | --- |
 | Mdm Yong Sheue Mei (HOD Chinese) | [yong\_sheue\_mei@schools.gov.sg](mailto:yong_sheue_mei@schools.gov.sg) |
-| Ms Cindy Ng (HOD CCE) | [ng\_lai\_leng\_cindy@schools.gov.sg](mailto:ng_lai_leng_cindy@schools.gov.sg) |
 | Mdm Lee Ling Ling (HOD SAP) | [lee\_ling\_ling\_a@schools.gov.sg](mailto:lee_ling_ling_a@schools.gov.sg) |
-| Ms Lum Hui Min (YH UP) | [lum\_hui\_min@schools.gov.sg](mailto:lum_hui_min@schools.gov.sg) |
 | Mdm Ng Puay Huen (ST Chinese) | [ng\_puay\_huen@schools.gov.sg](mailto:ng_puay_huen@schools.gov.sg) |
+| Ms Cindy Ng (HOD CCE) | [ng\_lai\_leng\_cindy@schools.gov.sg](mailto:ng_lai_leng_cindy@schools.gov.sg) |
+| Ms Lum Hui Min (YH UP) | [lum\_hui\_min@schools.gov.sg](mailto:lum_hui_min@schools.gov.sg) |
 | Mdm Chan Hui Ming   | [chan\_hui\_ming@schools.gov.sg](mailto:chan_hui_ming@schools.gov.sg) |
 | Ms Dong Yuyi | [dong\_yuyi@schools.gov.sg](mailto:dong_yuyi@schools.gov.sg) |
+| Dr Ho Yok Kum | [ho\_yok\_kum@schools.gov.sg](mailto:ho_yok_kum@schools.gov.sg) |
+| Mdm Jia Yangyang | [Jia\_Yangyang@schools.gov.sg](mailto:Jia_Yangyang@schools.gov.sg) |
 | Mdm Li Yan Zhen | [li\_yan\_zhen@schools.gov.sg](mailto:li_yan_zhen@schools.gov.sg) |
 | Mdm Lim Qi Ning | [lim\_qi\_ning@schools.gov.sg](mailto:lim_qi_ning@schools.gov.sg) |
 | Mdm Lim Siew Kheng  | [lim\_siew\_kheng@schools.gov.sg](mailto:lim_siew_kheng@schools.gov.sg) |
-| Ms Patricia Koh | [koh\_yi\_guan\_patricia@schools.gov.sg](mailto:koh_yi_guan_patricia@schools.gov.sg) |
-| Mdm Tan Choon Pei | [tan\_choon\_pei@schools.gov.sg](mailto:tan_choon_pei@schools.gov.sg) |
-| Mdm Wang Ying | [wang\_ying@schools.gov.sg](mailto:wang_ying@schools.gov.sg) |
-| Mdm Wong Pih Foung | [wong\_pih\_foung@schools.gov.sg](mailto:wong_pih_foung@schools.gov.sg) |
-| Dr Ho Yok Kum | [ho\_yok\_kum@schools.gov.sg](mailto:ho_yok_kum@schools.gov.sg) |
-| Mdm Tan Lay Peng  | [tan\_lay\_peng@schools.gov.sg](mailto:tan_lay_peng@schools.gov.sg) |
-| Mdm Ong Ee Hoon  | [ong\_ee\_hoon@schools.gov.sg](mailto:ong_ee_hoon@schools.gov.sg) |
 | Mdm Lim Lee Koon  | [lim\_lee\_koon\_a@schools.gov.sg](mailto:lim_lee_koon_a@schools.gov.sg) |
-| Mdm Jia Yangyang | [Jia\_Yangyang@schools.gov.sg](mailto:Jia_Yangyang@schools.gov.sg) |
 | Mdm Lim Geok Yen | [Lim\_Geok\_Yen@schools.gov.sg](mailto:Lim_Geok_Yen@schools.gov.sg) |
 | Ms Ng Sock Ling | [ng\_sock\_ling@schools.gov.sg](mailto:ng_sock_ling@schools.gov.sg) |
-| Mdm Tan-Lee Yoke Kew | [tan_lee\_yoke\_kew@schools.gov.sg](mailto:tan_lee_yoke_kew@schools.gov.sg) |
-| Mdm Wong Soo Mei | [wong\_soo\_mei@schools.gov.sg](mailto:wong_soo_mei_a@schools.gov.sg) |
+| Mdm Ong Ee Hoon  | [ong\_ee\_hoon@schools.gov.sg](mailto:ong_ee_hoon@schools.gov.sg) |
+| Ms Patricia Koh | [koh\_yi\_guan\_patricia@schools.gov.sg](mailto:koh_yi_guan_patricia@schools.gov.sg) |
+| Mdm Tan Choon Pei | [tan\_choon\_pei@schools.gov.sg](mailto:tan_choon_pei@schools.gov.sg) |
+| Mdm Tan Lay Peng  | [tan\_lay\_peng@schools.gov.sg](mailto:tan_lay_peng@schools.gov.sg) |
 | Mdm Teng Mui Kim | [teng\_mui\_kim@schools.gov.sg](mailto:teng_mui_kim@schools.gov.sg) |
+| Mdm Tan-Lee Yoke Kew | [tan_lee\_yoke\_kew@schools.gov.sg](mailto:tan_lee_yoke_kew@schools.gov.sg) |
+| Mdm Wang Ying | [wang\_ying@schools.gov.sg](mailto:wang_ying@schools.gov.sg) |
+| Mdm Wong Pih Foung | [wong\_pih\_foung@schools.gov.sg](mailto:wong_pih_foung@schools.gov.sg) |
+| Mdm Wong Soo Mei | [wong\_soo\_mei@schools.gov.sg](mailto:wong_soo_mei_a@schools.gov.sg) |
+
 
 
 ##### **PE & Aesthetics**
