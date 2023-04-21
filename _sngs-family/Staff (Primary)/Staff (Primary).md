@@ -12,9 +12,9 @@ third_nav_title: Staff (Primary)
 | Ms Genevieve Chow (LH English) | [chow\_wai\_har\_genevieve@schools.gov.sg](mailto:chow_wai_har_genevieve@schools.gov.sg) |
 | Mr Ahmad Ibrahim (HOD ICT) | [ahmad\_ibrahim\_a@schools.gov.sg](mailto:ahmad_ibrahim_a@schools.gov.sg) |
 | Mr Calvin Tay (HOD Pupil Development) | [tay\_ngiang\_boon\_calvin@schools.gov.sg](mailto:tay_ngiang_boon_calvin@schools.gov.sg)  |
-| Mrs Laura Lim (ST English)   | [koh\_kim\_suat\_laura@schools.gov.sg](mailto:koh_kim_suat_laura@schools.gov.sg) |
 | Mrs Phoebe Peer (LT CCE) | [lee\_hui\_lin\_phoebe@schools.gov.sg](mailto:lee_hui_lin_phoebe@schools.gov.sg) |
 | Mdm Noelle Lee (AYH MP) | [lee\_meiting\_noelle\_francesca@schools.gov.sg](mailto:lee_meiting_noelle_francesca@schools.gov.sg) |
+| Mrs Laura Lim (ST English)   | [koh\_kim\_suat\_laura@schools.gov.sg](mailto:koh_kim_suat_laura@schools.gov.sg) |
 | Mrs Balinda Sudin | [balinda\_salleh@schools.gov.sg](mailto:balinda_salleh@schools.gov.sg) |
 | Ms Candy Gan | [gan\_xin\_lin\_candy@schools.gov.sg](mailto:gan_xin_lin_candy@schools.gov.sg) |
 | Ms Catherine Boswell  | [boswell\_catherine@schools.gov.sg](mailto:boswell_catherine@schools.gov.sg) 
