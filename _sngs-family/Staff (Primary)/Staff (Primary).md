@@ -116,15 +116,17 @@ third_nav_title: Staff (Primary)
 | Staff Name | Email Address |
 | --- | --- |
 | Mrs Petrina Lim (HOD PE, CCA & Aesthetics) | [tan\_lay\_beng\_petrina@schools.gov.sg](mailto:tan_lay_beng_petrina@schools.gov.sg) |
-| Ms Agnes Lee Ling Ling (YH MP) | [lee\_ling\_ling\_agnes@schools.gov.sg](mailto:lee_ling_ling_agnes@schools.gov.sg) |
-| Ms Judy Isabel Koh (YH LP) | [koh\_cheng\_tee@schools.gov.sg](mailto:koh_cheng_tee@schools.gov.sg) |
 | Mrs Marilyn Tan (SH PE) | [teo\_hong\_ling\_marilyn@schools.gov.sg](mailto:teo_hong_ling_marilyn@schools.gov.sg) |
 | Mrs Christina Loh (ST PE) | [chee\_mei\_lan\_christina@schools.gov.sg](mailto:chee_mei_lan_christina@schools.gov.sg) |
+| Ms Agnes Lee Ling Ling (YH MP) | [lee\_ling\_ling\_agnes@schools.gov.sg](mailto:lee_ling_ling_agnes@schools.gov.sg) |
+| Ms Judy Isabel Koh (YH LP) | [koh\_cheng\_tee@schools.gov.sg](mailto:koh_cheng_tee@schools.gov.sg) |
 | Ms Xuanie Chin (AYH LP Int) | [chin\_yi\_xuan@schools.gov.sg](mailto:chin_yi_xuan@schools.gov.sg) |
+| Ms Eileen Low  | [low\_wei\_ling\_eileen@schools.gov.sg](mailto:low_wei_ling_eileen@schools.gov.sg) |
 | Ms He Fang | [he\_fang@schools.gov.sg](mailto:he_fang@schools.gov.sg) |
-| Mrs Toh Wan Ting  | [chiam\_wan\_ting@schools.gov.sg](mailto:chiam_wan_ting@schools.gov.sg) |
+| Mrs Jane Lee  | [chua\_jie\_ying\_jane@schools.gov.sg](mailto:chua_jie_ying_jane@schools.gov.sg) |
 | Ms Lee Hui Yi  | [lee\_hui\_yi\_a@schools.gov.sg](mailto:lee_hui_yi_a@schools.gov.sg) |
 | Mrs Ruth Quek  | [tan\_wee\_siew\_ruth@schools.gov.sg](mailto:tan_wee_siew_ruth@schools.gov.sg) |
+| Mrs Toh Wan Ting  | [chiam\_wan\_ting@schools.gov.sg](mailto:chiam_wan_ting@schools.gov.sg) |
 
 
 ##### **Senior School Counsellor**
