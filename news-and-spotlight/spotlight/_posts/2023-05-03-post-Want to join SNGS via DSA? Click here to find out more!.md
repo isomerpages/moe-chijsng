@@ -1,7 +1,7 @@
 ---
 title: Want to join SNGS via DSA? Click here to find out more!
 permalink: /news-and-spotlight/spotlight/sngsdsa2023/
-date: 2023-05-02
+date: 2023-05-03
 layout: post
 description: ""
 image: ""
@@ -10,7 +10,7 @@ image: ""
 
 **A.	Overview**
 
-CHIJ St Nicholas Girls’ School (SNGS) will be accepting students into Secondary 1 of our O-Level Programme and Year 1 of the Joint Integrated Programme (JIP) commencing in Academic Year (AY) 2024 via the 2023 Direct School Admission-Secondary (DSA-Sec) Exercise. 
+CHIJ St Nicholas Girls’ School (SNGS) will be accepting students into Secondary 1 of our Singapore-Cambridge Secondary Education Certificate Programme and Year 1 of the Joint Integrated Programme (JIP) commencing in Academic Year (AY) 2024 via the 2023 Direct School Admission-Secondary (DSA-Sec) Exercise. 
 
 The JIP by CHIJ SNGS is in partnership with Eunoia Junior College. Students will spend their first 4 years in CHIJ SNGS before progressing to Eunoia Junior College to complete the JIP by sitting for the GCE A-Levels Examination. 
 
@@ -22,13 +22,13 @@ The JIP by CHIJ SNGS is in partnership with Eunoia Junior College. Students will
 
 **C.	Overview of DSA-Sec Talent Areas**
 
-Selection will consider candidates’ overall readiness to benefit from the JIP or O-Level Programme. Candidates are encouraged to indicate their preferred track, where applicable.
+Selection will consider candidates’ overall readiness to benefit from the JIP or Singapore-Cambridge Secondary Education Certificate Programme. Candidates are encouraged to indicate their preferred track, where applicable.
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the candidate’s area of talent.
 
 **For further details about the respective selection criteria and key dates, please [click here](/files/PDF%20for%20Spotlight/2023%20dsa%20selection%20criteria%20and%20dates.pdf).**
 
-##### **DSA Talent Areas for O-Level Programme <u>and</u> 6-year JIP**
+##### **DSA Talent Areas for Singapore-Cambridge Secondary Education Certificate Programme <u>and</u> 6-year JIP**
 
 
 
@@ -48,7 +48,7 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
 **D.	Commitment from Successful DSA Applicants**
 
-* Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school (i.e. CHIJ SNGS) and programme, which is 4 years for the O-Level Programme and 6 years for the JIP (4 years in CHIJ SNGS and 2 years in EJC). They are expected to participate in the activities related to the talent area they are selected for from Year 1 to 4.
+* Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school (i.e. CHIJ SNGS) and programme, which is 4 years for the Singapore-Cambridge Secondary Education Certificate Programme and 6 years for the JIP (4 years in CHIJ SNGS and 2 years in EJC). They are expected to participate in the activities related to the talent area they are selected for from Year 1 to 4.
 * Successful applicants will NOT be allowed to participate in the Secondary 1 Posting Exercise to opt for secondary schools and will NOT be allowed to seek transfer to another school after the release of the PSLE results. They will be assured of a place in CHIJ SNGS so long as they are eligible for the Express course option based on their PSLE results.
 
 **E.	Enquiries about SNGS DSA-Secondary Exercise**
