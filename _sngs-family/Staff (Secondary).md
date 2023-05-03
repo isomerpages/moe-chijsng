@@ -13,7 +13,6 @@ description: ""
 | Mrs Gurung Gloria Seet Pek Hoon | SH / Values Education | gloria_maria_seet@schools.gov.sg |
 | Mr Muhammad Razali Puasa | Assistant Year Head (Sec 1) | muhammad_razali_puasa@schools.gov.sg |
 | Mr Chua Sau Chuan |      | chua_sau_chuan@schools.gov.sg |
-| Mr Lau Yong Gnee |      | lau_yong_gnee@schools.gov.sg |
 | Ms Lim Chen Chu |      | lim_chen_chu@schools.gov.sg |
 | Ms Mohana S Sinniah |      | mohana_s_sinniah@schools.gov.sg |
 | Ms Kok Choy Yoke |      | ow-kok_choy_yoke@schools.gov.sg |
