@@ -9,7 +9,7 @@ image: ""
 #### **St Nicks Open House 2023**
 **6 May (Sat), 8.30 am - 1.00 pm**
 
-<iframe width="720" height="405" src="https://www.youtube.com/watch?v=uoUTUAhDXME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/uoUTUAhDXME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 Recording of Principal's address and Q&amp;A session on 6 May.
 
 ![SN Open House 2023](/images/Spotlight/open%20house%20poster%20final%202023.jpg)<br>
