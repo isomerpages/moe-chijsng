@@ -90,7 +90,6 @@ description: ""
 | -------- | -------- | -------- |
 | Ms Shireen Poore | HOD / Mathematics | shireen_vanitha_poore@schools.gov.sg |
 | Ms Rockey Marsha Rachel | Year Head | rockey_marsha_rachel@schools.gov.sg |
-| Ms Chong Bao Ling | SH / Mathematics | chong_bao_ling@schools.gov.sg |
 | Mrs Fung Hwee Hua | SH / Data Management | lim_hwee_hua@schools.gov.sg |
 | Mdm Yap Mei Ling | SH / Integrated Programme | yap_mei_ling@schools.gov.sg |
 | Mdm Lee Keat Peng | Senior Teacher (Mathematics) | lee_keat_peng@schools.gov.sg |
