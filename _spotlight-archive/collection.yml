@@ -2,6 +2,7 @@ collections:
   spotlight-archive:
     output: true
     order:
+      - SN Open House 2023 updated.md
       - SN Open House 2023.md
       - Want to join SNGS via DSA? Click here to find out more!.md
       - Website Navigation Guide.md
