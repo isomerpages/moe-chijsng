@@ -9,6 +9,7 @@ image: ""
 | Date Posted | Announcement |
 | -------- | -------- |
 | - | **Feedback? Email Us!**<br>Please email your feedback or enquiries to: chijsng_sec@moe.edu.sg | 
+| 22 Jun 2023 | Dear parents and students, please be informed that **HBL on 28 Jun (Wed) will only be for Sec 1 to Sec 3 students**. All Sec 4 students are  to be in school for face-to-face lessons.
 | 21 Jun 2023 | <u>Class Timetable 2023</u><br>Dear students, these are the class timetables for Semester 2 2023.<br>[Sec 1](/files/PDF%20for%20announcements/Secondary/Timetable/sec%201%20sem%202%20timetable.pdf), [Sec 2](/files/PDF%20for%20announcements/Secondary/Timetable/sec%202%20sem%202%20timetable.pdf) , [Sec 3](/files/PDF%20for%20announcements/Secondary/Timetable/sec%203%20sem%202%20timetable.pdf), [Sec 4](/files/PDF%20for%20announcements/Secondary/Timetable/sec%204%20sem%202%20timetable.pdf) |
 | 20 Apr 2023 | Please [click here](https://chijstnicholasgirls.moe.edu.sg/news-and-spotlight/spotlight/sn-open-house-2023/) for more information on St Nicks Open House. |
 | 19 Apr 2023 | Please [click here](https://chijstnicholasgirls.moe.edu.sg/news-and-spotlight/spotlight/sngsdsa2023/) for more information on DSA 2023. |
