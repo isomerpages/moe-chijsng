@@ -11,7 +11,7 @@ description: ""
 | -------- | -------- | -------- |
 | Mdm Peh Siew Hoon | HOD / Aesthetics | peh_siew_hoon@schools.gov.sg |
 | Mrs Gurung Gloria Seet Pek Hoon | SH / Values Education | gloria_maria_seet@schools.gov.sg |
-| Mr Muhammad Razali Puasa | Assistant Year Head (Sec 1) | muhammad_razali_puasa@schools.gov.sg |
+| Mr Muhammad Razali Puasa | Year Head (Lower Sec) | muhammad_razali_puasa@schools.gov.sg |
 | Mr Chua Sau Chuan |      | chua_sau_chuan@schools.gov.sg |
 | Ms Lim Chen Chu |      | lim_chen_chu@schools.gov.sg |
 | Ms Mohana S Sinniah |      | mohana_s_sinniah@schools.gov.sg |
@@ -52,6 +52,7 @@ description: ""
 | Mr Victor Joseph Francis | SH / English Language | victor_joseph_francis@schools.gov.sg |
 | Mrs Yueh See Hwei | Senior Teacher (EL) | chong_see_hwei@schools.gov.sg |
 | Miss Chan Mei Qi Michelle |     | chan_mei_qi@schools.gov.sg |
+| Ms Goh I-Mei |     | goh_i_mei@schools.gov.sg | 
 | Ms Jacqueline Lim Xin Yi |     | jacqueline_lim_xin_yi@schools.gov.sg |
 | Miss Juliana Bte Grahan |     | juliana_grahan@schools.gov.sg |
 | Miss Kho Qi En, Shermaine |     | kho_qi_en_shermaine@schools.gov.sg |
@@ -70,7 +71,7 @@ description: ""
 | -------- | -------- | -------- |
 | Mr Tan Yeow Leng Melvyn | HOD / Humanities | tan_yeow_leng_melvyn@schools.gov.sg |
 | Mr Chan Taiping Joseph | HOD / IP | chan_taiping_joseph@schools.gov.sg |
-| Miss Wong Yan Keet Amanda | SH / CCE | wong_yan_keet_amanda@schools.gov.sg |
+| Miss Wong Yan Keet Amanda | HOD / CCE | wong_yan_keet_amanda@schools.gov.sg |
 | Ms Haslinda Bte Safiee | SH / Geography | haslinda_safiee@schools.gov.sg |
 | Miss Law Huizhen Sharon | Senior Teacher (History) | law_huizhen_sharon@schools.gov.sg |
 | Miss Chen Yiqi | co-AYH (Sec 4) | chen_yiqi@schools.gov.sg |
