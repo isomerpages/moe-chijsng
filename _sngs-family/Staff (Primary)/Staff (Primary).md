@@ -104,7 +104,7 @@ third_nav_title: Staff (Primary)
 | Ms Patricia Koh | [koh\_yi\_guan\_patricia@schools.gov.sg](mailto:koh_yi_guan_patricia@schools.gov.sg) |
 | Mdm Tan Choon Pei | [tan\_choon\_pei@schools.gov.sg](mailto:tan_choon_pei@schools.gov.sg) |
 | Mdm Tan Lay Peng  | [tan\_lay\_peng@schools.gov.sg](mailto:tan_lay_peng@schools.gov.sg) |
-| Mdm Teng Mui Kim | [teng\_mui\_kim@schools.gov.sg](mailto:teng_mui_kim@schools.gov.sg) |
+| Mr Darren Er | [er\_darren@schools.gov.sg](mailto:er_darren@schools.gov.sg) |
 | Mdm Tan-Lee Yoke Kew | [tan_lee\_yoke\_kew@schools.gov.sg](mailto:tan_lee_yoke_kew@schools.gov.sg) |
 | Mdm Wang Ying | [wang\_ying@schools.gov.sg](mailto:wang_ying@schools.gov.sg) |
 | Mdm Wong Pih Foung | [wong\_pih\_foung@schools.gov.sg](mailto:wong_pih_foung@schools.gov.sg) |
