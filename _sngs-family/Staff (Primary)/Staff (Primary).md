@@ -109,7 +109,7 @@ third_nav_title: Staff (Primary)
 | Mdm Wong Pih Foung | [wong\_pih\_foung@schools.gov.sg](mailto:wong_pih_foung@schools.gov.sg) |
 | Mdm Wong Soo Mei | [wong\_soo\_mei@schools.gov.sg](mailto:wong_soo_mei_a@schools.gov.sg) |
 | Mdm Wah Yu Yun | [wah\_yu\_yun@schools.gov.sg](mailto:wah_yu_yun@schools.gov.sg) |
-
+| Mdm Cong Fang | [cong\_fang@schools.gov.sg](mailto:cong_fang@schools.gov.sg) |
 
 
 
