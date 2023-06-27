@@ -10,7 +10,7 @@ third_nav_title: Staff (Primary)
 | Class | Form Teachers | Co-Form Teachers
 | --- | --- | --- |
 | 1C | Ms [Rebecca Lim](mailto:lim_mei_li@schools.gov.sg) | Mdm [Lee Ling Ling](mailto:lee_ling_ling_a@schools.gov.sg) |
-| 1F | Ms [Candy Gan](mailto:gan_xin_lin_candy@schools.gov.sg) | Mdm [Teng Mui Kim](mailto:Teng_Mui_Kim@schools.gov.sg) |
+| 1F | Ms [Candy Gan](mailto:gan_xin_lin_candy@schools.gov.sg) | Mr [Darren Er](mailto:er_darren@schools.gov.sg) |
 | 1G | Ms [Lee Hwee Ing](mailto:lee_hwee_ing@schools.gov.sg) | Mdm [Jia Yangyang](mailto:Jia_Yangyang@moe.edu.sg) |
 | 1H | Ms [Eileen Low](mailto:low_wei_ling_eileen@schools.gov.sg) | Mrs [Esme Loh](mailto:esme_foo@schools.gov.sg) |
 | 1J | Mrs [Suelynn Sing](mailto:tan_suelynn@schools.gov.sg) | Mrs [Jane Lee](mailto:Chua_jie_ying_jand@schools.gov.sg) |
@@ -37,9 +37,9 @@ third_nav_title: Staff (Primary)
 | --- | --- | --- |
 | 3C | Mdm [Wong Pih Foung](mailto:wong_pih_foung@schools.gov.sg) | Ms [Chantel Cheong](mailto:cheong_wen_yee_chantel@schools.gov.sg) |
 | 3F | Mdm [Chia Yi Ling](mailto:chia_yi_ling@schools.gov.sg) | Mdm [Chan Hui Ming](mailto:chan_hui_ming@schools.gov.sg) |
-| 3G | Ms [Patricia Koh](mailto:koh_yi_guan_patricia@schools.gov.sg) | Mdm [Grace Chen](mailto:chen_suhua@schools.gov.sg) |
+| 3G | Mdm [Wah Yu Yun](mailto:wah_yu_yun@schools.gov.sg) | Mdm [Grace Chen](mailto:chen_suhua@schools.gov.sg) |
 | 3H | Mrs[Lee Pei Ting](mailto:lee_pei_ting@schools.gov.sg) | Mdm [Lim Lee Koon](mailto:lim_lee_koon_a@schools.gov.sg) |
-| 3J | Ms [Lee Hui Yi](mailto:lee_hui_yi_a@schools.gov.sg)[](mailto:lee_hui_yi_a@schools.gov.sg) | Mdm [Yap Yng Ling](mailto:yap_yng_ling@schools.gov.sg) |
+| 3J | Ms [Lee Hui Yi](mailto:lee_hui_yi_a@schools.gov.sg)[](mailto:lee_hui_yi_a@schools.gov.sg) | Mdm [Yap Yng Ling](mailto:yap_yng_ling@schools.gov.sg) / Mdm [Cong Fang](mailto:cong_fang@schools.gov.sg)  |
 | 3P | Mdm [Elsa Zainudin](mailto:suelsa_zainudin@schools.gov.sg) | Mr [Lui Yenn Kai](mailto:lui_yenn_kai_a@schools.gov.sg) |
 
 ##### **Primary 4**
