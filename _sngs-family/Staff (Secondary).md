@@ -137,7 +137,7 @@ description: ""
 | Ms Clarissa Lua |     | lua_yi_wen_clarissa@schools.gov.sg |
 | Mrs Panthradil Annie-chacko |     | panthradil_annie-chacko@schools.gov.sg |
 | Ms Tan Ann Nie | co-AYH (Sec 2) | tan_ann_nie@schools.gov.sg |
-| Mrs Tan Siew Kim | | toh_siew_kim@schools.gov.sg |
+| Mrs Tan Siew Kim | Senior Teacher (Lower Secondary Science) | toh_siew_kim@schools.gov.sg |
 | Miss Yee Kah Yin Amy | co-AYH (Sec 3) | yee_kah_yin_amy@schools.gov.sg |
 
 ##### **SCHOOL ADMIN TEAM**
