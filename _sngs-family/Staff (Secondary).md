@@ -129,7 +129,6 @@ description: ""
 | Mr Cai Jinhong |     | cai_jinhong@schools.gov.sg |
 | Mr Chang Hao Hsi David |     | chang_hao_hsi_david@schools.gov.sg |
 | Miss Cheong Yunling Cheryl |     | cheong_yunling_cheryl@schools.gov.sg |
-| Mr Joshua Lee Shan Wei |     | joshua_shanwei_lee@schools.gov.sg |
 | Mr Khor Eng Hao Daniel |     | khor_eng_hao_daniel@schools.gov.sg |
 | Mr Koh Zhi-Ti Jason |     | koh_zhi-ti_jason@schools.gov.sg |
 | Mr Lee Yueh Hwa Andy |     | lee_yueh_hwa@schools.gov.sg |
