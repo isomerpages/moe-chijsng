@@ -18,7 +18,7 @@ description: ""
 | Ms Kok Choy Yoke |      | ow-kok_choy_yoke@schools.gov.sg |
 | Miss Tan Wei Qing Regina |      | tan_wei_qing_regina@schools.gov.sg |
 | Mrs Daphne Lim |      | teo_i-bee_daphne@schools.gov.sg |
-| Miss Tey Poh Choo |      | teh_poh_choo@schools.gov.sg |
+| Miss Tey Poh Choo |      | tey_poh_choo@schools.gov.sg |
 
 
 ##### **CHINESE DEPARTMENT**
@@ -111,7 +111,6 @@ description: ""
 | Miss Susan Lim | HOD / PE & CCA | lim_susan@schools.gov.sg |
 | Ms Yang Peishan | SH / Physical Education | yang_peishan@schools.gov.sg |
 | Mr Daryl Chew Ren Jie |     | chew_ren_jie_daryl@schools.gov.sg |
-| Miss Goh Meow Peng Sherry |     | goh_meow_peng_sherry@schools.gov.sg |
 | Miss Lee Le Xin, Francoise |     | lee_le_xin_francoise@schools.gov.sg |
 | Miss Sim Ung Mei Catherine |     | sim_ung_mei_catherine@schools.gov.sg |
 
@@ -130,20 +129,19 @@ description: ""
 | Mr Cai Jinhong |     | cai_jinhong@schools.gov.sg |
 | Mr Chang Hao Hsi David |     | chang_hao_hsi_david@schools.gov.sg |
 | Miss Cheong Yunling Cheryl |     | cheong_yunling_cheryl@schools.gov.sg |
-| Mr Joshua Lee Shan Wei |     | joshua_shanwei_lee@schools.gov.sg |
 | Mr Khor Eng Hao Daniel |     | khor_eng_hao_daniel@schools.gov.sg |
 | Mr Koh Zhi-Ti Jason |     | koh_zhi-ti_jason@schools.gov.sg |
 | Mr Lee Yueh Hwa Andy |     | lee_yueh_hwa@schools.gov.sg |
 | Ms Clarissa Lua |     | lua_yi_wen_clarissa@schools.gov.sg |
 | Mrs Panthradil Annie-chacko |     | panthradil_annie-chacko@schools.gov.sg |
 | Ms Tan Ann Nie | co-AYH (Sec 2) | tan_ann_nie@schools.gov.sg |
-| Mrs Tan Siew Kim | Senior Teacher (Lower Secondary Science) | toh_siew_kim@schools.gov.sg |
+| Mrs Tan Siew Kim |  | toh_siew_kim@schools.gov.sg |
 | Miss Yee Kah Yin Amy | co-AYH (Sec 3) | yee_kah_yin_amy@schools.gov.sg |
 
 ##### **SCHOOL ADMIN TEAM**
 
 | Name | Designation | Email Address |
 | -------- | -------- | -------- |
-| Ms Veronica Loo | Admin Manager | Veronica_LOO@schools.gov.sg |
+| (to be updated) | Admin Manager | (to be updated) |
 | Mr Goh Liang Khoon | Operations Manager | goh_liang_khoon@schools.gov.sg |
 | Mdm Azizah Bte Abdullah | ICT Associate | azizah_abdullah@schools.gov.sg |
