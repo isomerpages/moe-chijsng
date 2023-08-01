@@ -10,8 +10,8 @@ description: ""
 | Name | Designation | Email Address |
 | -------- | -------- | -------- |
 | Mdm Peh Siew Hoon | HOD / Aesthetics | peh_siew_hoon@schools.gov.sg |
-| Mrs Gurung Gloria Seet Pek Hoon | SH / Values Education | gloria_maria_seet@schools.gov.sg |
 | Mr Muhammad Razali Puasa | Year Head (Lower Sec) | muhammad_razali_puasa@schools.gov.sg |
+| Mrs Gurung Gloria Seet Pek Hoon | SH / Values Education | gloria_maria_seet@schools.gov.sg |
 | Mr Chua Sau Chuan |      | chua_sau_chuan@schools.gov.sg |
 | Ms Lim Chen Chu |      | lim_chen_chu@schools.gov.sg |
 | Ms Mohana S Sinniah |      | mohana_s_sinniah@schools.gov.sg |
@@ -119,8 +119,8 @@ description: ""
 | Name | Designation | Email Address |
 | -------- | -------- | -------- |
 | Mrs Hoo Boon Leng | HOD / Science | ng_boon_leng@schools.gov.sg |
-| Mr Tay Kian Hwee | HOD / ICT | tay_kian_hwee@schools.gov.sg |
 | Ms Sandra Ong | School Staff Developer | ong_pei_sze@schools.gov.sg |
+| Mr Tay Kian Hwee | HOD / ICT | tay_kian_hwee@schools.gov.sg |
 | Ms Chia Yan Qi Audrey | SH / Biology | audrey_chia@schools.gov.sg |
 | Ms Lim Hwee Chin | SH / Physics | lim_hwee_chin@schools.gov.sg |
 | Mr Wan Yew Boon | SH / Innovation & Research | wan_yew_boon@schools.gov.sg |
@@ -142,6 +142,6 @@ description: ""
 
 | Name | Designation | Email Address |
 | -------- | -------- | -------- |
-| (to be updated) | Admin Manager | (to be updated) |
+| Ms Woo Cai Yun Amanda | Admin Manager | amanda_woo@schools.gov.sg |
 | Mr Goh Liang Khoon | Operations Manager | goh_liang_khoon@schools.gov.sg |
 | Mdm Azizah Bte Abdullah | ICT Associate | azizah_abdullah@schools.gov.sg |
