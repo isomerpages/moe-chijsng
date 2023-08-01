@@ -142,6 +142,6 @@ description: ""
 
 | Name | Designation | Email Address |
 | -------- | -------- | -------- |
-| (to be updated) | Admin Manager | (to be updated) |
+| Ms Woo Cai Yun Amanda | Admin Manager | amanda_woo@schools.gov.sg |
 | Mr Goh Liang Khoon | Operations Manager | goh_liang_khoon@schools.gov.sg |
 | Mdm Azizah Bte Abdullah | ICT Associate | azizah_abdullah@schools.gov.sg |
