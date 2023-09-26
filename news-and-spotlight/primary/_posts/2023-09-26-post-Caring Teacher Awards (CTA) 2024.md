@@ -7,6 +7,8 @@ description: ""
 image: ""
 ---
 All students and parents can now visit the CTA website at www.cta.nie.edu.sg to nominate teachers who exemplify the values of caring for the academic, moral, social, emotional and mental welfare of their students.
+[](/files/PDF%20for%20announcements/Primary/cta%20logo.png)
+
 
 Submit your nominations online now!<br>
 Closing Date: 12 January 2024
