@@ -5,6 +5,6 @@ description: ""
 ---
 ##### **CHIJ Board of Management**
 ![](/images/02%20About%20Us/ij%20board%202023%20new.jpeg)
-[Click here](//files/PDF%20for%20subpages/ij%20bom%20members%20photo%20chart%2020230822%20(final).pdf) view full-sized image
+<br> [Click here]() to view full-sized image
 
 For enquiries, please email to:<br>[ij\_secretariat@yahoo.com](mailto:ij_secretariat@yahoo.com)
