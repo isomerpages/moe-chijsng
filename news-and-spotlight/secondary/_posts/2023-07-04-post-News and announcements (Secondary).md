@@ -8,7 +8,8 @@ image: ""
 ---
 | Date Posted | Announcement |
 | -------- | -------- |
-| - | **Feedback? Email Us!**<br>Please email your feedback or enquiries to: chijsng_sec@moe.edu.sg | 
+| - | **Feedback? Email Us!**<br>Please email your feedback or enquiries to: chijsng_sec@moe.edu.sg |
+| 6 Oct 2023 | Dear parents, please refer to the links below for the post-exam schedule for the respective levels<br><br>Sec 1 <br>Sec 2<br>Sec 3<br>Sec 4 IP | 
 | 4 Jul 2023 | Dear all,<br>MOE Edusave Character Award 2023 (Secondary Section) award recognises outstanding students in our school who are exemplary in character and are role models to inspire others. Click [here](https://go.gov.sg/echachijsn) for more details and to submit your nominations! |
 | 22 Jun 2023 | Dear parents and students, please be informed that **HBL on 28 Jun (Wed) will only be for Sec 1 to Sec 3 students**. All Sec 4 students are  to be in school for face-to-face lessons.
 | 21 Jun 2023 | <u>Class Timetable 2023</u><br>Dear students, these are the class timetables for Semester 2 2023.<br>[Sec 1](/files/PDF%20for%20announcements/Secondary/Timetable/sec%201%20sem%202%20timetable.pdf), [Sec 2](/files/PDF%20for%20announcements/Secondary/Timetable/sec%202%20sem%202%20timetable.pdf) , [Sec 3](/files/PDF%20for%20announcements/Secondary/Timetable/sec%203%20sem%202%20timetable.pdf), [Sec 4](/files/PDF%20for%20announcements/Secondary/Timetable/sec%204%20sem%202%20timetable.pdf) |
