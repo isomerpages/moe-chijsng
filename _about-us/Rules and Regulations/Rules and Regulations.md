@@ -34,7 +34,7 @@ At all times, pupils are to:
 *   For CCA during the holidays, pupils are to don their pinafore with PE or CCA T-shirt when reporting for activities and leaving school.
 *   Nails are to be kept clean and short, without nail polish.
 *   Jewellery, including necklaces and bracelets, are not allowed. Also not allowed are inappropriate body art, such as tattoos, and the piercing of any part of the body except the ears. 
-*   Students will be allowed to wear **one pair of ear sticks or ear studs at the lowest point of the earlobe**. The update guidelines are: (1) only one pair of identical clear, transparent, colourless ear sticks with circle stoppers to be worn at the lowest point of the earlobe, (2) only one pair of identical round, single-coloured gold or silver ear studs, not exceeding 3mm in diameter, to be worn at the lowest point of the earlobe. Silver-coloured steel and titanium are allowed. Ear studs with gems are not allowed.
+*   Students will be allowed to wear **one pair of ear sticks or ear studs at the lowest point of the earlobe**. The update guidelines are:<br>(1) only one pair of identical clear, transparent, colourless ear sticks with circle stoppers to be worn at the lowest point of the earlobe,<br>(2) only one pair of identical round, single-coloured gold or silver ear studs, not exceeding 3mm in diameter, to be worn at the lowest point of the earlobe. Silver-coloured steel and titanium are allowed. Ear studs with gems are not allowed.
 *   Students are encouraged to remove their ear studs if there is a safety risk during physical activities. They are responsible for their own belongings and the school will not be liable for the loss of any ear studs or ear sticks.
 
 #### Hairstyle
