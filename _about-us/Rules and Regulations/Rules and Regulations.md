@@ -3,6 +3,7 @@ title: Rules and Regulations
 permalink: /about-us/school-rules-and-regulation/rules-and-regulations/
 description: ""
 third_nav_title: Rules and Regulations
+variant: markdown
 ---
 #### Respect for our Nation &amp; School
 
@@ -31,8 +32,10 @@ At all times, pupils are to:
 *   Pupils are to wear the prescribed school uniform (as illustrated on pages 18 and 19), without any modifications, when reporting for, attending, and leaving school and school events. Special attire (such as PE, CCA, House, or approved class T-shirts and sports shoes) required for specific activities are allowed only during those activities.
 *   Pupils are to don their pinafore an hour after PE lessons and when they leave school after CCA.
 *   For CCA during the holidays, pupils are to don their pinafore with PE or CCA T-shirt when reporting for activities and leaving school.
-*   Jewellery, including earrings, ear studs, and coloured ear sticks, are not allowed. Also not allowed are inappropriate body art, such as tattoos, and the piercing of any part of the body except the ears.
 *   Nails are to be kept clean and short, without nail polish.
+*   Jewellery, including necklaces and bracelets, are not allowed. Also not allowed are inappropriate body art, such as tattoos, and the piercing of any part of the body except the ears. 
+*   Students will be allowed to wear **one pair of ear sticks or ear studs at the lowest point of the earlobe**. The update guidelines are:<br>(1) only one pair of identical clear, transparent, colourless ear sticks with circle stoppers to be worn at the lowest point of the earlobe,<br>(2) only one pair of identical round, single-coloured gold or silver ear studs, not exceeding 3mm in diameter, to be worn at the lowest point of the earlobe. Silver-coloured steel and titanium are allowed. Ear studs with gems are not allowed.
+*   Students are encouraged to remove their ear studs if there is a safety risk during physical activities. They are responsible for their own belongings and the school will not be liable for the loss of any ear studs or ear sticks.
 
 #### Hairstyle
 

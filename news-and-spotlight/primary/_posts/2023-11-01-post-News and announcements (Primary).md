@@ -1,10 +1,11 @@
 ---
 title: News and announcements (Primary)
 permalink: /news-and-spotlight/spotlight/news-pri/
-date: 2023-10-30
+date: 2023-11-01
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 | Date Posted | Announcement |
 | -------- | -------- | 

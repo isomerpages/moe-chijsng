@@ -1,10 +1,11 @@
 ---
 title: News and announcements (Secondary)
 permalink: /news-and-spotlight/spotlight/news-sec/
-date: 2023-10-06
+date: 2023-11-01
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 | Date Posted | Announcement |
 | -------- | -------- |
