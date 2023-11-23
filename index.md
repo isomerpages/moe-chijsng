@@ -21,9 +21,9 @@ sections:
   - infobar:
       title: Nomination for Teacher Awards 2024
       id: infobar
-      description: Nominate an inspiring teacher for the following - President's
-        Awards for Teachers, Outstanding Youth in Education Award, Caring
-        Teacher Awards.
+      description: Nominate an inspiring teacher by 10 Jan 2024 for the following -
+        President's Awards for Teachers, Outstanding Youth in Education Award,
+        Caring Teacher Awards.
       button: Click here for more details
       url: https://staging.d22e87qphr3ylf.amplifyapp.com/news-and-spotlight/spotlight/teacherawards2024/
 ---
