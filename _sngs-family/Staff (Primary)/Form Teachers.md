@@ -12,7 +12,7 @@ variant: markdown
 | --- | --- | --- |
 | 1C | Mrs [Gomathi](mailto:gomathi_a@schools.gov.sg) | Mdm [Li Yan Zhen](mailto:li_yan_zhen@schools.gov.sg) |
 | 1F | Ms [Chim Shu Min](mailto:chim_shu_min@schools.gov.sg) | Mdm [Ong Ee Hoon](mailto:ong_ee_hoon@schools.gov.sg) |
-| 1G | Ms [Lee Hwee Ing](mailto:lee_hwee_ing@schools.gov.sg) | Mdm [Jia Yangyang](mailto:Jia_Yangyang@moe.edu.sg) |
+| 1G | Mdm [Tan Choon Pei](mailto:tan_choon_pei@schools.gov.sg) | Mrs [Frances Goh](mailto:frances_goh_pih_chee@schools.gov.sg) |
 | 1H | Ms [Eileen Low](mailto:low_wei_ling_eileen@schools.gov.sg) | Mrs [Esme Loh](mailto:esme_foo@schools.gov.sg) |
 | 1J | Mrs [Suelynn Sing](mailto:tan_suelynn@schools.gov.sg) | Mrs [Jane Lee](mailto:Chua_jie_ying_jand@schools.gov.sg) |
 | 1P | Mrs [Ruth Quek](mailto:tan_wee_siew_ruth@schools.gov.sg) | Mdm [Ong Ee Hoon](mailto:ong_ee_hoon@schools.gov.sg) |
