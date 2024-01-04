@@ -3,14 +3,15 @@ title: Form Teachers
 permalink: /sngs-family/staff-primary/form-teachers/
 description: ""
 third_nav_title: Staff (Primary)
+variant: markdown
 ---
 ##### **Primary 1**
 ###### Year Head - Ms [Xuanie Chin](mailto:chin_yi_xuan@schools.gov.sg)
 
 | Class | Form Teachers | Co-Form Teachers
 | --- | --- | --- |
-| 1C | Ms [Rebecca Lim](mailto:lim_mei_li@schools.gov.sg) | Mdm [Lee Ling Ling](mailto:lee_ling_ling_a@schools.gov.sg) |
-| 1F | Ms [Candy Gan](mailto:gan_xin_lin_candy@schools.gov.sg) | Mr [Darren Er](mailto:er_darren@schools.gov.sg) |
+| 1C | Mrs [Gomathi](mailto:gomathi_a@schools.gov.sg) | Mdm [Li Yan Zhen](mailto:li_yan_zhen@schools.gov.sg) |
+| 1F | Ms [Chim Shu Min](mailto:chim_shu_min@schools.gov.sg) | Mdm [Ong Ee Hoon](mailto:ong_ee_hoon@schools.gov.sg) |
 | 1G | Ms [Lee Hwee Ing](mailto:lee_hwee_ing@schools.gov.sg) | Mdm [Jia Yangyang](mailto:Jia_Yangyang@moe.edu.sg) |
 | 1H | Ms [Eileen Low](mailto:low_wei_ling_eileen@schools.gov.sg) | Mrs [Esme Loh](mailto:esme_foo@schools.gov.sg) |
 | 1J | Mrs [Suelynn Sing](mailto:tan_suelynn@schools.gov.sg) | Mrs [Jane Lee](mailto:Chua_jie_ying_jand@schools.gov.sg) |
