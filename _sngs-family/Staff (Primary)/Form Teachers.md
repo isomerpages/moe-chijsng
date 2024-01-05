@@ -49,7 +49,7 @@ variant: markdown
 | Class | Form Teachers | Co-Form Teachers |
 | --- | --- | --- |
 | 4C | Mdm [Wong Pih Foung](mailto:wong_pih_foung@schools.gov.sg) | Ms [Chantel Cheong](mailto:cheong_wen_yee_chantel@schools.gov.sg) |
-| 4F | Mrs [Cheryl Tay](mailto:kang_liwen_cheryl_ann@schools.gov.sg) | Mr [Ahmad Ibrahim](mailto:ahmad_ibrahim_a@schools.gov.sg) |
+| 4F | Mdm [Chia Yi Ling](mailto:chia_yi_ling@schools.gov.sg) | Mr [Ng Junyuan](mailto:ng_junyuan@schools.gov.sg) |
 | 4G | Mrs [Queenie Leong](mailto:chua_bor_chwen_queenie@schools.gov.sg) | Mrs [Toh Wan Ting](mailto:chiam_wan_ting@schools.gov.sg) |
 | 4H | Mr [Daniel Chng](mailto:chng_chye_thiam@schools.gov.sg) | Mrs [Nisha Ling](mailto:nisha_keshyiap_ram_putre@schools.gov.sg) |
 | 4J | Mrs [Rachel Tan](mailto:lee_kim_lin_rachel@schools.gov.sg) | Mr [Phoon Chee Weng](mailto:phoon_chee_weng@schools.gov.sg) |
