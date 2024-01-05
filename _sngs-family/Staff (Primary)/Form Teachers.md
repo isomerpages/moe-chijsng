@@ -36,8 +36,8 @@ variant: markdown
 
 | Class | Form Teachers | Co-Form Teachers |
 | --- | --- | --- |
-| 3C | Mdm [Wong Pih Foung](mailto:wong_pih_foung@schools.gov.sg) | Ms [Chantel Cheong](mailto:cheong_wen_yee_chantel@schools.gov.sg) |
-| 3F | Mdm [Chia Yi Ling](mailto:chia_yi_ling@schools.gov.sg) | Mdm [Chan Hui Ming](mailto:chan_hui_ming@schools.gov.sg) |
+| 3C | Mdm [Wang Ying](mailto:wang_ying@schools.gov.sg) | Ms [Brenda Wong](mailto:wong_pek_chin_brenda@schools.gov.sg) |
+| 3F | Mrs [Queenie Leong](mailto:chua_bor_chwen_queenie@schools.gov.sg) | Mr [Ahmad Ibrahim](mailto:ahmad_ibrahim_a@schools.gov.sg) |
 | 3G | Mdm [Wah Yu Yun](mailto:wah_yu_yun@schools.gov.sg) | Mdm [Grace Chen](mailto:chen_suhua@schools.gov.sg) |
 | 3H | Mrs[Lee Pei Ting](mailto:lee_pei_ting@schools.gov.sg) | Mdm [Lim Lee Koon](mailto:lim_lee_koon_a@schools.gov.sg) |
 | 3J | Ms [Lee Hui Yi](mailto:lee_hui_yi_a@schools.gov.sg)[](mailto:lee_hui_yi_a@schools.gov.sg) | Mdm [Yap Yng Ling](mailto:yap_yng_ling@schools.gov.sg) / Mdm [Cong Fang](mailto:cong_fang@schools.gov.sg)  |
