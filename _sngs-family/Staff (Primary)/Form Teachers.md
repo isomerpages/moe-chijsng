@@ -3,59 +3,60 @@ title: Form Teachers
 permalink: /sngs-family/staff-primary/form-teachers/
 description: ""
 third_nav_title: Staff (Primary)
+variant: markdown
 ---
 ##### **Primary 1**
-###### Year Head - Ms [Xuanie Chin](mailto:chin_yi_xuan@schools.gov.sg)
+###### Year Head - Ms [Judy Koh](mailto:koh_cheng_tee@schools.gov.sg)
 
 | Class | Form Teachers | Co-Form Teachers
 | --- | --- | --- |
-| 1C | Ms [Rebecca Lim](mailto:lim_mei_li@schools.gov.sg) | Mdm [Lee Ling Ling](mailto:lee_ling_ling_a@schools.gov.sg) |
-| 1F | Ms [Candy Gan](mailto:gan_xin_lin_candy@schools.gov.sg) | Mr [Darren Er](mailto:er_darren@schools.gov.sg) |
-| 1G | Ms [Lee Hwee Ing](mailto:lee_hwee_ing@schools.gov.sg) | Mdm [Jia Yangyang](mailto:Jia_Yangyang@moe.edu.sg) |
-| 1H | Ms [Eileen Low](mailto:low_wei_ling_eileen@schools.gov.sg) | Mrs [Esme Loh](mailto:esme_foo@schools.gov.sg) |
-| 1J | Mrs [Suelynn Sing](mailto:tan_suelynn@schools.gov.sg) | Mrs [Jane Lee](mailto:Chua_jie_ying_jand@schools.gov.sg) |
-| 1P | Mrs [Ruth Quek](mailto:tan_wee_siew_ruth@schools.gov.sg) | Mdm [Ong Ee Hoon](mailto:ong_ee_hoon@schools.gov.sg) |
-| 1W | Mrs [Balinda Salleh](mailto:balinda_salleh@schools.gov.sg) | Mdm [Tan Lay Peng](mailto:tan_lay_peng@schools.gov.sg) |
+| 1C | Mrs [Gomathi](mailto:gomathi_a@schools.gov.sg) | Mdm [Li Yan Zhen](mailto:li_yan_zhen@schools.gov.sg) |
+| 1F | Ms [Chim Shu Min](mailto:chim_shu_min@schools.gov.sg) | Mdm [Ong Ee Hoon](mailto:ong_ee_hoon@schools.gov.sg) |
+| 1G | Mdm [Tan Choon Pei](mailto:tan_choon_pei@schools.gov.sg) | Mrs [Frances Goh](mailto:frances_goh_pih_chee@schools.gov.sg) |
+| 1H | Mrs [Angie Choong](mailto:chong_sou_foong@schools.gov.sg) | Mrs [Christina Loh](mailto:chee_mei_lan_christina@schools.gov.sg) |
+| 1J | Mrs [Christina Chan](mailto:tan_liang_hong_christina@schools.gov.sg) | Mdm [Lee Ling Ling](mailto:lee_ling_ling_a@schools.gov.sgg) |
+| 1P | Ms [Catherine Boswell](mailto:boswell_catherine@schools.gov.sg) | Mdm [Peng Ming Ming](mailto:peng_ming_ming@schools.gov.sg) |
+| 1W | Mrs [Jade Ng](mailto:lim_swee_chern_jade@schools.gov.sg) | Ms [He Fang](mailto:he_fang@schools.gov.sg) |
 
 ##### **Primary 2**
-###### Year Head - Ms [Judy Koh](mailto:koh_cheng_tee@schools.gov.sg)
+###### Year Head - Ms [Xuanie Chin](mailto:chin_yi_xuan@schools.gov.sg)
 
 | Class | Form Teachers | Co-Form Teachers |
 | --- | --- |--- |
-| 2C | Mrs [Jade Ng](mailto:lim_swee_chern_jade@schools.gov.sg) | Mrs [Christina Loh](mailto:chee_mei_lan_christina@schools.gov.sg) |
-| 2F | Ms [Catherine Boswell](mailto:boswell_catherine@schools.gov.sg) | Mdm [Wang Ying](mailto:wang_ying@schools.gov.sg) |
-| 2G | Mrs [Gomathi](mailto:gomathi_a@schools.gov.sg) | Mrs [Marilyn Tan](mailto:teo_hong_ling_marilyn@schools.gov.sg) |
-| 2H | Ms [He Fang](mailto:he_fang@schools.gov.sg) | Ms [Chim Shu Min](mailto:chim_shu_min@schools.gov.sg) |
-| 2J | Mdm [Tan Choon Pei](mailto:tan_choon_pei@schools.gov.sg) | Mrs [Guo Jiawei](mailto:guo_jiawei@schools.gov.sg) |
-|  2P | Mrs [Angie Choong](mailto:chong_sou_foong@schools.gov.sg) | Ms [Elizabeth Mohan](mailto:elizabeth_rathi_mohan@schools.gov.sg) |
-|  2W | Mrs [Christina Chan](mailto:tan_liang_hong_christina@schools.gov.sg) | Ms [Ng Sock Ling](mailto:ng_sock_ling@schools.gov.sg) |
+| 2C | Ms [Rebecca Lim](mailto:lim_mei_li@schools.gov.sg) | Mdm [Ng Puay Huen](mailto:ng_puay_huen@schools.gov.sg) |
+| 2F | Mdm [Chan Hui Ming](mailto:chan_hui_ming@schools.gov.sg) | Mr [Darren Er](mailto:er_darren@schools.gov.sg) |
+| 2G | Ms [Lee Hwee Ing](mailto:lee_hwee_ing@schools.gov.sg) | Mdm [Jia Yangyang](mailto:Jia_Yangyang@schools.gov.sg) |
+| 2H | Ms [Eileen Low](mailto:low_wei_ling_eileen@schools.gov.sg) | Mrs [Esme Loh](mailto:esme_foo@schools.gov.sg) |
+| 2J | Mrs [Suelynn Sing](mailto:tan_suelynn@schools.gov.sg) | Mrs [Jane Lee](mailto:Chua_jie_ying_jane@schools.gov.sg) |
+|  2P | Mrs [Ruth Quek](mailto:tan_wee_siew_ruth@schools.gov.sg) | Mdm [Chay Kit See](mailto:chay_kit_see@schools.gov.sg) |
+|  2W | Mrs [Balinda Salleh](mailto:balinda_salleh@schools.gov.sg) | Ms [Susan Gan](mailto:gan_woon_ee_susan@schools.gov.sg) |
 
 ##### **Primary 3**
-###### Year Head - Ms [Agnes Lee](mailto:lee_ling_ling_agnes@schools.gov.sg)
-
-| Class | Form Teachers | Co-Form Teachers |
-| --- | --- | --- |
-| 3C | Mdm [Wong Pih Foung](mailto:wong_pih_foung@schools.gov.sg) | Ms [Chantel Cheong](mailto:cheong_wen_yee_chantel@schools.gov.sg) |
-| 3F | Mdm [Chia Yi Ling](mailto:chia_yi_ling@schools.gov.sg) | Mdm [Chan Hui Ming](mailto:chan_hui_ming@schools.gov.sg) |
-| 3G | Mdm [Wah Yu Yun](mailto:wah_yu_yun@schools.gov.sg) | Mdm [Grace Chen](mailto:chen_suhua@schools.gov.sg) |
-| 3H | Mrs[Lee Pei Ting](mailto:lee_pei_ting@schools.gov.sg) | Mdm [Lim Lee Koon](mailto:lim_lee_koon_a@schools.gov.sg) |
-| 3J | Ms [Lee Hui Yi](mailto:lee_hui_yi_a@schools.gov.sg)[](mailto:lee_hui_yi_a@schools.gov.sg) | Mdm [Yap Yng Ling](mailto:yap_yng_ling@schools.gov.sg) / Mdm [Cong Fang](mailto:cong_fang@schools.gov.sg)  |
-| 3P | Mdm [Elsa Zainudin](mailto:suelsa_zainudin@schools.gov.sg) | Mr [Lui Yenn Kai](mailto:lui_yenn_kai_a@schools.gov.sg) |
-
-##### **Primary 4**
 ###### Year Head - Mdm [Noelle Lee](mailto:lee_meiting_noelle_francesca@schools.gov.sg)
 
 | Class | Form Teachers | Co-Form Teachers |
 | --- | --- | --- |
-| 4C | Mrs [Tan Lee Ching](mailto:tan_lee_ching@schools.gov.sg) | Ms [Pung Chuan Ting](mailto:pung_chuan_ting@schools.gov.sg) / Ms [Brenda Wong](mailto:wong_pek_chin_brenda@schools.gov.sg) |
-| 4F | Mrs [Cheryl Tay](mailto:kang_liwen_cheryl_ann@schools.gov.sg) | Mr [Ahmad Ibrahim](mailto:ahmad_ibrahim_a@schools.gov.sg) |
-| 4G | Mrs [Queenie Leong](mailto:chua_bor_chwen_queenie@schools.gov.sg) | Mrs [Toh Wan Ting](mailto:chiam_wan_ting@schools.gov.sg) |
-| 4H | Mr [Daniel Chng](mailto:chng_chye_thiam@schools.gov.sg) | Mrs [Nisha Ling](mailto:nisha_keshyiap_ram_putre@schools.gov.sg) |
-| 4J | Mrs [Rachel Tan](mailto:lee_kim_lin_rachel@schools.gov.sg) | Mr [Phoon Chee Weng](mailto:phoon_chee_weng@schools.gov.sg) |
-| 4P | Mdm [Ng Puay Huen](mailto:ng_puay_huen@schools.gov.sg) | Mrs [Peng Yee Ping](mailto:peng_yee_ping@moe.edu.sg) |
+| 3C | Mdm [Wang Ying](mailto:wang_ying@schools.gov.sg) | Ms [Brenda Wong](mailto:wong_pek_chin_brenda@schools.gov.sg) |
+| 3F | Mrs [Queenie Leong](mailto:chua_bor_chwen_queenie@schools.gov.sg) | Mr [Ahmad Ibrahim](mailto:ahmad_ibrahim_a@schools.gov.sg) |
+| 3G | Ms [Patricia Koh](mailto:koh_yi_guan_patricia@schools.gov.sg) | Mrs [Lucy Tan](mailto:tan_lucy@schools.gov.sg) |
+| 3H | Mrs[Toh Wan Ting](mailto:chiam_wan_ting@schools.gov.sg) | Ms [Lam Xiang Qi](mailto:Lam_Xiang_Qi@schools.gov.sg) |
+| 3J | Mdm [Joaquim Chan](mailto:chan_tsze_min_joaquim@schools.gov.sg) | Mdm [Tong Tsz Ching](mailto:tong_tsz_ching@schools.gov.sg) |
+| 3P | Mrs [Cheryl Tay](mailto:kang_liwen_cheryl_ann@schools.gov.sg) | Mr [Phoon Chee Weng](mailto:phoon_chee_weng@schools.gov.sg) |
+
+##### **Primary 4**
+###### Year Head - Ms [Agnes Lee](mailto:lee_ling_ling_agnes@schools.gov.sg)
+
+| Class | Form Teachers | Co-Form Teachers |
+| --- | --- | --- |
+| 4C | Mdm [Wong Pih Foung](mailto:wong_pih_foung@schools.gov.sg) | Ms [Chantel Cheong](mailto:cheong_wen_yee_chantel@schools.gov.sg) |
+| 4F | Mdm [Chia Yi Ling](mailto:chia_yi_ling@schools.gov.sg) | Mr [Ng Junyuan](mailto:ng_junyuan@schools.gov.sg) |
+| 4G | Mdm [Wah Yu Yun](mailto:wah_yu_yun@schools.gov.sg) | Mdm [Grace Chen](mailto:chen_suhua@schools.gov.sg) / Mr [Lui Yenn Kai](mailto:lui_yenn_kai_a@schools.gov.sg)  |
+| 4H | Mrs [Lee Pei Ting](mailto:lee_pei_ting@schools.gov.sg) | Mrs [Tan Lee Ching](mailto:tan_lee_ching@schools.gov.sg) |
+| 4J | Mdm [Cong Fang](mailto:cong_fang@schools.gov.sg) | Ms [Lee Hui Yi](mailto:lee_hui_yi_a@schools.gov.sg) |
+| 4P | Mdm [Elsa Zainudin](mailto:suelsa_zainudin@schools.gov.sg) | Mrs [Marilyn Tan](mailto:teo_hong_ling_marilyn@schools.gov.sg) / Ms [Ng Sock Ling](mailto:ng_sock_ling@schools.gov.sg) |
 
 ##### **Primary 5**
-###### Year Head - Ms [Lum Hui Min](mailto:lum_hui_min@schools.gov.sg)
+###### Year Head - Ms [Juay Chiew Joo](mailto:juay_chiew_joo@schools.gov.sg)
 
 | Class | Form Teachers | Co-Form Teachers |
 | --- | --- | --- |
@@ -67,7 +68,7 @@ third_nav_title: Staff (Primary)
 | 5P | Mrs [Laura Lim](mailto:koh_kim_suat_laura@schools.gov.sg) | Mdm [Chay Kit See](mailto:chay_kit_see@schools.gov.sg) |
 
 ##### **Primary 6**
-###### Year Head - Ms [Juay Chiew Joo](mailto:juay_chiew_joo@schools.gov.sg) 
+###### Year Head - Ms [Lum Hui Min](mailto:lum_hui_min@schools.gov.sg) 
 
 | Class | Form Teachers | Co-Form Teachers |
 | --- | --- | --- |
