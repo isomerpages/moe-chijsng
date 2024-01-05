@@ -19,7 +19,7 @@ variant: markdown
 | 1W | Mrs [Jade Ng](mailto:lim_swee_chern_jade@schools.gov.sg) | Ms [He Fang](mailto:he_fang@schools.gov.sg) |
 
 ##### **Primary 2**
-###### Year Head - Ms [Judy Koh](mailto:koh_cheng_tee@schools.gov.sg)
+###### Year Head - Ms [Xuanie Chin](mailto:chin_yi_xuan@schools.gov.sg)
 
 | Class | Form Teachers | Co-Form Teachers |
 | --- | --- |--- |
