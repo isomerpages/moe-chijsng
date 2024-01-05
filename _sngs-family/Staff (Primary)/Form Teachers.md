@@ -16,7 +16,7 @@ variant: markdown
 | 1H | Mrs [Angie Choong](mailto:chong_sou_foong@schools.gov.sg) | Mrs [Christina Loh](mailto:chee_mei_lan_christina@schools.gov.sg) |
 | 1J | Mrs [Christina Chan](mailto:tan_liang_hong_christina@schools.gov.sg) | Mrs [Lee Ling Ling](mailto:lee_ling_ling_a@schools.gov.sgg) |
 | 1P | Ms [Catherine Boswell](mailto:boswell_catherine@schools.gov.sg) | Mdm [Peng Ming Ming](mailto:peng_ming_ming@schools.gov.sg) |
-| 1W | Mrs [Balinda Salleh](mailto:balinda_salleh@schools.gov.sg) | Mdm [Tan Lay Peng](mailto:tan_lay_peng@schools.gov.sg) |
+| 1W | Mrs [Jade Ng](mailto:lim_swee_chern_jade@schools.gov.sg) | Ms [He Fang](mailto:he_fang@schools.gov.sg) |
 
 ##### **Primary 2**
 ###### Year Head - Ms [Judy Koh](mailto:koh_cheng_tee@schools.gov.sg)
