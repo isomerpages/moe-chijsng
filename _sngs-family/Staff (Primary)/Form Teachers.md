@@ -15,7 +15,7 @@ variant: markdown
 | 1G | Mdm [Tan Choon Pei](mailto:tan_choon_pei@schools.gov.sg) | Mrs [Frances Goh](mailto:frances_goh_pih_chee@schools.gov.sg) |
 | 1H | Mrs [Angie Choong](mailto:chong_sou_foong@schools.gov.sg) | Mrs [Christina Loh](mailto:chee_mei_lan_christina@schools.gov.sg) |
 | 1J | Mrs [Christina Chan](mailto:tan_liang_hong_christina@schools.gov.sg) | Mrs [Lee Ling Ling](mailto:lee_ling_ling_a@schools.gov.sgg) |
-| 1P | Mrs [Ruth Quek](mailto:tan_wee_siew_ruth@schools.gov.sg) | Mdm [Ong Ee Hoon](mailto:ong_ee_hoon@schools.gov.sg) |
+| 1P | Ms [Catherine Boswell](mailto:boswell_catherine@schools.gov.sg) | Mdm [Peng Ming Ming](mailto:peng_ming_ming@schools.gov.sg) |
 | 1W | Mrs [Balinda Salleh](mailto:balinda_salleh@schools.gov.sg) | Mdm [Tan Lay Peng](mailto:tan_lay_peng@schools.gov.sg) |
 
 ##### **Primary 2**
