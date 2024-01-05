@@ -23,7 +23,7 @@ variant: markdown
 
 | Class | Form Teachers | Co-Form Teachers |
 | --- | --- |--- |
-| 2C | Mrs [Jade Ng](mailto:lim_swee_chern_jade@schools.gov.sg) | Mrs [Christina Loh](mailto:chee_mei_lan_christina@schools.gov.sg) |
+| 2C | Ms [Rebecca Lim](mailto:lim_mei_li@schools.gov.sg) | Mdm [Ng Puay Huen](mailto:ng_puay_huen@schools.gov.sg) |
 | 2F | Ms [Catherine Boswell](mailto:boswell_catherine@schools.gov.sg) | Mdm [Wang Ying](mailto:wang_ying@schools.gov.sg) |
 | 2G | Mrs [Gomathi](mailto:gomathi_a@schools.gov.sg) | Mrs [Marilyn Tan](mailto:teo_hong_ling_marilyn@schools.gov.sg) |
 | 2H | Ms [He Fang](mailto:he_fang@schools.gov.sg) | Ms [Chim Shu Min](mailto:chim_shu_min@schools.gov.sg) |
