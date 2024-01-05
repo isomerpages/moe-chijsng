@@ -64,7 +64,7 @@ variant: markdown
 | 5F | Mr [Daniel Chng](mailto:chng_chye_thiam@schools.gov.sg) | Ms [Genevieve Chow](mailto:chow_wai_har_genevieve@schools.gov.sg) |
 | 5G | Ms [Dong Yuyi](mailto:dong_yuyi@schools.gov.sg) | Mrs [Petrina Lim](mailto:tan_lay_beng_petrina@schools.gov.sg) |
 | 5H | Ms [Pung Chuan Ting](mailto:pung_chuan_ting@schools.gov.sg) | Mrs [Gina Chen](mailto:lim_wee_ping@schools.gov.sg) |
-| 5J | Mdm [Toh Poh Yen](mailto:toh_poh_yen@schools.gov.sg) | Mr [Muhammad Azahar](mailto:muhammad_azahar_rosli@schools.gov.sg) |
+| 5J | Mrs [Carolyn Tan](mailto:wu_ruixian_carolyn@schools.gov.sg) | Mrs [Phoebe Peer](mailto:lee_hui_lin_phoebe@schools.gov.sg) / Dr [Ho Yok Kum](mailto:ho_yok_kum@schools.gov.sg) |
 | 5P | Mrs [Laura Lim](mailto:koh_kim_suat_laura@schools.gov.sg) | Mdm [Chay Kit See](mailto:chay_kit_see@schools.gov.sg) |
 
 ##### **Primary 6**
