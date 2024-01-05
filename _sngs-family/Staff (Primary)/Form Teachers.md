@@ -29,7 +29,7 @@ variant: markdown
 | 2H | Ms [Eileen Low](mailto:low_wei_ling_eileen@schools.gov.sg) | Mrs [Esme Loh](mailto:esme_foo@schools.gov.sg) |
 | 2J | Mrs [Suelynn Sing](mailto:tan_suelynn@schools.gov.sg) | Mrs [Jane Lee](mailto:Chua_jie_ying_jane@schools.gov.sg) |
 |  2P | Mrs [Ruth Quek](mailto:tan_wee_siew_ruth@schools.gov.sg) | Mdm [Chay Kit See](mailto:chay_kit_see@schools.gov.sg) |
-|  2W | Mrs [Christina Chan](mailto:tan_liang_hong_christina@schools.gov.sg) | Ms [Ng Sock Ling](mailto:ng_sock_ling@schools.gov.sg) |
+|  2W | Mrs [Balinda Salleh](mailto:balinda_salleh@schools.gov.sg) | Ms [Susan Gan](mailto:gan_woon_ee_susan@schools.gov.sg) |
 
 ##### **Primary 3**
 ###### Year Head - Mdm [Noelle Lee](mailto:lee_meiting_noelle_francesca@schools.gov.sg)
