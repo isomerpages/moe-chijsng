@@ -41,7 +41,7 @@ variant: markdown
 | 3G | Ms [Patricia Koh](mailto:koh_yi_guan_patricia@schools.gov.sg) | Mrs [Lucy Tan](mailto:tan_lucy@schools.gov.sg) |
 | 3H | Mrs[Toh Wan Ting](mailto:chiam_wan_ting@schools.gov.sg) | Ms [Lam Xiang Qi](mailto:Lam_Xiang_Qi@schools.gov.sg) |
 | 3J | Mdm [Joaquim Chan](mailto:chan_tsze_min_joaquim@schools.gov.sg) | Mdm [Tong Tsz Ching](mailto:tong_tsz_ching@schools.gov.sg) |
-| 3P | Mdm [Elsa Zainudin](mailto:suelsa_zainudin@schools.gov.sg) | Mr [Lui Yenn Kai](mailto:lui_yenn_kai_a@schools.gov.sg) |
+| 3P | Mrs [Cheryl Tay](mailto:kang_liwen_cheryl_ann@schools.gov.sg) | Mr [Phoon Chee Weng](mailto:phoon_chee_weng@schools.gov.sg) |
 
 ##### **Primary 4**
 ###### Year Head - Ms [Agnes Lee](mailto:lee_ling_ling_agnes@schools.gov.sg)
