@@ -25,7 +25,7 @@ variant: markdown
 | --- | --- |--- |
 | 2C | Ms [Rebecca Lim](mailto:lim_mei_li@schools.gov.sg) | Mdm [Ng Puay Huen](mailto:ng_puay_huen@schools.gov.sg) |
 | 2F | Mdm [Chan Hui Ming](mailto:chan_hui_ming@schools.gov.sg) | Mr [Darren Er](mailto:er_darren@schools.gov.sg) |
-| 2G | Mrs [Gomathi](mailto:gomathi_a@schools.gov.sg) | Mrs [Marilyn Tan](mailto:teo_hong_ling_marilyn@schools.gov.sg) |
+| 2G | Ms [Lee Hwee Ing](mailto:lee_hwee_ing@schools.gov.sg) | Mdm [Jia Yangyang](mailto:Jia_Yangyang@schools.gov.sg) |
 | 2H | Ms [He Fang](mailto:he_fang@schools.gov.sg) | Ms [Chim Shu Min](mailto:chim_shu_min@schools.gov.sg) |
 | 2J | Mdm [Tan Choon Pei](mailto:tan_choon_pei@schools.gov.sg) | Mrs [Guo Jiawei](mailto:guo_jiawei@schools.gov.sg) |
 |  2P | Mrs [Angie Choong](mailto:chong_sou_foong@schools.gov.sg) | Ms [Elizabeth Mohan](mailto:elizabeth_rathi_mohan@schools.gov.sg) |
