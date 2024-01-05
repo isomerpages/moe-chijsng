@@ -51,7 +51,7 @@ variant: markdown
 | 4C | Mdm [Wong Pih Foung](mailto:wong_pih_foung@schools.gov.sg) | Ms [Chantel Cheong](mailto:cheong_wen_yee_chantel@schools.gov.sg) |
 | 4F | Mdm [Chia Yi Ling](mailto:chia_yi_ling@schools.gov.sg) | Mr [Ng Junyuan](mailto:ng_junyuan@schools.gov.sg) |
 | 4G | Mdm [Wah Yu Yun](mailto:wah_yu_yun@schools.gov.sg) | Mdm [Grace Chen](mailto:chen_suhua@schools.gov.sg) / Mr [Lui Yenn Kai](mailto:lui_yenn_kai_a@schools.gov.sg)  |
-| 4H | Mr [Daniel Chng](mailto:chng_chye_thiam@schools.gov.sg) | Mrs [Nisha Ling](mailto:nisha_keshyiap_ram_putre@schools.gov.sg) |
+| 4H | Mrs [Lee Pei Ting](mailto:lee_pei_ting@schools.gov.sg) | Mrs [Tan Lee Ching](mailto:tan_lee_ching@schools.gov.sg) |
 | 4J | Mrs [Rachel Tan](mailto:lee_kim_lin_rachel@schools.gov.sg) | Mr [Phoon Chee Weng](mailto:phoon_chee_weng@schools.gov.sg) |
 | 4P | Mdm [Ng Puay Huen](mailto:ng_puay_huen@schools.gov.sg) | Mrs [Peng Yee Ping](mailto:peng_yee_ping@moe.edu.sg) |
 
