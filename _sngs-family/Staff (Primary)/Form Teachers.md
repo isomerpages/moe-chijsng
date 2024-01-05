@@ -27,7 +27,7 @@ variant: markdown
 | 2F | Mdm [Chan Hui Ming](mailto:chan_hui_ming@schools.gov.sg) | Mr [Darren Er](mailto:er_darren@schools.gov.sg) |
 | 2G | Ms [Lee Hwee Ing](mailto:lee_hwee_ing@schools.gov.sg) | Mdm [Jia Yangyang](mailto:Jia_Yangyang@schools.gov.sg) |
 | 2H | Ms [Eileen Low](mailto:low_wei_ling_eileen@schools.gov.sg) | Mrs [Esme Loh](mailto:esme_foo@schools.gov.sg) |
-| 2J | Mdm [Tan Choon Pei](mailto:tan_choon_pei@schools.gov.sg) | Mrs [Guo Jiawei](mailto:guo_jiawei@schools.gov.sg) |
+| 2J | Mrs [Suelynn Sing](mailto:tan_suelynn@schools.gov.sg) | Mrs [Jane Lee](mailto:Chua_jie_ying_jane@schools.gov.sg) |
 |  2P | Mrs [Angie Choong](mailto:chong_sou_foong@schools.gov.sg) | Ms [Elizabeth Mohan](mailto:elizabeth_rathi_mohan@schools.gov.sg) |
 |  2W | Mrs [Christina Chan](mailto:tan_liang_hong_christina@schools.gov.sg) | Ms [Ng Sock Ling](mailto:ng_sock_ling@schools.gov.sg) |
 
