@@ -20,7 +20,7 @@ sections:
       subtitle: 2023 GCE O-Level Exam
       id: infopic
       button: Click here for more info
-      url: test
+      url: https://cms.isomer.gov.sg/sites/moe-chijsng/media/files/mediaDirectory/files/editMediaSettings/Info_to_be_hosted_on_School_Website_before_11_Jan_2024__8_Jan_updated_.pdf
       image: /images/O_level_2023_release__updated_2024_.jpg
       alt: Release of O-Level Results
   - resources:
