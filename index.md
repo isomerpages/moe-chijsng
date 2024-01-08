@@ -15,15 +15,15 @@ sections:
         - title: SNGS Secondary
           description: ""
           url: https://master.d2kyho38yqhcge.amplifyapp.com
+  - infopic:
+      title: Release of results (11 Jan 2024)
+      subtitle: 2023 GCE O-Level Exam
+      id: infopic
+      button: Click here for more info
+      url: /news-and-spotlight/spotlight/news-sec/
+      image: /images/O_level_2023_release__updated_2024_.jpg
+      alt: Release of O-Level Results
   - resources:
       subtitle: News & Spotlight
       button: view all spotlight & news
-  - infobar:
-      title: Nomination for Teacher Awards 2024
-      id: infobar
-      description: Nominate an inspiring teacher by 10 Jan 2024 for the following -
-        President's Awards for Teachers, Outstanding Youth in Education Award,
-        Caring Teacher Awards.
-      button: Click here for more details
-      url: https://staging.d22e87qphr3ylf.amplifyapp.com/news-and-spotlight/spotlight/teacherawards2024/
 ---
