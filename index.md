@@ -21,7 +21,7 @@ sections:
       id: infopic
       button: Click here for more info
       url: /news-and-spotlight/spotlight/news-sec/
-      image: /images/O_level_2023_release__updated_2024_.jpg
+      image: /images/olevel_2023_release__updated_2024__copy.jpg
       alt: Release of O-Level Results
   - resources:
       subtitle: News & Spotlight
