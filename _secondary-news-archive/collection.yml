@@ -1,0 +1,4 @@
+collections:
+  secondary-news-archive:
+    output: true
+    order: []

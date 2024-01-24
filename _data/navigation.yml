@@ -1,0 +1,10 @@
+logo: /images/01 Banner Photos/logo.svg
+links:
+  - title: About Us
+    collection: about-us
+  - title: SNGS Family
+    collection: sngs-family
+  - title: St Nicks Heartbeat
+    collection: st-nicks-heartbeat
+  - title: Connect With Us
+    collection: connect-with-us
