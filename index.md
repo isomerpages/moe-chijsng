@@ -18,12 +18,4 @@ sections:
   - resources:
       subtitle: News & Spotlight
       button: view all spotlight & news
-  - infopic:
-      title: Release of results (11 Jan 2024)
-      subtitle: 2023 GCE O-Level Exam
-      id: infopic
-      button: Click here for more info
-      url: /news-and-spotlight/spotlight/news-sec/
-      image: /images/olevel_2023_release__updated_2024__copy.jpg
-      alt: Release of O-Level Results
 ---
