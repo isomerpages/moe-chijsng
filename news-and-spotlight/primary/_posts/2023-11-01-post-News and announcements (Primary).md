@@ -22,8 +22,9 @@ variant: tiptap
 <p>26 Jan 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2024 P6 Term 1 Weighted Assessment (WA) Scopes</strong>
-<br>Click the link to view assessment scope <a href="/files/PDF for announcements/Primary/2024_P6_WA_Scopes__Term_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">P6</a>
+<p><strong>2024 P6 Term 1 Weighted Assessment (WA) Scopes</strong> 
+<br>Click the link to view assessment scope</p>
+<p><a href="/files/PDF for announcements/Primary/2024_P6_WA_Scopes__Term_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">P6</a>
 </p>
 </td>
 </tr>
@@ -52,7 +53,7 @@ variant: tiptap
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>SN Home-based Learning Info Site</strong>
+<p><strong>SN Home-based Learning Info Site</strong> 
 <br>Click the link below to access the school's Home-based Learning Info Site
 <a href="http://bit.ly/HBL-SN" rel="noopener noreferrer nofollow" target="_blank">http://bit.ly/HBL-SN</a>
 </p>
@@ -63,7 +64,7 @@ variant: tiptap
 <p>21 July 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2023 P3 to P5 Weighted Assessment (WA) Assessment Scope (Term 3)</strong>
+<p><strong>2023 P3 to P5 Weighted Assessment (WA) Assessment Scope (Term 3)</strong> 
 <br>Click the link to view assessment scope
 <br>[Pri 3]( &nbsp; [Pri 4]( &nbsp; [Pri 5]( &nbsp;</p>
 </td>
