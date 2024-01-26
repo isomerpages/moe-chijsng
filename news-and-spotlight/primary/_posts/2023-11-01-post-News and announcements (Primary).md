@@ -30,16 +30,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28 September 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2023 P3 to P5 End-Year Assessment (EYA) Scope</strong> 
-<br>Click the link to view assessment scope
-<br>[Pri 3]( &nbsp; [Pri 4]( &nbsp; [Pri 5]( &nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
