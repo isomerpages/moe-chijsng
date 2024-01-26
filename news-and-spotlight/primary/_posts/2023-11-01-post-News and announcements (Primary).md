@@ -40,16 +40,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21 July 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>**2023 P6 Prelim Exam Scope **
-<br>Click the link to view assessment scope
-<br>[Pri 6](</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -57,16 +47,6 @@ variant: tiptap
 <br>Click the link below to access the school's Home-based Learning Info Site
 <a href="http://bit.ly/HBL-SN" rel="noopener noreferrer nofollow" target="_blank">http://bit.ly/HBL-SN</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>21 July 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2023 P3 to P5 Weighted Assessment (WA) Assessment Scope (Term 3)</strong> 
-<br>Click the link to view assessment scope
-<br>[Pri 3]( &nbsp; [Pri 4]( &nbsp; [Pri 5]( &nbsp;</p>
 </td>
 </tr>
 </tbody>
