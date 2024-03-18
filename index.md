@@ -11,10 +11,10 @@ sections:
       key_highlights:
         - title: SNGS Primary
           description: ""
-          url: https://master.d6ffahuouz5lv.amplifyapp.com
+          url: https://www.chijsngpri.moe.edu.sg
         - title: SNGS Secondary
           description: ""
-          url: https://master.d2kyho38yqhcge.amplifyapp.com
+          url: https://www.chijsngsec.moe.edu.sg
   - resources:
       subtitle: News & Spotlight
       button: view all spotlight & news
