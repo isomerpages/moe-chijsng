@@ -22,7 +22,7 @@ variant: tiptap
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Feedback? Email Us!</strong>
+<p><strong>Feedback? Email Us!</strong> 
 <br>Please email your feedback or enquiries to: chijsng_sec@moe.edu.sg</p>
 </td>
 </tr>
@@ -69,7 +69,7 @@ be communicated to the students directly.</p>
 <p>27 Dec 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Class Timetable 2024</u>
+<p><u>Class Timetable 2024</u> 
 <br>
 </p>
 <p>Dear students, these are the class timetables for Semester 1 2024. Please
