@@ -25,6 +25,7 @@ sections:
       button: Updates on instagram
       url: to be inserted
       alt: Image alt text
+      image: /images/open_house_banner_op2_v3.jpg
   - resources:
       subtitle: News & Spotlight
       button: view all spotlight & news
