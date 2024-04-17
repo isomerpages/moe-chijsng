@@ -23,7 +23,7 @@ sections:
         vibrant school environment and chat with our students and staff
         (registration not required).
       button: Updates on instagram
-      url: to be insert
+      url: to be inserted
       alt: Image alt text
   - resources:
       subtitle: News & Spotlight
