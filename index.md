@@ -23,7 +23,7 @@ sections:
         vibrant school environment and chat with our students and staff
         (registration not required).
       button: Updates on instagram
-      url: to be inserted
+      url: https://www.instagram.com/p/C54pTR6Snlq/?igsh=MWF2aGp6NTJxNjh1OA==
       alt: Image alt text
       image: /images/open_house_banner_op2_v3.jpg
   - resources:
