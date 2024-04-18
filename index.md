@@ -24,7 +24,7 @@ sections:
         (registration not required).
       button: Updates on instagram
       url: https://www.instagram.com/p/C54pTR6Snlq/?igsh=MWF2aGp6NTJxNjh1OA==
-      alt: Image alt text
+      alt: SN Open House 2024
       image: /images/open_house_banner_op2_v3.jpg
   - resources:
       subtitle: News & Spotlight
