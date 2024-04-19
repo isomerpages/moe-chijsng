@@ -59,7 +59,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://issuu.com/touche-design/docs/connexions_2021_issue_1" rel="noopener noreferrer nofollow" target="_blank">2021 Issue 1 (link down)</a>
+<p><a href="https://online.fliphtml5.com/nmauk/ialm/" rel="noopener noreferrer nofollow" target="_blank">2021 Issue 1</a>
 </p>
 </td>
 </tr>
@@ -70,7 +70,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://issuu.com/touche-design/docs/connexions_2021_issue_2" rel="noopener noreferrer nofollow" target="_blank">2021 Issue 2 (link down)</a>
+<p><a href="https://online.fliphtml5.com/nmauk/gbth/" rel="noopener noreferrer nofollow" target="_blank">2021 Issue 2</a>
 </p>
 </td>
 </tr>
