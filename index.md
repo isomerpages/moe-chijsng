@@ -26,6 +26,17 @@ sections:
       url: https://www.instagram.com/p/C54pTR6Snlq/?igsh=MWF2aGp6NTJxNjh1OA==
       alt: SN Open House 2024
       image: /images/open_house_banner_op2_v3.jpg
+  - infopic:
+      title: Direct School Admission for Sec 1 / Year 1 (AY 2025)
+      subtitle: "#SayYesToStNicks"
+      id: infopic
+      description: For students interested in joining St Nicks via DSA sports,
+        bilingualism, STEM & leadership. Information about selection criteria &
+        process ready in early May.
+      button: Info on DSA & talent areas
+      url: /news-and-spotlight/spotlight/sngsdsa2024/
+      image: /images/Spotlight/Picture1.jpg
+      alt: Image alt text
   - resources:
       subtitle: News & Spotlight
       button: view all spotlight & news
