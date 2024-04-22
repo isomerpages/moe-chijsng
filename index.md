@@ -26,6 +26,13 @@ sections:
       url: https://www.instagram.com/p/C54pTR6Snlq/?igsh=MWF2aGp6NTJxNjh1OA==
       alt: SN Open House 2024
       image: /images/open_house_banner_op2_v3.jpg
+  - infobar:
+      title: DSA 2025
+      subtitle: "#sayyestoStNicks"
+      id: infobar
+      description: To be updated ...
+      button: Click here for more info
+      url: link to be updated
   - resources:
       subtitle: News & Spotlight
       button: view all spotlight & news
