@@ -27,7 +27,7 @@ sections:
       alt: SN Open House 2024
       image: /images/open_house_banner_op2_v3.jpg
   - infobar:
-      title: Direct School Admission 2024
+      title: Direct School Admission for Sec 1 / Year 1 (AY 2025)
       subtitle: "#sayyestoStNicks"
       id: infobar
       description: To be updated ...
