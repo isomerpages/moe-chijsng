@@ -30,7 +30,9 @@ sections:
       title: Direct School Admission for Sec 1 / Year 1 (AY 2025)
       subtitle: "#sayyestoStNicks"
       id: infobar
-      description: To be updated ...
+      description: "St. Nicks will be accepting students into Sec 1 (SP) and Year 1
+        (IP) AY 2025 via the 2024 Direct School Admission-Secondary (DSA-Sec)
+        Exercise. "
       button: Click here for more info
       url: link to be updated
   - resources:
