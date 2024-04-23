@@ -30,9 +30,9 @@ sections:
       title: Direct School Admission for Sec 1 / Year 1 (AY 2025)
       subtitle: "#SayYesToStNicks"
       id: infopic
-      description: For students interested in joining St Nicks via DSA sports,
-        bilingualism, STEM & leadership. Information about selection criteria &
-        process ready in early May.
+      description: Find out more about our DSA sports, bilingualism, STEM &
+        leadership. Information about our selection criteria & process will be
+        ready in early May.
       button: Info on DSA & talent areas
       url: /news-and-spotlight/spotlight/sngsdsa2024/
       image: /images/Spotlight/Picture1.jpg
