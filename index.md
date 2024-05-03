@@ -16,6 +16,15 @@ sections:
           description: ""
           url: https://www.chijsngsec.moe.edu.sg
   - infopic:
+      title: Getting to SNGS (4 May 24)
+      subtitle: "#SAYYESTOSTNICKS"
+      id: infopic
+      description: As large crowds are expected for the Open House, we strongly
+        encourage parents and students to take public transport and enter via
+        Gate 1 or 3 (refer to map).
+      image: /images/Spotlight/SNGS_Map.png
+      alt: SNGS Map
+  - infopic:
       title: Open House 2024
       subtitle: "#SayYesToStNicks"
       id: infopic
