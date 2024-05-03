@@ -27,6 +27,15 @@ sections:
       alt: SN Open House 2024
       image: /images/open_house_banner_op2_v3.jpg
   - infopic:
+      title: Getting to SNGS (4 May 24)
+      subtitle: "#SAYYESTOSTNICKS"
+      id: infopic
+      description: As large crowds are expected for the Open House, we strongly
+        encourage parents and students to take public transport and enter via
+        Gate 1 or 3 (refer to map).
+      image: /images/Spotlight/SNGS_Map.png
+      alt: SNGS Map
+  - infopic:
       title: Direct School Admission for Sec 1 / Year 1 (AY 2025)
       subtitle: "#SayYesToStNicks"
       id: infopic
