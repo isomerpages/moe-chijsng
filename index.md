@@ -16,26 +16,6 @@ sections:
           description: ""
           url: https://www.chijsngsec.moe.edu.sg
   - infopic:
-      title: Getting to SNGS (4 May 24)
-      subtitle: "#SAYYESTOSTNICKS"
-      id: infopic
-      description: As large crowds are expected for the Open House, we strongly
-        encourage parents and students to take public transport and enter via
-        Gate 1 or 3 (refer to map).
-      image: /images/Spotlight/SNGS_Map.png
-      alt: SNGS Map
-  - infopic:
-      title: Open House 2024
-      subtitle: "#SayYesToStNicks"
-      id: infopic
-      description: Our SN family is excited to welcome you! Come and experience our
-        vibrant school environment and chat with our students and staff
-        (registration not required).
-      button: Updates on instagram
-      url: https://www.instagram.com/p/C54pTR6Snlq/?igsh=MWF2aGp6NTJxNjh1OA==
-      alt: SN Open House 2024
-      image: /images/open_house_banner_op2_v3.jpg
-  - infopic:
       title: Direct School Admission for Sec 1 / Year 1 (AY 2025)
       subtitle: "#SayYesToStNicks"
       id: infopic
