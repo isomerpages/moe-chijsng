@@ -162,7 +162,7 @@ and passions.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>STEM</strong>
+<p><strong>STEM</strong> 
 <br>(Science, Technology, Engineering, and Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
