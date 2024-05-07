@@ -27,7 +27,7 @@ Selection will consider candidates’ overall readiness to benefit from the JIP 
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop their daughter’s area of talent.
 
-The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).
+Please click [**here**](/files/PDF%20for%20Spotlight/Updated__2024__DSA_Selection_Criteria_and_Dates.pdf) for details about our selection criteria and DSA process.
 
 ##### **DSA Talent Areas for 4-year SP <u>and</u> 6-year JIP**
 
