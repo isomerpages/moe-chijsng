@@ -19,8 +19,8 @@ sections:
       title: Direct School Admission for Sec 1 / Year 1 (AY 2025)
       subtitle: "#SayYesToStNicks"
       id: infopic
-      description: "DSA-Sec Exercise is open. Visit our DSA webpage to find out more
-        about our selection criteria and process. "
+      description: DSA-Sec Exercise is open. Visit our DSA webpage to find out more
+        about our selection criteria and process.
       button: Info on DSA & talent areas
       url: /news-and-spotlight/spotlight/sngsdsa2024/
       image: /images/Spotlight/Picture1.jpg
