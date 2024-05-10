@@ -27,6 +27,8 @@ Selection will consider candidates’ overall readiness to benefit from the JIP 
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop their daughter’s area of talent.
 
+<p style="color:red;">[Updated on 7 May 2024]</p>
+
 Please click [**here**](/files/PDF%20for%20Spotlight/Updated__2024__DSA_Selection_Criteria_and_Dates.pdf) for details about our selection criteria and DSA process.
 
 ##### **DSA Talent Areas for 4-year SP <u>and</u> 6-year JIP**
