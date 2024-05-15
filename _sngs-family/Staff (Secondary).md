@@ -608,6 +608,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Miss Uma Ramakrishnan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Student Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>uma_ramakrishnan@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Miss Law Huizhen Sharon</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -692,17 +703,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tung_jowie@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Uma Ramakrishnan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Student Leadership</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>uma_ramakrishnan@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
