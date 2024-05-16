@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: CHIJ St Nicholas Girl's School
+title: CHIJ St Nicholas Girls' School
 description: An Isomer site of the Singapore Government
 image: /images/02 About Us/School_Crest.jpg
 permalink: /
