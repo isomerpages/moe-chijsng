@@ -2,8 +2,15 @@
 title: Publications (Primary)
 permalink: /st-nicks-heartbeat/Publications-Primary/
 description: ""
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/subpage%2002%20St%20Nicks%20Heartbeat.jpg)
+
+#### 2024
+
+<img style="width: 40%;" src="/images/03%20St%20Nicks%20Heartbeat/Little_Lights_Newsletter_2024.jpg">
+<div style="text-align:center"><a href="https://online.fliphtml5.com/vfqld/zojq/">Little Lights 2024</a></div>
+
 
 #### 2023
 
