@@ -367,17 +367,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Nur'aini Bte Abdul Rashid</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / English Literature</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>siti_nuraini_abdul_rashid@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Victor Joseph Francis</p>
 </td>
 <td rowspan="1" colspan="1">
