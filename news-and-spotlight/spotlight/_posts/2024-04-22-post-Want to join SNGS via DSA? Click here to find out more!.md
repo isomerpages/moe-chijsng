@@ -54,6 +54,5 @@ Please click [**here**](/files/PDF%20for%20Spotlight/Updated__2024__DSA_Selectio
 
 **E.	Enquiries about SNGS DSA-Secondary Exercise**
 
-For further enquiries pertaining to the DSA admissions process, please contact CHIJ SNGS at 63541839 (telephone) or email [chijsng.DSA@moe.edu.sg](mailto:chijsng.DSA@moe.edu.sg)
-
+For further enquiries pertaining to the DSA admissions process, please contact CHIJ SNGS at 63541839 (telephone) or email [chijsng.DSA@gmail.com](mailto:chijsng.dsa@gmail.com)
 *The information on this page is correct as of 22 Apr 2024.*
