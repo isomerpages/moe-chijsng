@@ -206,7 +206,7 @@ eligible for Posting Group 3 based on their PSLE results.</p>
 <p><strong>E. Enquiries about SNGS DSA-Secondary Exercise</strong>
 </p>
 <p>For further enquiries pertaining to the DSA admissions process, please
-contact CHIJ SNGS at 63541839 (telephone) or email <a href="mailto:chijsng.DSA@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chijsng.DSA@moe.edu.sg</a>
+contact CHIJ SNGS at 63541839 (telephone) or email <a href="chijsng.dsa@gmail.com" rel="noopener noreferrer nofollow" target="_blank">chijsng.dsa@gmail.com</a>
 </p>
 <p><em>The information on this page is correct as of 22 Apr 2024.</em>
 </p>
