@@ -19,8 +19,8 @@ sections:
       title: Direct School Admission for Sec 1 / Year 1 (AY 2025)
       subtitle: "#SayYesToStNicks"
       id: infopic
-      description: "We appreciate your interest in St Nicks. DSA-Sec Exercise 2025 has
-        closed. "
+      description: We appreciate your interest in St Nicks. DSA-Sec Exercise 2025 has
+        closed.
       button: Info on DSA & talent areas
       url: /news-and-spotlight/spotlight/sngsdsa2024/
       image: /images/Spotlight/Picture1.jpg
