@@ -41,13 +41,13 @@ variant: tiptap
 <p>Odd week timetables are for weeks 1, 3, 5, 7 &amp; 9.</p>
 <p>Even week timetables are for weeks 2, 4, 6, 8 &amp; 10.</p>
 <p></p>
-<p><strong>Odd </strong>week timetable: <a href="/files/PDF for announcements/Secondary/Timetable/Sec_1__2024_SEM_1_Odd_Week_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a> ,
-<a href="/files/PDF for announcements/Secondary/Timetable/Sec_2__2024_SEM_1_Odd_Week_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>, <a href="/files/PDF for announcements/Secondary/Timetable/Sec_3__2024_SEM_1_Odd_Week_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>,
-<a href="/files/PDF for announcements/Secondary/Timetable/Sec_4__2024_SEM_1_Odd_Week_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4</a>
+<p><strong>Odd </strong>week timetable: <a href="/files/PDF for announcements/Secondary/Timetable/Class___Sec_1__Odd_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>,
+<a href="/files/PDF for announcements/Secondary/Timetable/Class___Sec_2__Odd_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>, <a href="/files/PDF for announcements/Secondary/Timetable/Class___Sec_3__Odd_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>,
+<a href="/files/PDF for announcements/Secondary/Timetable/Class___Sec_4__Odd_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4</a>
 </p>
-<p><strong>Even </strong>week timetable: <a href="/files/PDF for announcements/Secondary/Timetable/Sec_1__2024_SEM_1_Even_Week_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a> ,
-<a href="/files/PDF for announcements/Secondary/Timetable/Sec_2__2024_SEM_1_Even_Week_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>, <a href="/files/PDF for announcements/Secondary/Timetable/Sec_3__2024_SEM_1_Even_Week_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>,
-<a href="/files/PDF for announcements/Secondary/Timetable/Sec_4__2024_SEM_1_Even_Week_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4</a>
+<p><strong>Even </strong>week timetable: <a href="/files/PDF for announcements/Secondary/Timetable/Class___Sec_1__Even_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>,
+<a href="/files/PDF for announcements/Secondary/Timetable/Class___Sec_2__Even_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>, <a href="/files/PDF for announcements/Secondary/Timetable/Class___Sec_3__Even_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>,
+<a href="/files/PDF for announcements/Secondary/Timetable/Class___Sec_4__Even_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4</a>
 </p>
 <p></p>
 <p>Should there be any changes to the timetable, the affected classes and
