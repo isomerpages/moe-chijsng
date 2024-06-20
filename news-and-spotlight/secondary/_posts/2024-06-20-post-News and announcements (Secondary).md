@@ -7,7 +7,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -24,6 +28,30 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Feedback? Email Us!</strong> 
 <br>Please email your feedback or enquiries to: chijsng_sec@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 Jun 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Class Timetable 2024</u> 
+</p>
+<p>Dear students, these are the class timetables for Semester 2 2024.</p>
+<p>Odd week timetables are for weeks 1, 3, 5, 7 &amp; 9.</p>
+<p>Even week timetables are for weeks 2, 4, 6, 8 &amp; 10.</p>
+<p></p>
+<p><strong>Odd </strong>week timetable: <a href="/files/PDF for announcements/Secondary/Timetable/Sec_1__2024_SEM_1_Odd_Week_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a> ,
+<a href="/files/PDF for announcements/Secondary/Timetable/Sec_2__2024_SEM_1_Odd_Week_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>, <a href="/files/PDF for announcements/Secondary/Timetable/Sec_3__2024_SEM_1_Odd_Week_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>,
+<a href="/files/PDF for announcements/Secondary/Timetable/Sec_4__2024_SEM_1_Odd_Week_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4</a>
+</p>
+<p><strong>Even </strong>week timetable: <a href="/files/PDF for announcements/Secondary/Timetable/Sec_1__2024_SEM_1_Even_Week_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a> ,
+<a href="/files/PDF for announcements/Secondary/Timetable/Sec_2__2024_SEM_1_Even_Week_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>, <a href="/files/PDF for announcements/Secondary/Timetable/Sec_3__2024_SEM_1_Even_Week_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>,
+<a href="/files/PDF for announcements/Secondary/Timetable/Sec_4__2024_SEM_1_Even_Week_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4</a>
+</p>
+<p></p>
+<p>Should there be any changes to the timetable, the affected classes and
+students would be informed by their form/subject teachers.</p>
 </td>
 </tr>
 <tr>
