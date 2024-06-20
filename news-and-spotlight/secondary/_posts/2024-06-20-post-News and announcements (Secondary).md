@@ -35,7 +35,7 @@ variant: tiptap
 <p>20 Jun 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Class Timetable 2024</u> 
+<p><u>Class Timetable 2024</u>
 </p>
 <p>Dear students, these are the class timetables for Semester 2 2024.</p>
 <p>Odd week timetables are for weeks 1, 3, 5, 7 &amp; 9.</p>
