@@ -1133,10 +1133,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Tan Chin Guan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_chin_guan@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Tan Siew Kim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (Lower Secondary Science)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>toh_siew_kim@schools.gov.sg</p>
