@@ -32,6 +32,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>21 Jun 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Updates to Class Timetable</p>
+<p></p>
+<p>There are updates to the timetables of some classes:</p>
+<p></p>
+<p>Odd week: <a href="/files/PDF for announcements/Secondary/Timetable/Class___1G__2C_updated_21_Jun__Odd_.pdf" rel="noopener noreferrer nofollow" target="_blank">1G and 2C</a>
+</p>
+<p>Even week: <a href="/files/PDF for announcements/Secondary/Timetable/Class___2C__2G__2P__3P__3W_updated_21_Jun__Even_.pdf" rel="noopener noreferrer nofollow" target="_blank">2C, 2G, 2P, 3P and 3W</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>20 Jun 2024</p>
 </td>
 <td rowspan="1" colspan="1">
