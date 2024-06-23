@@ -105,6 +105,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Terence Tan Eu-Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_eu-yi@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Miss Tan Wei Qing Regina</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -269,17 +280,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Jocelyn Ling Jie Ying 林洁莹老师</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>jocelyn_ling_jie_ying@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Niu Sheng Kai 牛盛凯老师</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -298,6 +298,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>phang_lee_shia@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Shen Lifeng 沈黎丰老师</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>shen_lifeng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -1133,10 +1144,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Tan Chin Guan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_chin_guan@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Tan Siew Kim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (Lower Secondary Science)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>toh_siew_kim@schools.gov.sg</p>

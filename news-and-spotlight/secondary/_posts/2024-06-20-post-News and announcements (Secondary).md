@@ -1,13 +1,17 @@
 ---
 title: News and announcements (Secondary)
 permalink: /news-and-spotlight/spotlight/news-sec/
-date: 2024-01-18
+date: 2024-06-20
 layout: post
 description: ""
 image: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -24,6 +28,46 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Feedback? Email Us!</strong> 
 <br>Please email your feedback or enquiries to: chijsng_sec@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 Jun 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Updates to Class Timetable</p>
+<p></p>
+<p>There are updates to the timetables of some classes:</p>
+<p></p>
+<p>Odd week: <a href="/files/PDF for announcements/Secondary/Timetable/Class___1G__2C_updated_21_Jun__Odd_.pdf" rel="noopener noreferrer nofollow" target="_blank">1G and 2C</a>
+</p>
+<p>Even week: <a href="/files/PDF for announcements/Secondary/Timetable/Class___2C__2G__2P__3P__3W_updated_21_Jun__Even_.pdf" rel="noopener noreferrer nofollow" target="_blank">2C, 2G, 2P, 3P and 3W</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 Jun 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Class Timetable 2024</u>
+</p>
+<p>Dear students, these are the class timetables for Semester 2 2024.</p>
+<p>Odd week timetables are for weeks 1, 3, 5, 7 &amp; 9.</p>
+<p>Even week timetables are for weeks 2, 4, 6, 8 &amp; 10.</p>
+<p></p>
+<p><strong>Odd </strong>week timetable: <a href="/files/PDF for announcements/Secondary/Timetable/Class___Sec_1__Odd_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>,
+<a href="/files/PDF for announcements/Secondary/Timetable/Class___Sec_2__Odd_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>, <a href="/files/PDF for announcements/Secondary/Timetable/Class___Sec_3__Odd_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>,
+<a href="/files/PDF for announcements/Secondary/Timetable/Class___Sec_4__Odd_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4</a>
+</p>
+<p><strong>Even </strong>week timetable: <a href="/files/PDF for announcements/Secondary/Timetable/Class___Sec_1__Even_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>,
+<a href="/files/PDF for announcements/Secondary/Timetable/Class___Sec_2__Even_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>, <a href="/files/PDF for announcements/Secondary/Timetable/Class___Sec_3__Even_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>,
+<a href="/files/PDF for announcements/Secondary/Timetable/Class___Sec_4__Even_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4</a>
+</p>
+<p></p>
+<p>Should there be any changes to the timetable, the affected classes and
+students would be informed by their form/subject teachers.</p>
 </td>
 </tr>
 <tr>
