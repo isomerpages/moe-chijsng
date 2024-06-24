@@ -15,6 +15,14 @@ sections:
         - title: SNGS Secondary
           description: ""
           url: https://www.chijsngsec.moe.edu.sg
+  - infobar:
+      title: Nominations for ECHA 2024 (Sec section)
+      subtitle: Edusave character award (ECHA)
+      id: infobar
+      description: MOE ECHA recognises outstanding students in our school who are
+        exemplary in character and are role models to inspire others.
+      button: Link to details & nominations
+      url: https://go.gov.sg/echachijsn
   - infopic:
       title: Direct School Admission for Sec 1 / Year 1 (AY 2025)
       subtitle: "#SayYesToStNicks"
