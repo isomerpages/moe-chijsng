@@ -124,6 +124,7 @@ variant: markdown
 | Mrs Ruth Quek  | [tan\_wee\_siew\_ruth@schools.gov.sg](mailto:tan_wee_siew_ruth@schools.gov.sg) |
 | Mrs Toh Wan Ting  | [chiam\_wan\_ting@schools.gov.sg](mailto:chiam_wan_ting@schools.gov.sg) |
 | Mr Darren Er | [er\_darren@schools.gov.sg](mailto:er_darren@schools.gov.sg) |
+| Mr Vicknes Vinayak Veerappan  | [Vicknes\__Vinayak\__Veerappan@schools.gov.sg](mailto:Vicknes_Vinayak_Veerappan@schools.gov.sg) |
 
 ##### **Senior School Counsellor**
 
