@@ -28,7 +28,7 @@ variant: markdown
 | Mdm Frances Goh Pih Chee  | [frances\_goh\_pih\_chee@schools.gov.sg](mailto:frances_goh_pih_chee@schools.gov.sg) |
 | Mrs Gomathi Chakz | [gomathi\_a@schools.gov.sg](mailto:gomathi_a@schools.gov.sg) |
 | Mrs Jade Ng | [lim\_swee\_chern\_jade@schools.gov.sg](mailto:lim_swee_chern_jade@schools.gov.sg) |
-| Mrs Joy Yong | [thiang\_yen\_joy\_a@schools.gov.sg](mailto:gan_xin_lin_candy@schools.gov.sg) |
+| Mrs Joy Yong | [thiang\_yen\_ping\_joy\_a@schools.gov.sg](mailto:Thiang_Yen_Ping_Joy_A@schools.gov.sg) |
 | Ms Lee Hwee Ing  | [lee\_hwee\_ing@schools.gov.sg](mailto:lee_hwee_ing@schools.gov.sg)  |
 | Mr Phoon Chee Weng | [phoon\_chee\_weng@schools.gov.sg](mailto:phoon_chee_weng@schools.gov.sg) |
 | Mdm Suelsa Zainudin | [suelsa\_zainudin@schools.gov.sg](mailto:suelsa_zainudin@schools.gov.sg) |
