@@ -75,7 +75,6 @@ variant: markdown
 | Mrs Ng Yee Ping | [peng\_yee\_ping@schools.gov.sg](mailto:peng_yee_ping@schools.gov.sg) |
 | Ms Pung Chuan Ting | [pung\_chuan\_ting@schools.gov.sg](mailto:pung_chuan_ting@schools.gov.sg) |
 | Mrs Queenie Leong  | [chua\_bor\_chwen\_queenie@schools.gov.sg](mailto:chua_bor_chwen_queenie@schools.gov.sg)  |
-| Ms Sharon Shalini | [shalini\_sharon@schools.gov.sg](mailto:shalini_sharon@schools.gov.sg) |
 | Ms Siti Nurzaifah (AED T&L) | [siti\_nurzaifah@schools.gov.sg](mailto:siti_nurzaifah@schools.gov.sg) |
 | Mdm Yap Yng Ling | [yap\_yng\_ling@schools.gov.sg](mailto:yap_yng_ling@schools.gov.sg) |
 
