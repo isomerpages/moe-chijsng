@@ -53,7 +53,7 @@ variant: markdown
 | 4G | Mdm [Chin Yoke Koon](mailto:Chin_Yoke_Koon@schools.gov.sg) | Mrs [Marilyn Tan](mailto:teo_hong_ling_marilyn@schools.gov.sg) / Mr [Lui Yenn Kai](mailto:lui_yenn_kai_a@schools.gov.sg)  |
 | 4H | Mrs [Lee Pei Ting](mailto:lee_pei_ting@schools.gov.sg) | Mrs [Tan Lee Ching](mailto:tan_lee_ching@schools.gov.sg) |
 | 4J | Mdm [Cong Fang](mailto:cong_fang@schools.gov.sg) | Ms [Lee Hui Yi](mailto:lee_hui_yi_a@schools.gov.sg) |
-| 4P | Mdm [Elsa Zainudin](mailto:suelsa_zainudin@schools.gov.sg) | Mrs [Marilyn Tan](mailto:teo_hong_ling_marilyn@schools.gov.sg) / Ms [Ng Sock Ling](mailto:ng_sock_ling@schools.gov.sg) |
+| 4P | Mdm [Suelsa Zainudin](mailto:suelsa_zainudin@schools.gov.sg) |  Ms [Ng Sock Ling](mailto:ng_sock_ling@schools.gov.sg) |
 
 ##### **Primary 5**
 ###### Year Head - Ms [Juay Chiew Joo](mailto:juay_chiew_joo@schools.gov.sg)
