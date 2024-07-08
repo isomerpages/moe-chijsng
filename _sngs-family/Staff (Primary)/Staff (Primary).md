@@ -86,6 +86,7 @@ variant: markdown
 | Mdm Yong Sheue Mei (HOD Chinese) | [yong\_sheue\_mei@schools.gov.sg](mailto:yong_sheue_mei@schools.gov.sg) |
 | Mdm Lee Ling Ling (HOD SAP) | [lee\_ling\_ling\_a@schools.gov.sg](mailto:lee_ling_ling_a@schools.gov.sg) |
 | Mdm Ng Puay Huen (ST Chinese) | [ng\_puay\_huen@schools.gov.sg](mailto:ng_puay_huen@schools.gov.sg) |
+| Mdm Chin Yoke Koon | [chin\_yoke\_koon@schools.gov.sg](mailto:gan_xin_lin_candy@schools.gov.sg) |
 | Ms Cindy Ng (HOD CCE) | [ng\_lai\_leng\_cindy@schools.gov.sg](mailto:ng_lai_leng_cindy@schools.gov.sg) |
 | Ms Lum Hui Min (YH UP) | [lum\_hui\_min@schools.gov.sg](mailto:lum_hui_min@schools.gov.sg) |
 | Mdm Chan Hui Ming   | [chan\_hui\_ming@schools.gov.sg](mailto:chan_hui_ming@schools.gov.sg) |
@@ -101,14 +102,9 @@ variant: markdown
 | Mdm Ong Ee Hoon  | [ong\_ee\_hoon@schools.gov.sg](mailto:ong_ee_hoon@schools.gov.sg) |
 | Ms Patricia Koh | [koh\_yi\_guan\_patricia@schools.gov.sg](mailto:koh_yi_guan_patricia@schools.gov.sg) |
 | Mdm Tan Choon Pei | [tan\_choon\_pei@schools.gov.sg](mailto:tan_choon_pei@schools.gov.sg) |
-| Mdm Tan Lay Peng  | [tan\_lay\_peng@schools.gov.sg](mailto:tan_lay_peng@schools.gov.sg) |
-| Mdm Tan-Lee Yoke Kew | [tan_lee\_yoke\_kew@schools.gov.sg](mailto:tan_lee_yoke_kew@schools.gov.sg) |
 | Mdm Wang Ying | [wang\_ying@schools.gov.sg](mailto:wang_ying@schools.gov.sg) |
 | Mdm Wong Pih Foung | [wong\_pih\_foung@schools.gov.sg](mailto:wong_pih_foung@schools.gov.sg) |
-| Mdm Chew Keng Yuh | [chew\_keng\_yuh@schools.gov.sg](mailto:chew_keng_yuh@schools.gov.sg) |
-| Mdm Wah Yu Yun | [wah\_yu\_yun@schools.gov.sg](mailto:wah_yu_yun@schools.gov.sg) |
 | Mdm Cong Fang | [cong\_fang@schools.gov.sg](mailto:cong_fang@schools.gov.sg) |
-| Ms Li Huie | [li\_huie@schools.gov.sg](mailto:li_huie@schools.gov.sg) |
 
 
 ##### **PE & Aesthetics**
