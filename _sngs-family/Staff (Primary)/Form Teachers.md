@@ -50,10 +50,10 @@ variant: markdown
 | --- | --- | --- |
 | 4C | Mdm [Wong Pih Foung](mailto:wong_pih_foung@schools.gov.sg) | Ms [Chantel Cheong](mailto:cheong_wen_yee_chantel@schools.gov.sg) |
 | 4F | Mdm [Chia Yi Ling](mailto:chia_yi_ling@schools.gov.sg) | Mr [Ng Junyuan](mailto:ng_junyuan@schools.gov.sg) |
-| 4G | Mdm [Wah Yu Yun](mailto:wah_yu_yun@schools.gov.sg) | Mdm [Grace Chen](mailto:chen_suhua@schools.gov.sg) / Mr [Lui Yenn Kai](mailto:lui_yenn_kai_a@schools.gov.sg)  |
+| 4G | Mdm [Chin Yoke Koon](mailto:Chin_Yoke_Koon@schools.gov.sg) | Mrs [Marilyn Tan](mailto:teo_hong_ling_marilyn@schools.gov.sg) / Mr [Lui Yenn Kai](mailto:lui_yenn_kai_a@schools.gov.sg)  |
 | 4H | Mrs [Lee Pei Ting](mailto:lee_pei_ting@schools.gov.sg) | Mrs [Tan Lee Ching](mailto:tan_lee_ching@schools.gov.sg) |
 | 4J | Mdm [Cong Fang](mailto:cong_fang@schools.gov.sg) | Ms [Lee Hui Yi](mailto:lee_hui_yi_a@schools.gov.sg) |
-| 4P | Mdm [Elsa Zainudin](mailto:suelsa_zainudin@schools.gov.sg) | Mrs [Marilyn Tan](mailto:teo_hong_ling_marilyn@schools.gov.sg) / Ms [Ng Sock Ling](mailto:ng_sock_ling@schools.gov.sg) |
+| 4P | Mdm [Suelsa Zainudin](mailto:suelsa_zainudin@schools.gov.sg) |  Ms [Ng Sock Ling](mailto:ng_sock_ling@schools.gov.sg) |
 
 ##### **Primary 5**
 ###### Year Head - Ms [Juay Chiew Joo](mailto:juay_chiew_joo@schools.gov.sg)
@@ -75,6 +75,6 @@ variant: markdown
 |  6C | Mdm [Lim Qi Ning](mailto:lim_qi_ning@schools.gov.sg) | Mdm [Chin Lan Shiang](mailto:chin_lan_shiang@schools.gov.sg) |
 | 6F | Mrs [Sheon Wee](mailto:lee_sze_yuin@schools.gov.sg) | Mr [Calvin Tay](mailto:tay_ngiang_boon_calvin@schools.gov.sg) |
 |   6G  | Mdm [Denise Jung](mailto:jung_gee_ting@schools.gov.sg) | Mdm [Chong Fei Ming](mailto:chong_fei_ming@schools.gov.sg) |
-|  6H | Mrs [Justine Hum](mailto:choo_hui_kian@schools.gov.sg) | Ms [Cindy Ng](mailto:ng_lai_leng_cindy@schools.gov.sg) |
+|  6H | Mrs [Justine Hum](mailto:choo_hui_kian@schools.gov.sg) | Ms [Cindy Ng](mailto:ng_lai_leng_cindy@schools.gov.sg) / Mr [Vicknes](mailto:Vicknes_Vinayak_Veerappan@schools.gov.sg)|
 | 6J | Mdm [Toh Poh Yen](mailto:toh_poh_yen@schools.gov.sg) | Mr [Muhammad Azahar](mailto:muhammad_azahar_rosli@schools.gov.sg) |
 | 6P | Mrs [Laura Lim](mailto:koh_kim_suat_laura@schools.gov.sg) | Mdm [Lim Lee Koon](mailto:lim_lee_koon_a@schools.gov.sg) |
