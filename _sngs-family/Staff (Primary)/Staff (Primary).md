@@ -3,6 +3,7 @@ title: Staff (Primary)
 permalink: /sngs-family/staff-primary/department/
 description: ""
 third_nav_title: Staff (Primary)
+variant: markdown
 ---
 ##### **English, Social Studies and Project Work**
 
@@ -16,7 +17,6 @@ third_nav_title: Staff (Primary)
 | Mrs Phoebe Peer (LT CCE) | [lee\_hui\_lin\_phoebe@schools.gov.sg](mailto:lee_hui_lin_phoebe@schools.gov.sg) |
 | Mdm Noelle Lee (AYH MP) | [lee\_meiting\_noelle\_francesca@schools.gov.sg](mailto:lee_meiting_noelle_francesca@schools.gov.sg) |
 | Mrs Balinda Sudin | [balinda\_salleh@schools.gov.sg](mailto:balinda_salleh@schools.gov.sg) |
-| Ms Candy Gan | [gan\_xin\_lin\_candy@schools.gov.sg](mailto:gan_xin_lin_candy@schools.gov.sg) |
 | Ms Catherine Boswell  | [boswell\_catherine@schools.gov.sg](mailto:boswell_catherine@schools.gov.sg) 
 | Ms Chantel Cheong  | [cheong\_wen\_yee\_chantel@schools.gov.sg](mailto:cheong_wen_yee_chantel@schools.gov.sg)  |
 | Mrs Chay Jiawei | [guo\_jiawei@schools.gov.sg](mailto:guo_jiawei@schools.gov.sg) |
@@ -24,13 +24,12 @@ third_nav_title: Staff (Primary)
 | Mrs Chew Lee Ching | [tan\_lee\_ching@schools.gov.sg](mailto:tan_lee_ching@schools.gov.sg) |
 | Mdm Chia Yi Ling  | [chia\_yi\_ling\_chantel@schools.gov.sg](mailto:chia_yi_ling@schools.gov.sg)  |
 | Ms Chim Shu Min  | [chim\_shu\_min@schools.gov.sg](mailto:chim_shu_yee_min@schools.gov.sg)  |
-| Ms Elizabeth Rathi Mohan  | [elizabeth\_rathi\_mohan@schools.gov.sg](mailto:elizabeth_rathi_mohan@schools.gov.sg)  |
 | Mrs Esme Loh | [esme\_foo@schools.gov.sg](mailto:esme_foo@schools.gov.sg) |
 | Mdm Frances Goh Pih Chee  | [frances\_goh\_pih\_chee@schools.gov.sg](mailto:frances_goh_pih_chee@schools.gov.sg) |
 | Mrs Gomathi Chakz | [gomathi\_a@schools.gov.sg](mailto:gomathi_a@schools.gov.sg) |
 | Mrs Jade Ng | [lim\_swee\_chern\_jade@schools.gov.sg](mailto:lim_swee_chern_jade@schools.gov.sg) |
+| Mrs Joy Yong | [thiang\_yen\_joy\_a@schools.gov.sg](mailto:gan_xin_lin_candy@schools.gov.sg) |
 | Ms Lee Hwee Ing  | [lee\_hwee\_ing@schools.gov.sg](mailto:lee_hwee_ing@schools.gov.sg)  |
-| Mrs Nisha Ling | [nisha\_keshyiap\_ram_putre@schools.gov.sg](mailto:nisha_keshyiap_ram_putre@schools.gov.sg) |
 | Mr Phoon Chee Weng | [phoon\_chee\_weng@schools.gov.sg](mailto:phoon_chee_weng@schools.gov.sg) |
 | Mdm Suelsa Zainudin | [suelsa\_zainudin@schools.gov.sg](mailto:suelsa_zainudin@schools.gov.sg) |
 | Mrs Suelynn Sing | [tan\_suelynn@schools.gov.sg](mailto:tan_suelynn@schools.gov.sg) |
