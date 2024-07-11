@@ -22,7 +22,7 @@ variant: markdown
 | Mrs Chay Jiawei | [guo\_jiawei@schools.gov.sg](mailto:guo_jiawei@schools.gov.sg) |
 | Mdm Chay Kit See | [chay\_kit_see@schools.gov.sg](mailto:chay_kit_see@schools.gov.sg) |
 | Mrs Chew Lee Ching | [tan\_lee\_ching@schools.gov.sg](mailto:tan_lee_ching@schools.gov.sg) |
-| Mdm Chia Yi Ling  | [chia\_yi\_ling\_chantel@schools.gov.sg](mailto:chia_yi_ling@schools.gov.sg)  |
+| Mdm Chia Yi Ling  | [chia\_yi\_ling@schools.gov.sg](mailto:chia_yi_ling@schools.gov.sg)  |
 | Ms Chim Shu Min  | [chim\_shu\_min@schools.gov.sg](mailto:chim_shu_yee_min@schools.gov.sg)  |
 | Mrs Esme Loh | [esme\_foo@schools.gov.sg](mailto:esme_foo@schools.gov.sg) |
 | Mdm Frances Goh Pih Chee  | [frances\_goh\_pih\_chee@schools.gov.sg](mailto:frances_goh_pih_chee@schools.gov.sg) |
