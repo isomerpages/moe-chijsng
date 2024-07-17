@@ -45,7 +45,7 @@ variant: markdown
 | Mrs Justine Hum (LH Math)  | [choo\_hui\_kian@schools.gov.sg](mailto:choo_hui_kian@schools.gov.sg) |
 | Mrs Rachel Tan (ST Math) | [lee\_kim\_lin\_rachel@schools.gov.sg](mailto:lee_kim_lin_rachel@schools.gov.sg) |
 | Mdm Chin Lan Shiang (SSD) | [chin\_lan\_shiang@schools.gov.sg](mailto:chin_lan_shiang@schools.gov.sg) |
-| Ms Juay Chiew Joo (AYH UP Int)  | [juay\_chiew\_joo@schools.gov.sg](mailto:juay_chiew_joo@schools.gov.sg) |
+| Ms Juay Chiew Joo (AYH UP)  | [juay\_chiew\_joo@schools.gov.sg](mailto:juay_chiew_joo@schools.gov.sg) |
 | Mrs Angie Choong | [chong\_sou\_foong@schools.gov.sg](mailto:chong_sou_foong@schools.gov.sg) |
 | Mrs Carolyn Tan | [wu\_ruixian\_carolyn@schools.gov.sg](mailto:wu_ruixian_carolyn@schools.gov.sg) |
 | Mrs Cheryl Tay  | [kang\_liwen\_cheryl\_ann@schools.gov.sg](mailto:kang_liwen_cheryl_ann@schools.gov.sg) |
@@ -105,6 +105,9 @@ variant: markdown
 | Mdm Wang Ying | [wang\_ying@schools.gov.sg](mailto:wang_ying@schools.gov.sg) |
 | Mdm Wong Pih Foung | [wong\_pih\_foung@schools.gov.sg](mailto:wong_pih_foung@schools.gov.sg) |
 | Mdm Cong Fang | [cong\_fang@schools.gov.sg](mailto:cong_fang@schools.gov.sg) |
+| Mdm Tong Tsz Ching | [tong\_tsz\_ching@schools.gov.sg](mailto:tong_tsz_ching@schools.gov.sg) |
+| Ms Lam Xiang Qi | [lam\_xiang\_qi@schools.gov.sg](mailto:lam_xiang_qi@schools.gov.sg) |
+| Mdm Peng Ming Ming | [peng\_ming\_ming@schools.gov.sg](mailto:peng_ming_ming@schools.gov.sg) |
 
 
 ##### **PE & Aesthetics**
