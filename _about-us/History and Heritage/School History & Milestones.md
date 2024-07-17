@@ -3,6 +3,7 @@ title: School History & Milestones
 permalink: /about-us/history-and-heritage/school-history-milestones/
 description: ""
 third_nav_title: History and Heritage
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/subpage%2001%20about%20us.jpg)
 
@@ -29,7 +30,7 @@ In 1995, the school was accorded autonomous status by MOE in recognition of its 
 *   Sister Solong (1933 to 1935)
 *   Sister Felix (1936 to 1937)
 *   Sister Marie Mercedes (1938 to 1939)
-*   Sister Francois Lee (1940 to 1971)
+*   Sister Francoise Lee (1940 to 1971)
 *   Mrs Hwang-Lee Poh See (1972 to 2000)
 *   Ms Helen Choo (2001 to 2006)
 *   Ms Chan Wan Siong (2007 to 2011)
