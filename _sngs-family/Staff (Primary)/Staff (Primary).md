@@ -105,9 +105,9 @@ variant: markdown
 | Mdm Wang Ying | [wang\_ying@schools.gov.sg](mailto:wang_ying@schools.gov.sg) |
 | Mdm Wong Pih Foung | [wong\_pih\_foung@schools.gov.sg](mailto:wong_pih_foung@schools.gov.sg) |
 | Mdm Cong Fang | [cong\_fang@schools.gov.sg](mailto:cong_fang@schools.gov.sg) |
-| Ms Tong Tsz Ching | [tong\_tsz\_ching@schools.gov.sg](mailto:tong_tsz_ching@schools.gov.sg) |
+| Mdm Tong Tsz Ching | [tong\_tsz\_ching@schools.gov.sg](mailto:tong_tsz_ching@schools.gov.sg) |
 | Ms Lam Xiang Qi | [lam\_xiang\_qi@schools.gov.sg](mailto:lam_xiang_qi@schools.gov.sg) |
-| Ms Peng Ming Ming | [peng\_ming\_ming@schools.gov.sg](mailto:peng_ming_ming@schools.gov.sg) |
+| Mdm Peng Ming Ming | [peng\_ming\_ming@schools.gov.sg](mailto:peng_ming_ming@schools.gov.sg) |
 
 
 ##### **PE & Aesthetics**
