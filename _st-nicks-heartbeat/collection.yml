@@ -2,6 +2,7 @@ collections:
   st-nicks-heartbeat:
     output: true
     order:
+      - Audio Books.md
       - Publications (Primary).md
       - Publications (Secondary).md
       - SNGS Social Media.md
