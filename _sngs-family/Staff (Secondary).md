@@ -50,17 +50,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Gurung Gloria Seet Pek Hoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Values Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>gloria_maria_seet@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Chua Sau Chuan</p>
 </td>
 <td rowspan="1" colspan="1">
