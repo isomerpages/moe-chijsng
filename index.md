@@ -26,14 +26,6 @@ sections:
       url: https://youtu.be/iHQhD5ENjlA
       alt: 姐妹同心
       image: /images/Website_01.jpg
-  - infobar:
-      title: Nominations for ECHA 2024 (Sec section)
-      subtitle: Edusave character award (ECHA)
-      id: infobar
-      description: MOE ECHA recognises outstanding students in our school who are
-        exemplary in character and are role models to inspire others.
-      button: Link to details & nominations
-      url: https://go.gov.sg/echachijsn
   - resources:
       subtitle: News & Spotlight
       button: view all spotlight & news
