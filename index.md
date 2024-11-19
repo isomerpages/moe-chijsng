@@ -24,7 +24,7 @@ sections:
         our Principal's address.
       button: P's Open House video (4 May)
       url: https://youtu.be/iHQhD5ENjlA
-      alt: Image alt text
+      alt: 姐妹同心
       image: /images/Website_01.jpg
   - infobar:
       title: Nominations for ECHA 2024 (Sec section)
