@@ -16,13 +16,12 @@ sections:
           description: ""
           url: https://www.chijsngsec.moe.edu.sg
   - infopic:
-      title: Congratulations on completing your PSLE!
+      title: Welcome P6 Students and Parents
       subtitle: "#sayyestostnicks!"
       id: infopic
-      description: Welcome! Students & parents who wish to know about our vision,
-        mission, culture and talent areas, please click the link for our
-        Principal's address.
-      button: P's Open House video (4 May)
+      description: To learn more about our school, do watch our P’s address (link
+        below) or our school MV
+      button: P's Address (Open House 4 May)
       url: https://youtu.be/iHQhD5ENjlA
       alt: 姐妹同心
       image: /images/Website_01.jpg
