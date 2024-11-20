@@ -19,8 +19,9 @@ sections:
       title: Welcome P6 Students and Parents
       subtitle: "#sayyestostnicks!"
       id: infopic
-      description: To learn more about our school, do watch our P’s address (link
-        below) or our school MV (https://for.edu.sg/sngsmv)
+      description: To learn more about our vision, mission, culture and talent areas,
+        view our P’s address (link below) and our corporate MV
+        (https://for.edu.sg/sngsmv)
       button: P's Address (Open House 4 May)
       url: https://youtu.be/iHQhD5ENjlA
       alt: 姐妹同心
