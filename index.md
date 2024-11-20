@@ -20,7 +20,7 @@ sections:
       subtitle: "#sayyestostnicks!"
       id: infopic
       description: To learn more about our school, do watch our P’s address (link
-        below) or our school MV
+        below) or our school MV (https://for.edu.sg/sngsmv)
       button: P's Address (Open House 4 May)
       url: https://youtu.be/iHQhD5ENjlA
       alt: 姐妹同心
