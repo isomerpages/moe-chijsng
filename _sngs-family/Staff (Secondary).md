@@ -739,17 +739,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chong Bao Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chong_bao_ling@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Fung Hwee Hua</p>
 </td>
 <td rowspan="1" colspan="1">
