@@ -564,17 +564,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Taiping Joseph</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD / IP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chan_taiping_joseph@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Miss Wong Yan Keet Amanda</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -586,6 +575,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Chan Taiping Joseph</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / IP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chan_taiping_joseph@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Clara Ann Khoo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -593,17 +593,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>khoo_kim_lin_clara@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Juliet Huang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / ICT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>huang_chenmei_juliet@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -626,6 +615,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>fatmah_ismail_talib@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Juliet Huang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>huang_chenmei_juliet@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
