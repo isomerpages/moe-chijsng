@@ -881,6 +881,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Miss Sim Ung Mei Catherine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Physical Education)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sim_ung_mei_catherine@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Daryl Chew Ren Jie</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -899,17 +910,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_le_xin_francoise@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Sim Ung Mei Catherine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sim_ung_mei_catherine@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
