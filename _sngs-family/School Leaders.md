@@ -27,13 +27,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Fiona Tan</p>
+<p>Ms Winnie Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fiona_YEO@schools.gov.sg</p>
+<p>Winnie_TAN@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
