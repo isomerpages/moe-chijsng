@@ -32,10 +32,10 @@ Parent’s Gateway (PG) by <strong>20 December 2024</strong>:</p>
 Programme (AEP), Higher Chinese Language (HCL)</p>
 </li>
 <li>
-<p>Secondary 1 Registration/Orientation Day</p>
+<p>Secondary 1 Orientation Day</p>
 </li>
 </ul>
-<h3><strong>Secondary 1 Orientation Day Details:</strong></h3>
+<h3><strong>Secondary 1 Orientation Day:</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Date</strong>: Friday, 27 December 2024</p>
