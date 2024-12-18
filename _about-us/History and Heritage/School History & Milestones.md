@@ -35,7 +35,8 @@ In 1995, the school was accorded autonomous status by MOE in recognition of its 
 *   Ms Helen Choo (2001 to 2006)
 *   Ms Chan Wan Siong (2007 to 2011)
 *   Mrs Tan Wai Lan (2012 to 2016)
-*   Mrs Fiona Tan (2017 to date)
+*   Mrs Fiona Tan (2017 to 2024)
+*   Ms Winnie Tan (2025 to date)
 
 ##### **Milestones**
 
