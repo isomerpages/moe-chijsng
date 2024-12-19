@@ -411,17 +411,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Hema Latha d/o Sahadevan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>hema_latha_sahadevan@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Jacqueline Lim Xin Yi</p>
 </td>
 <td rowspan="1" colspan="1">
