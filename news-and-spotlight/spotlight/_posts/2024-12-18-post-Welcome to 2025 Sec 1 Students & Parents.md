@@ -41,13 +41,13 @@ Programme (AEP), Higher Chinese Language (HCL)</p>
 <p><strong>Date</strong>: Friday, 27 December 2024</p>
 </li>
 <li>
-<p><strong>Time</strong>: 9:00 AM to 12:00 PM</p>
+<p><strong>Time</strong>: 8:30 AM to 12:00 PM</p>
 </li>
 <li>
 <p><strong>Venue</strong>: School Hall</p>
 </li>
 <li>
-<p><strong>Registration Time</strong>: From 8:30 AM</p>
+<p><strong>Registration Time</strong>: From 8:00 AM</p>
 </li>
 </ul>
 <p>To ensure a smooth experience, please note the following:</p>
@@ -62,10 +62,6 @@ car parks.</p>
 <li>
 <p><strong>HDB Carpark 81</strong> (adjacent to Blk 171) is a short walk to
 Gate 1.</p>
-</li>
-<li>
-<p><strong>HDB Carpark 26</strong> (near Blk 118) is a short walk to Gate
-3.</p>
 </li>
 </ul>
 </li>
