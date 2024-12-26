@@ -32,6 +32,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>27 Dec 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Important Information (1st day of school)</u>
+</p>
+<p></p>
+<p>Please refer to <a href="/files/PDF for announcements/Secondary/2025___First_Day_of_School_Info__to_be_hosted_on_school_website_.pdf" rel="noopener nofollow" target="_blank">this pdf</a> for
+details regarding the first day of school.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>21 Jun 2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -136,14 +149,9 @@ students would be informed by their form/subject teachers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 Dec 2023</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Important Information (1st day of school)</u>
-</p>
-<p></p>
-<p>Please refer to <a href="/files/PDF for announcements/Secondary/First_Day_of_School_Info__to_be_hosted_on_school_website_.pdf" rel="noopener noreferrer nofollow" target="_blank">this pdf</a> for
-details regarding the first day of school.</p>
 <p></p>
 </td>
 </tr>
