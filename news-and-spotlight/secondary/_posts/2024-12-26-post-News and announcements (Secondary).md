@@ -147,14 +147,6 @@ week timetables are for weeks 2, 4, 6, 8 &amp; 10.
 students would be informed by their form/subject teachers.</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
