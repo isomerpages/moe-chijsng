@@ -1,7 +1,7 @@
 ---
 title: News and announcements (Secondary)
 permalink: /news-and-spotlight/spotlight/news-sec/
-date: 2024-06-20
+date: 2024-12-26
 layout: post
 description: ""
 image: ""
@@ -28,6 +28,19 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Feedback? Email Us!</strong> 
 <br>Please email your feedback or enquiries to: chijsng_sec@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 Dec 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Important Information (1st day of school)</u>
+</p>
+<p></p>
+<p>Please refer to <a href="/files/PDF for announcements/Secondary/2025___First_Day_of_School_Info__to_be_hosted_on_school_website_.pdf" rel="noopener nofollow" target="_blank">this pdf</a> for
+details regarding the first day of school.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -132,19 +145,6 @@ week timetables are for weeks 2, 4, 6, 8 &amp; 10.
 <p></p>
 <p>Should there be any changes to the timetable, the affected classes and
 students would be informed by their form/subject teachers.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>27 Dec 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>Important Information (1st day of school)</u>
-</p>
-<p></p>
-<p>Please refer to <a href="/files/PDF for announcements/Secondary/First_Day_of_School_Info__to_be_hosted_on_school_website_.pdf" rel="noopener noreferrer nofollow" target="_blank">this pdf</a> for
-details regarding the first day of school.</p>
-<p></p>
 </td>
 </tr>
 </tbody>
