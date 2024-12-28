@@ -35,12 +35,29 @@ variant: tiptap
 <p>27 Dec 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Important Information (1st day of school)</u>
+<p><u>Important Information (1st day of school in 2025)</u>
 </p>
 <p></p>
 <p>Please refer to <a href="/files/PDF for announcements/Secondary/2025___First_Day_of_School_Info__to_be_hosted_on_school_website_.pdf" rel="noopener nofollow" target="_blank">this pdf</a> for
 details regarding the first day of school.</p>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 Dec 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Class Timetable 2025</u> 
+</p>
+<p>Dear students, these are the class timetables for Semester 1 2024. Please
+note that Odd week timetables are for weeks 1, 3, 5, 7 &amp; 9, while even
+week timetables are for weeks 2, 4, 6, 8 &amp; 10.</p>
+<p><strong>Odd </strong>week timetable:</p>
+<p><strong>Even </strong>week timetable:</p>
+<p></p>
+<p>Should there be any changes to the timetable, the affected classes and
+students would be informed by their form/subject teachers.</p>
 </td>
 </tr>
 <tr>
@@ -119,32 +136,6 @@ important information regarding the collection of your O-Level Exam results.</p>
 </p>
 <p>Any updates to the <a href="https://online.fliphtml5.com/rbvce/cyxv/" rel="noopener noreferrer nofollow" target="_blank">school calendar</a> will
 be communicated to the students directly.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>27 Dec 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>Class Timetable 2024</u> 
-<br>
-</p>
-<p>Dear students, these are the class timetables for Semester 1 2024. Please
-note that Odd week timetables are for weeks 1, 3, 5, 7 &amp; 9, while even
-week timetables are for weeks 2, 4, 6, 8 &amp; 10.
-<br>
-</p>
-<p><strong>Odd </strong>week timetable: <a href="/files/PDF for announcements/Secondary/Timetable/Sec_1__2024_SEM_1_Odd_Week_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a> ,
-<a href="/files/PDF for announcements/Secondary/Timetable/Sec_2__2024_SEM_1_Odd_Week_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>, <a href="/files/PDF for announcements/Secondary/Timetable/Sec_3__2024_SEM_1_Odd_Week_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>,
-<a href="/files/PDF for announcements/Secondary/Timetable/Sec_4__2024_SEM_1_Odd_Week_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4</a>
-</p>
-<p><strong>Even </strong>week timetable: <a href="/files/PDF for announcements/Secondary/Timetable/Sec_1__2024_SEM_1_Even_Week_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a> ,
-<a href="/files/PDF for announcements/Secondary/Timetable/Sec_2__2024_SEM_1_Even_Week_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>, <a href="/files/PDF for announcements/Secondary/Timetable/Sec_3__2024_SEM_1_Even_Week_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>,
-<a href="/files/PDF for announcements/Secondary/Timetable/Sec_4__2024_SEM_1_Even_Week_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4</a>
-</p>
-<p></p>
-<p>Should there be any changes to the timetable, the affected classes and
-students would be informed by their form/subject teachers.</p>
 </td>
 </tr>
 </tbody>
