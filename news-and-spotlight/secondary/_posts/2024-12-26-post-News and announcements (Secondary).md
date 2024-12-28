@@ -48,7 +48,7 @@ details regarding the first day of school.</p>
 <p>27 Dec 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Class Timetable 2025</u> 
+<p><u>Class Timetable 2025</u>
 </p>
 <p>Dear students, these are the class timetables for Semester 1 2024. Please
 note that Odd week timetables are for weeks 1, 3, 5, 7 &amp; 9, while even
