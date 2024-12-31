@@ -32,20 +32,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 Dec 2024</p>
+<p>31 Dec 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Important Information (1st day of school in 2025)</u>
+<p><u>CCA and CCA audition schedules 2025</u>
 </p>
-<p></p>
-<p>Please refer to <a href="/files/PDF for announcements/Secondary/2025___First_Day_of_School_Info__to_be_hosted_on_school_website_.pdf" rel="noopener nofollow" target="_blank">this pdf</a> for
-details regarding the first day of school.</p>
-<p></p>
+<p>Dear students, here are the <a href="/files/PDF for announcements/Secondary CCA/SNGS_CCA_schedule_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA schedule</a> and
+<a href="/files/PDF for announcements/Secondary CCA/SNGS_CCA_audition_schedule_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA audition schedule</a>s (for Sec 1's and new students).</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 Dec 2024</p>
+<p>31 Dec 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Class Timetable 2025</u>
@@ -65,6 +63,19 @@ week timetables are for weeks 2, 4, 6, 8 &amp; 10. <strong>[Week 0 (2 - 3 Jan) i
 <p></p>
 <p>Should there be any changes to the timetable, the affected classes and
 students would be informed by their form/subject teachers.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 Dec 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Important Information (1st day of school in 2025)</u>
+</p>
+<p></p>
+<p>Please refer to <a href="/files/PDF for announcements/Secondary/2025___First_Day_of_School_Info__to_be_hosted_on_school_website_.pdf" rel="noopener nofollow" target="_blank">this pdf</a> for
+details regarding the first day of school.</p>
+<p></p>
 </td>
 </tr>
 <tr>
