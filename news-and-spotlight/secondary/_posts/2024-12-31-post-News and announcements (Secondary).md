@@ -38,7 +38,7 @@ variant: tiptap
 <p><u>CCA and CCA audition schedules 2025</u>
 </p>
 <p>Dear students, here are the <a href="/files/PDF for announcements/Secondary CCA/SNGS_CCA_schedule_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA schedule</a> and
-<a href="/files/PDF for announcements/Secondary CCA/SNGS_CCA_audition_schedule_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA audition schedule</a>s (for Sec 1's and new students).</p>
+<a href="/files/PDF for announcements/Secondary CCA/SNGS_CCA_AUDITION_SCHEDULE_2025__2_.pdf" rel="noopener nofollow" target="_blank">CCA Audition Schedule</a>s (for Sec 1's and new students).</p>
 </td>
 </tr>
 <tr>
