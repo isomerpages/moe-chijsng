@@ -32,6 +32,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>7 Jan 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Release of 2024 GCE O-Level Exam Results</u>
+</p>
+<p>Dear 2024 Sec 4 students, please <a href="/files/Information_to_be_hosted_on_the_school_website.pdf" rel="noopener nofollow" target="_blank">click here</a> for
+important information regarding the collection of your O-Level Exam results.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>31 Dec 2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,18 +98,6 @@ details regarding the first day of school.</p>
 </p>
 <p>Any updates to the school calendar will be communicated to the students
 directly. (link to school calendar to be updated).</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>(date to be updated)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>Release of 2024 GCE O-Level Exam Results</u>
-</p>
-<p>Dear 2024 Sec 4 students, please click here for important information
-regarding the collection of your O-Level Exam results. (link to information
-to be updated)</p>
 </td>
 </tr>
 </tbody>
