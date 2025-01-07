@@ -49,7 +49,10 @@ important information regarding the collection of your O-Level Exam results.</p>
 <p><u>CCA and CCA audition schedules 2025</u>
 </p>
 <p>Dear students, here are the <a href="/files/PDF for announcements/Secondary CCA/SNGS_CCA_schedule_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA schedule</a> and
-<a href="/files/PDF for announcements/Secondary CCA/SNGS_CCA_AUDITION_SCHEDULE_2025__2_.pdf" rel="noopener nofollow" target="_blank">CCA Audition Schedule</a>s (for Sec 1's and new students).</p>
+<a href="/files/PDF for announcements/Secondary CCA/2025_CCA_AUDITION_SCHEDULE_caa_7_Jan.pdf" rel="noopener nofollow" target="_blank">CCA Audition Schedule</a>s (for Sec 1's and new students).</p>
+<p></p>
+<p>[Update on 7 Jan] Please note that there is an update to the CCA Audition
+Schedule for Library Society.</p>
 </td>
 </tr>
 <tr>
