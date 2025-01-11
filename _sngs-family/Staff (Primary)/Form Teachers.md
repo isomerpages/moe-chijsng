@@ -65,7 +65,7 @@ variant: markdown
 | 5G | Mdm [Denise Jung](mailto:jung_gee_ting@schools.gov.sg) | Mr [Calvin Tay](mailto:tay_ngiang_boon_calvin@schools.gov.sg) |
 | 5H | Mrs [Laura Lim](mailto:koh_kim_suat_laura@schools.gov.sg) | Mr [Muhammad Azahar](mailto:muhammad_azahar_rosli@schools.gov.sg) |
 | 5J | Mdm [Toh Poh Yen](mailto:toh_poh_yen@schools.gov.sg) | Ms [Cindy Ng](mailto:ng_lai_leng_cindy@schools.gov.sg) |
-| 5P | Ms [Loh Shihan](mailto:loh_shihan@schools.gov.sg) | Mdm [Yong Sheue Mei](mailto:yong_sheue_mei@schools.gov.sg) |
+| 5P | Mrs [Christina Loh](mailto:chee_mei_lan_christina@schools.gov.sg) | Mdm [Yong Sheue Mei](mailto:yong_sheue_mei@schools.gov.sg) |
 
 ##### **Primary 6**
 ###### Year Head - Ms [Juay Chiew Joo](mailto:juay_chiew_joo@schools.gov.sg) 
