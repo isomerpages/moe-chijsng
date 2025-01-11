@@ -23,7 +23,7 @@ variant: markdown
 
 | Class | Form Teachers | Co-Form Teachers |
 | --- | --- |--- |
-| 2C | Ms [Rebecca Lim](mailto:lim_mei_li@schools.gov.sg) | Mdm [Ng Puay Huen](mailto:ng_puay_huen@schools.gov.sg) |
+| 2C | Mrs [Gomathi](mailto:gomathi_a@schools.gov.sg) | Mdm [Ng Puay Huen](mailto:ng_puay_huen@schools.gov.sg) |
 | 2F | Mdm [Chan Hui Ming](mailto:chan_hui_ming@schools.gov.sg) | Mr [Darren Er](mailto:er_darren@schools.gov.sg) |
 | 2G | Ms [Lee Hwee Ing](mailto:lee_hwee_ing@schools.gov.sg) | Mdm [Jia Yangyang](mailto:Jia_Yangyang@schools.gov.sg) |
 | 2H | Ms [Eileen Low](mailto:low_wei_ling_eileen@schools.gov.sg) | Mrs [Esme Loh](mailto:esme_foo@schools.gov.sg) |
