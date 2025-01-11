@@ -56,7 +56,7 @@ variant: markdown
 | 4P | Mdm [Suelsa Zainudin](mailto:suelsa_zainudin@schools.gov.sg) |  Ms [Ng Sock Ling](mailto:ng_sock_ling@schools.gov.sg) |
 
 ##### **Primary 5**
-###### Year Head - Ms [Juay Chiew Joo](mailto:juay_chiew_joo@schools.gov.sg)
+###### Year Head - Ms [Lum Hui Min](mailto:lum_hui_min@schools.gov.sg)
 
 | Class | Form Teachers | Co-Form Teachers |
 | --- | --- | --- |
@@ -68,7 +68,7 @@ variant: markdown
 | 5P | Ms [Loh Shihan](mailto:loh_shihan@schools.gov.sg) | Mdm [Yong Sheue Mei](mailto:yong_sheue_mei@schools.gov.sg) |
 
 ##### **Primary 6**
-###### Year Head - Ms [Lum Hui Min](mailto:lum_hui_min@schools.gov.sg) 
+###### Year Head - Ms [Juay Chiew Joo](mailto:juay_chiew_joo@schools.gov.sg) 
 
 | Class | Form Teachers | Co-Form Teachers |
 | --- | --- | --- |
