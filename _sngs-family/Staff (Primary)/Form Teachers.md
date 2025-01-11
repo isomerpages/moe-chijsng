@@ -40,7 +40,7 @@ variant: markdown
 | 3F | Mdm [Chia Yi Ling](mailto:chia_yi_ling@schools.gov.sg) | Mdm [Ong Ee Hoon](mailto:ong_ee_hoon@schools.gov.sg) |
 | 3G | Mrs [Ruth Quek](mailto:tan_wee_siew_ruth@schools.gov.sg) | Mdm [Yap Yng Ling](mailto:yap_yng_ling@schools.gov.sg) |
 | 3H | Mr [Ng Junyuan](mailto:ng_junyuan@schools.gov.sg) | Mrs [Marilyn Tan](mailto:teo_hong_ling_marilyn@schools.gov.sg) / Mdm [Lee Ling Ling](mailto:lee_ling_ling_a@schools.gov.sg)|
-| 3J | Mdm [Wong Pih Foung](mailto:wong_pih_foung@schools.gov.sg) | Mdm [Tong Tsz Ching](mailto:tong_tsz_ching@schools.gov.sg) |
+| 3J | Mdm [Wong Pih Foung](mailto:wong_pih_foung@schools.gov.sg) | Mdm [Grace Chen](mailto:chen_suhua@schools.gov.sg) |
 | 3P | Mrs [Cheryl Tay](mailto:kang_liwen_cheryl_ann@schools.gov.sg) | Mr [Phoon Chee Weng](mailto:phoon_chee_weng@schools.gov.sg) |
 
 ##### **Primary 4**
