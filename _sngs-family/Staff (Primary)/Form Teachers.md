@@ -50,7 +50,7 @@ variant: markdown
 | --- | --- | --- |
 | 4C | Mdm [Wang Ying](mailto:wang_ying@schools.gov.sg) | Ms [Brenda Wong](mailto:wong_pek_chin_brenda@schools.gov.sg) |
 | 4F | Mrs [Queenie Leong](mailto:chua_bor_chwen_queenie@schools.gov.sg) | Mr [Ahmad Ibrahim](mailto:ahmad_ibrahim_a@schools.gov.sg) |
-| 4G | Mdm [Chan Hui Ming](mailto:chan_hui_ming@schools.gov.sg) | Mrs [Marilyn Tan](mailto:teo_hong_ling_marilyn@schools.gov.sg) / Mr [Lui Yenn Kai](mailto:lui_yenn_kai_a@schools.gov.sg)  |
+| 4G | Mdm [Chan Hui Ming](mailto:chan_hui_ming@schools.gov.sg) | Mrs [Lucy Tan](mailto:tan_lucy@schools.gov.sg)  |
 | 4H | Mrs [Lee Pei Ting](mailto:lee_pei_ting@schools.gov.sg) | Mrs [Chew Lee Ching](mailto:tan_lee_ching@schools.gov.sg) |
 | 4J | Mdm [Cong Fang](mailto:cong_fang@schools.gov.sg) | Ms [Lee Hui Yi](mailto:lee_hui_yi_a@schools.gov.sg) |
 | 4P | Mdm [Suelsa Zainudin](mailto:suelsa_zainudin@schools.gov.sg) |  Ms [Ng Sock Ling](mailto:ng_sock_ling@schools.gov.sg) |
