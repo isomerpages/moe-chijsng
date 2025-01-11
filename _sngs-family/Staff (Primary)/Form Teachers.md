@@ -60,7 +60,7 @@ variant: markdown
 
 | Class | Form Teachers | Co-Form Teachers |
 | --- | --- | --- |
-| 5C | Mrs [Rachel Tan](mailto:lee_kim_lin_rachel@schools.gov.sg) | Mdm [Sunnie Tang](mailto:tang_sunnie@schools.gov.sg) |
+| 5C | Mrs [Sheon Wee](mailto:lee_sze_yuin@schools.gov.sg) | Mdm [Sunnie Tang](mailto:tang_sunnie@schools.gov.sg) |
 | 5F | Mr [Daniel Chng](mailto:chng_chye_thiam@schools.gov.sg) | Ms [Genevieve Chow](mailto:chow_wai_har_genevieve@schools.gov.sg) |
 | 5G | Ms [Dong Yuyi](mailto:dong_yuyi@schools.gov.sg) | Mrs [Petrina Lim](mailto:tan_lay_beng_petrina@schools.gov.sg) |
 | 5H | Ms [Pung Chuan Ting](mailto:pung_chuan_ting@schools.gov.sg) | Mrs [Gina Chen](mailto:lim_wee_ping@schools.gov.sg) |
