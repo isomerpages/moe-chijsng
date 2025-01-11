@@ -36,7 +36,7 @@ variant: markdown
 
 | Class | Form Teachers | Co-Form Teachers |
 | --- | --- | --- |
-| 3C | Mrs [Lee Pei Ting](mailto:lee_pei_ting@schools.gov.sg) | Ms [Brenda Wong](mailto:wong_pek_chin_brenda@schools.gov.sg) |
+| 3C | Mrs [Lee Pei Ting](mailto:lee_pei_ting@schools.gov.sg) | Ms [Susan Gan](mailto:gan_woon_ee_susan@schools.gov.sg) |
 | 3F | Mrs [Queenie Leong](mailto:chua_bor_chwen_queenie@schools.gov.sg) | Mr [Ahmad Ibrahim](mailto:ahmad_ibrahim_a@schools.gov.sg) |
 | 3G | Ms [Patricia Koh](mailto:koh_yi_guan_patricia@schools.gov.sg) | Mrs [Lucy Tan](mailto:tan_lucy@schools.gov.sg) |
 | 3H | Mrs[Toh Wan Ting](mailto:chiam_wan_ting@schools.gov.sg) | Ms [Lam Xiang Qi](mailto:Lam_Xiang_Qi@schools.gov.sg) |
