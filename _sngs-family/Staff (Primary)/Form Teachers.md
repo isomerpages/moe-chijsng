@@ -77,4 +77,4 @@ variant: markdown
 |   6G  | Ms [Dong Yuyi](mailto:dong_yuyi@schools.gov.sg) | Mdm [Petrina Lim](mailto:tan_lay_beng_petrina@schools.gov.sg) |
 |  6H | Ms [Pung Chuan Ting](mailto:pung_chuan_ting@schools.gov.sg) | Mrs [Gina Chen](mailto:lim_wee_ping@schools.gov.sg) |
 | 6J | Mrs [Carolyn Tan](mailto:wu_ruixian_carolyn@schools.gov.sg) | Mrs [Phoebe Peer](mailto:lee_hui_lin_phoebe@schools.gov.sg) / Dr [Ho Yok Kum](mailto:ho_yok_kum@schools.gov.sg) |
-| 6P | Ms [Lee Hui Yi](mailto:lee_hui_yi_a@schools.gov.sg) | Mdm [Lim Lee Koon](mailto:lim_lee_koon_a@schools.gov.sg) |
+| 6P | Ms [Lee Hui Yi](mailto:lee_hui_yi_a@schools.gov.sg) | Mdm [Yong Sheue Mei](mailto:yong_sheue_mei@schools.gov.sg) |
