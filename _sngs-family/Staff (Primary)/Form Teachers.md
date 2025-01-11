@@ -63,7 +63,7 @@ variant: markdown
 | 5C | Mrs [Sheon Wee](mailto:lee_sze_yuin@schools.gov.sg) | Mdm [Chong Fei Ming](mailto:chong_fei_ming@schools.gov.sg) |
 | 5F | Mdm [Lim Qi Ning](mailto:lim_qi_ning@schools.gov.sg) | Mdm [Chin Lan Shiang](mailto:chin_lan_shiang@schools.gov.sg) |
 | 5G | Mdm [Denise Jung](mailto:jung_gee_ting@schools.gov.sg) | Mr [Calvin Tay](mailto:tay_ngiang_boon_calvin@schools.gov.sg) |
-| 5H | Mrs [Laura Lim](mailto:koh_kim_suat_laura@schools.gov.sg) | Mrs [Gina Chen](mailto:lim_wee_ping@schools.gov.sg) |
+| 5H | Mrs [Laura Lim](mailto:koh_kim_suat_laura@schools.gov.sg) | Mr [Muhammad Azahar](mailto:muhammad_azahar_rosli@schools.gov.sg) |
 | 5J | Mrs [Carolyn Tan](mailto:wu_ruixian_carolyn@schools.gov.sg) | Mrs [Phoebe Peer](mailto:lee_hui_lin_phoebe@schools.gov.sg) / Dr [Ho Yok Kum](mailto:ho_yok_kum@schools.gov.sg) |
 | 5P | Ms [Loh Shihan](mailto:loh_shihan@schools.gov.sg) | Mdm [Yong Sheue Mei](mailto:yong_sheue_mei@schools.gov.sg) |
 
