@@ -11,7 +11,7 @@ variant: markdown
 | Class | Form Teachers | Co-Form Teachers
 | --- | --- | --- |
 | 1C | Mrs [Tan Lee Ching](mailto:tan_lee_ching@schools.gov.sg) | Mr [Vicknes](mailto:vicknes_vinayak_veerappan@schools.gov.sg) |
-| 1F | Ms [Rebecca Lim](mailto:lim_mei_li@schools.gov.sg) | Mdm [Ong Ee Hoon](mailto:ong_ee_hoon@schools.gov.sg) |
+| 1F | Ms [Rebecca Lim](mailto:lim_mei_li@schools.gov.sg) | Mdm [Lim Geok Yen](mailto:lim_geok_yen@schools.gov.sg) |
 | 1G | Mdm [Tan Choon Pei](mailto:tan_choon_pei@schools.gov.sg) | Mrs [Frances Goh](mailto:frances_goh_pih_chee@schools.gov.sg) |
 | 1H | Mrs [Angie Choong](mailto:chong_sou_foong@schools.gov.sg) | Mrs [Christina Loh](mailto:chee_mei_lan_christina@schools.gov.sg) |
 | 1J | Mrs [Christina Chan](mailto:tan_liang_hong_christina@schools.gov.sg) | Mdm [Lee Ling Ling](mailto:lee_ling_ling_a@schools.gov.sgg) |
