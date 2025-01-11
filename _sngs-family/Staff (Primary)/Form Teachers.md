@@ -27,7 +27,7 @@ variant: markdown
 | 2F | Ms [Chim Shu Min](mailto:chim_shu_min@schools.gov.sg) | Mdm [Ng Puay Huen](mailto:ng_puay_huen@schools.gov.sg) |
 | 2G | Mdm [Tan Choon Pei](mailto:tan_choon_pei@schools.gov.sg) | Mrs [Frances Tan](mailto:frances_goh_pih_chee@schools.gov.sg) |
 | 2H | Mrs [Angie Choong](mailto:chong_sou_foong@schools.gov.sg) | Mdm [Cong Fang](mailto:cong_fang@schools.gov.sg) / Mrs [Joy Thiang](mailto:thiang_yen_ping_joy_a@schools.gov.sg) |
-| 2J | Mrs [Suelynn Sing](mailto:tan_suelynn@schools.gov.sg) | Mrs [Jane Lee](mailto:Chua_jie_ying_jane@schools.gov.sg) |
+| 2J | Mrs [Christina Chan](mailto:tan_liang_hong_christina@schools.gov.sg) | Mdm [Tong Tsz Ching](mailto:tong_tsz_ching@schools.gov.sg) |
 |  2P | Mrs [Ruth Quek](mailto:tan_wee_siew_ruth@schools.gov.sg) | Mdm [Chay Kit See](mailto:chay_kit_see@schools.gov.sg) |
 |  2W | Mrs [Balinda Salleh](mailto:balinda_salleh@schools.gov.sg) | Ms [Susan Gan](mailto:gan_woon_ee_susan@schools.gov.sg) |
 
