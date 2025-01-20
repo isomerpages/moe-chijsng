@@ -67,7 +67,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>elizabeth_goh_a@schools.gov.sg</p>
+<p>goh_xiu_qing_elizabeth@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
