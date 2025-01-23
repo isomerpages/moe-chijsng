@@ -28,7 +28,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>2025 Primary 6 Term 1 Weighted Assessment (WA) Assessment Scope</strong> 
 <br>Click the link to view assessment scope</p>
-<p><a href="/files/PDF for announcements/Primary/2024_P6_WA_Scopes__Term_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">P6</a>
+<p><a href="/files/PDF for announcements/Primary/2025_P6_T1WA_Scopes.pdf" rel="noopener nofollow" target="_blank">P6</a>
 </p>
 </td>
 </tr>
