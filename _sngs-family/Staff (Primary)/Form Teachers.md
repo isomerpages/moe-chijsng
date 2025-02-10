@@ -8,7 +8,7 @@ variant: markdown
 ##### **Primary 1**
 ###### Year Head - Ms [Xuanie Chin](mailto:chin_yi_xuan@schools.gov.sg)
 
-| Class | Form Teachers | Co-Form Teachers
+| Class | Form Teachers |    |
 | --- | --- | --- |
 | 1C | Mrs [Tan Lee Ching](mailto:tan_lee_ching@schools.gov.sg) | Mr [Vicknes](mailto:vicknes_vinayak_veerappan@schools.gov.sg) |
 | 1F | Ms [Rebecca Lim](mailto:lim_mei_li@schools.gov.sg) | Mdm [Lim Geok Yen](mailto:lim_geok_yen@schools.gov.sg) |
@@ -21,7 +21,7 @@ variant: markdown
 ##### **Primary 2**
 ###### Year Head - Ms [Judy Koh](mailto:koh_cheng_tee@schools.gov.sg)
 
-| Class | Form Teachers | Co-Form Teachers |
+| Class | Form Teachers |  |
 | --- | --- |--- |
 | 2C | Mrs [Gomathi](mailto:gomathi_a@schools.gov.sg) | Mdm [Li Yan Zhen](mailto:li_yan_zhen@schools.gov.sg) |
 | 2F | Ms [Chim Shu Min](mailto:chim_shu_min@schools.gov.sg) | Mdm [Ng Puay Huen](mailto:ng_puay_huen@schools.gov.sg) |
@@ -34,7 +34,7 @@ variant: markdown
 ##### **Primary 3**
 ###### Year Head - Mdm [Agnes Lee](mailto:lee_ling_ling_agnes@schools.gov.sg)
 
-| Class | Form Teachers | Co-Form Teachers |
+| Class | Form Teachers |  |
 | --- | --- | --- |
 | 3C | Mrs [Lee Pei Ting](mailto:lee_pei_ting@schools.gov.sg) | Ms [Susan Gan](mailto:gan_woon_ee_susan@schools.gov.sg) |
 | 3F | Mdm [Chia Yi Ling](mailto:chia_yi_ling@schools.gov.sg) | Mdm [Ong Ee Hoon](mailto:ong_ee_hoon@schools.gov.sg) |
@@ -46,7 +46,7 @@ variant: markdown
 ##### **Primary 4**
 ###### Year Head - Ms [Noelle Lee](mailto:lee_meiting_noelle_francesca@schools.gov.sg)
 
-| Class | Form Teachers | Co-Form Teachers |
+| Class | Form Teachers |  |
 | --- | --- | --- |
 | 4C | Mdm [Wang Ying](mailto:wang_ying@schools.gov.sg) | Ms [Brenda Wong](mailto:wong_pek_chin_brenda@schools.gov.sg) |
 | 4F | Mrs [Queenie Leong](mailto:chua_bor_chwen_queenie@schools.gov.sg) | Mr [Ahmad Ibrahim](mailto:ahmad_ibrahim_a@schools.gov.sg) |
@@ -58,7 +58,7 @@ variant: markdown
 ##### **Primary 5**
 ###### Year Head - Ms [Lum Hui Min](mailto:lum_hui_min@schools.gov.sg)
 
-| Class | Form Teachers | Co-Form Teachers |
+| Class | Form Teachers |  |
 | --- | --- | --- |
 | 5C | Mrs [Sheon Wee](mailto:lee_sze_yuin@schools.gov.sg) | Mdm [Chong Fei Ming](mailto:chong_fei_ming@schools.gov.sg) |
 | 5F | Mdm [Lim Qi Ning](mailto:lim_qi_ning@schools.gov.sg) | Mdm [Chin Lan Shiang](mailto:chin_lan_shiang@schools.gov.sg) |
@@ -70,7 +70,7 @@ variant: markdown
 ##### **Primary 6**
 ###### Year Head - Ms [Juay Chiew Joo](mailto:juay_chiew_joo@schools.gov.sg) 
 
-| Class | Form Teachers | Co-Form Teachers |
+| Class | Form Teachers |  |
 | --- | --- | --- |
 |  6C | Mrs [Rachel Tan](mailto:lee_kim_lin_rachel@schools.gov.sg) | Mdm [Sunnie Tang](mailto:tang_sunnie@schools.gov.sg) |
 | 6F | Mr [Daniel Chng](mailto:chng_chye_thiam@schools.gov.sg) | Ms [Genevieve Chow](mailto:chow_wai_har_genevieve@schools.gov.sg) |
