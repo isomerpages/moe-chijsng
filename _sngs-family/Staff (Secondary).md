@@ -184,7 +184,7 @@ variant: tiptap
 <p>Ms Lau Hui Ning 刘慧凝老师</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / SAP</p>
+<p>HOD / SAP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lau_hui_ning@schools.gov.sg</p>
