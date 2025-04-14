@@ -23,6 +23,55 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>14 Apr 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025 Primary 3 Term 2 Weighted Assessment (WA) Assessment Scope</strong> 
+<br>Click the link to view assessment scope</p>
+<p></p>
+<p><a href="/files/PDF for announcements/Primary/2025_P3_Weighted_Assessment_Scope__WA__scopes__Term_2_.pdf" rel="noopener nofollow" target="_blank">P3</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 Apr 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025 Primary 4 Term 2 Weighted Assessment (WA) Assessment Scope</strong> 
+<br>Click the link to view assessment scope</p>
+<p><a href="/files/PDF for announcements/Primary/2025_P4_Weighted_Assessment_Scope__WA__scopes__Term_2_.pdf" rel="noopener nofollow" target="_blank">P4</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 Apr 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025 Primary 5 Term 2 Weighted Assessment (WA) Assessment Scope</strong> 
+<br>Click the link to view assessment scope</p>
+<p></p>
+<p><a href="/files/PDF for announcements/Primary/2025_P5_Weighted_Assessment_Scope__WA__scopes__Term_2_.pdf" rel="noopener nofollow" target="_blank">P5</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 Apr 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025 Primary 6 Term 2 Weighted Assessment (WA) Assessment Scope</strong> 
+<br>Click the link to view assessment scope</p>
+<p></p>
+<p><a href="/files/PDF for announcements/Primary/2025_P6_Weighted_Assessment_Scope__WA__scopes__Term_2_.pdf" rel="noopener nofollow" target="_blank">P6</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>23 Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -30,6 +79,8 @@ variant: tiptap
 <br>Click the link to view assessment scope</p>
 <p><a href="/files/PDF for announcements/Primary/2025_P6_T1WA_Scopes.pdf" rel="noopener nofollow" target="_blank">P6</a>
 </p>
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>
