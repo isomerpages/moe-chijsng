@@ -23,6 +23,38 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>23 Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -30,6 +62,8 @@ variant: tiptap
 <br>Click the link to view assessment scope</p>
 <p><a href="/files/PDF for announcements/Primary/2025_P6_T1WA_Scopes.pdf" rel="noopener nofollow" target="_blank">P6</a>
 </p>
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>
