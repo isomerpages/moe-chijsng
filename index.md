@@ -15,6 +15,14 @@ sections:
         - title: SNGS Secondary
           description: ""
           url: https://www.chijsngsec.moe.edu.sg
+  - infopic:
+      title: St Nicks (Sec) Open House
+      subtitle: Say "YES!" to St Nicks
+      id: infopic
+      description: 欢迎大家前来参观圣尼各拉校园，加入圣尼各拉大家庭，和我们一起爱上圣尼各拉! 我们5月10日见!
+      button: Register for Principal's talk
+      url: https://go.gov.sg/2025snopenhouse
+      alt: Image alt text
   - resources:
       subtitle: News & Spotlight
       button: view all spotlight & news
