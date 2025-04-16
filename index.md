@@ -23,6 +23,7 @@ sections:
       button: Register for Principal's talk
       url: https://go.gov.sg/2025snopenhouse
       alt: Image alt text
+      image: /images/Poster1_rev4_1_copy_2__1_.jpg
   - resources:
       subtitle: News & Spotlight
       button: view all spotlight & news
