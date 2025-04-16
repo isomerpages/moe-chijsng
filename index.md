@@ -22,7 +22,7 @@ sections:
       description: 欢迎大家前来参观圣尼各拉校园，加入圣尼各拉大家庭，和我们一起爱上圣尼各拉! 我们5月10日见!
       button: Register for Principal's talk
       url: https://go.gov.sg/2025snopenhouse
-      alt: Image alt text
+      alt: SNGS Open House 2025
       image: /images/Poster1_rev4_1_copy_2__1_.jpg
   - resources:
       subtitle: News & Spotlight
