@@ -7,39 +7,42 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>Admission to Secondary 1 / Year 1 in CHIJ St Nicholas Girls’ School (AY 2025)</strong></h4>
+<h4><strong>Admission to Secondary 1 / Year 1 in CHIJ St Nicholas Girls’ School (AY 2026)</strong></h4>
 <p><strong>A. Overview</strong>
 </p>
 <p>CHIJ St Nicholas Girls’ School (SNGS) will be accepting students into
 Secondary 1 of our Singapore-Cambridge Secondary Education Certificate
 Programme (SP) and Year 1 of the Joint Integrated Programme (JIP) commencing
-in Academic Year (AY) 2025 via the 2024 Direct School Admission-Secondary
+in Academic Year (AY) 2026 via the 2025 Direct School Admission-Secondary
 (DSA-Sec) Exercise.</p>
 <p>The JIP by CHIJ SNGS is in partnership with Eunoia Junior College. Students
 will spend their first 4 years in CHIJ SNGS before progressing to Eunoia
 Junior College to complete the JIP by sitting for the GCE A-Levels Examination.</p>
+<p></p>
 <p><strong>B. Applicants Not Studying in MOE Mainstream Primary Schools</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Applicants who are not studying in MOE mainstream primary schools should
-apply online for a Registration Number via MOE DSA website in order to
-access the DSA portal. For more information, please refer to the MOE website:
-<a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>.</p>
+apply online for a Registration Number via the MOE DSA website. For more
+information, please refer to the MOE website: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>.</p>
 </li>
 <li>
 <p>All applicants should fulfil the age requirement for Secondary 1 admission
-in 2025: (a) Singapore Citizens or Permanent Residents must be born between
-2 Jan 2008 and 1 Jan 2013; (b) International Students (non-SC/PR) must
-be born between 2 Jan 2010 and 1 Jan 2013.</p>
+in 2026</p>
+<p>o Singapore Citizens or Permanent Residents must be born between 2 Jan
+2009 and 1 Jan 2014.</p>
+<p>o International Students (non-SC/PR) must be born between 2 Jan 2011 and
+1 Jan 2014.</p>
 </li>
 <li>
-<p>International students must take part and fulfil the requirements of the
-Admissions Exercise for International Students (AEIS) before they can be
-considered for admission to secondary school via DSA-Sec. For further information,
-please refer to the AEIS website: <a href="https://www.moe.gov.sg/international-students/aeis" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/international-students/aeis</a>.</p>
+<p>International students must take part and fulfil the requirements of the <strong>Admissions Exercise for International Students (AEIS)</strong> before
+they can be considered for admission to secondary school via DSA-Sec.</p>
+<p>o For further information, please refer to the AEIS website: <a href="https://www.moe.gov.sg/international-students/aeis" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/international-students/aeis</a> 
+</p>
 </li>
 </ul>
+<p></p>
 <p><strong>C. Overview of DSA-Sec Talent Areas</strong>
 </p>
 <p>Selection will consider candidates’ overall readiness to benefit from
@@ -49,9 +52,8 @@ where applicable.</p>
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 their daughter’s area of talent.</p>
-<p>[Updated on 7 May 2024]</p>
-<p>Please click <strong><a href="/files/PDF%20for%20Spotlight/Updated__2024__DSA_Selection_Criteria_and_Dates.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
-details about our selection criteria and DSA process.</p>
+<p></p>
+<p>Please download our selection criteria and process here.</p>
 <h5><strong>DSA Talent Areas for 4-year SP <u>and</u> 6-year JIP</strong></h5>
 <table style="minWidth: 50px">
 <colgroup>
