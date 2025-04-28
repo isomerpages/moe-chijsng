@@ -38,7 +38,7 @@ in 2026</p>
 <li>
 <p>International students must take part and fulfil the requirements of the <strong>Admissions Exercise for International Students (AEIS)</strong> before
 they can be considered for admission to secondary school via DSA-Sec.</p>
-<p>o For further information, please refer to the AEIS website: <a href="https://www.moe.gov.sg/international-students/aeis" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/international-students/aeis</a> 
+<p>o For further information, please refer to the AEIS website: <a href="https://www.moe.gov.sg/international-students/aeis" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/international-students/aeis</a>
 </p>
 </li>
 </ul>
