@@ -29,16 +29,14 @@ information, please refer to the MOE website: <a href="https://go.gov.sg/nmsdsa-
 </li>
 <li>
 <p>All applicants should fulfil the age requirement for Secondary 1 admission
-in 2026</p>
-<p>o Singapore Citizens or Permanent Residents must be born between 2 Jan
-2009 and 1 Jan 2014.</p>
-<p>o International Students (non-SC/PR) must be born between 2 Jan 2011 and
-1 Jan 2014.</p>
+in 2026: (a) Singapore Citizens or Permanent Residents must be born between
+2 Jan 2009 and 1 Jan 2014; (b) International Students (non-SC/PR) must
+be born between 2 Jan 2011 and 1 Jan 2014.</p>
 </li>
 <li>
 <p>International students must take part and fulfil the requirements of the <strong>Admissions Exercise for International Students (AEIS)</strong> before
-they can be considered for admission to secondary school via DSA-Sec.</p>
-<p>o For further information, please refer to the AEIS website: <a href="https://www.moe.gov.sg/international-students/aeis" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/international-students/aeis</a>
+they can be considered for admission to secondary school via DSA-Sec. For
+further information, please refer to the AEIS website: <a href="https://www.moe.gov.sg/international-students/aeis" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/international-students/aeis</a>
 </p>
 </li>
 </ul>
