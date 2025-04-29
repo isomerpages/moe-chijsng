@@ -53,7 +53,7 @@ the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 their daughter’s area of talent.</p>
 <p></p>
-<p>Please download our selection criteria and process here.</p>
+<p>Please download our selection criteria and process <a href="/files/PDF for Spotlight/Updated__2025__DSA_Selection_Criteria_and_Dates.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h5><strong>DSA Talent Areas for 4-year SP <u>and</u> 6-year JIP</strong></h5>
 <table style="minWidth: 50px">
 <colgroup>
@@ -87,8 +87,7 @@ excellence and leadership development opportunities. We promote a strong
 culture of camaraderie and team spirit in developing our students to be
 sportswomen of strong moral character.
 <br>
-<br>Sports and Games Talent Areas:
-<br>
+<br><u>Sports and Games Talent Areas</u>
 <br>Artistic Gymnastics
 <br>Badminton
 <br>Hockey
@@ -106,14 +105,13 @@ sportswomen of strong moral character.
 <td rowspan="1" colspan="1">
 <p>We are looking for students who possess and demonstrate the qualities
 of ‘Leaders with Heart’ and are passionate and committed to the service
-of others and the community. Our Leadership programme aims to develop future
-ready leaders who are able to influence positive change in an increasingly
-complex world.
-<br>
-<br>Priority is given to DSA-Leadership students to hone their skills through
-leadership workshops, dialogues with industry leaders and Design Thinking
-projects. Students will also have the opportunity to grow their cross-cultural
-and critical thinking skills and become confident communicators by participating
+of others and the community.</p>
+<p>Our Leadership programme aims to develop future ready leaders who are
+able to influence positive change in an increasingly complex world. Priority
+is given to DSA-Leadership students to hone their skills through leadership
+workshops, dialogues with industry leaders and Design Thinking projects.
+Students will also have the opportunity to grow their cross-cultural and
+critical thinking skills and become confident communicators by participating
 in a variety of school-wide events and camps.</p>
 </td>
 </tr>
@@ -140,14 +138,11 @@ in a variety of school-wide events and camps.</p>
 <br>中英双语</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Information in English
-<br>(英文解说)
-<br>
+<p><u>Information in English (英文解说) </u>
 <br>We are looking for linguistically talented students who are passionate
 to hone both English and Chinese language abilities and deepen their appreciation
 of the Western and Chinese cultures. Students should demonstrate critical
 thinking and oratorical competency in both languages.
-<br>
 <br>As a SAP school, we provide an immersive experience to nurture the DSA-Bilingualism
 students to become Singapore’s bilingual and bicultural talents. To continue
 to deepen their interests and abilities in Bilingualism, students have
@@ -158,11 +153,8 @@ and bilingual debates, just to name a few. Students experience both breadth
 and depth in their language and cultural learning to deepen their strengths
 and passions.
 <br>
-<br>中文解说
-<br>(Explanation in Mandarin)
-<br>
-<br>双语项目申请者应具备特出的中英双语能力，并热衷于了解中华文化和西方文化。学生也应在遴选过程中展现优秀的思辨和口语能力
-<br>
+<br><u>中文解说 (Explanation in Mandarin) </u>
+<br>双语项目申请者应具备特出的中英双语能力，并热衷于了解中华文化和西方文化。学生也应在遴选过程中展现优秀的思辨和口语能力。
 <br>作为特选学校，我校致力于创造优质的双语学习环境，培养双语项目学生成为我国的双语双文化人才。我们通过丰富多元的课程与活动提升每一名学生的双语能力以及文化鉴赏能力、创造能力。例如，学生们有机会参加中国和西方浸濡计划，与美国姐妹学校联办的国际教室项目，翻译课程，驻校作家计划，学术研究入门和双语辩论等。</p>
 </td>
 </tr>
@@ -178,7 +170,6 @@ Students should be curious and observant about the world around them. They
 should be critical and analytical individuals who demonstrate the aptitude
 in integrating and connecting knowledge from the different STEM related
 disciplines to create multi-disciplinary solutions to real-world problems.
-<br>
 <br>Through a rigorous curriculum with greater emphasis on problem-based learning,
 we aim to nurture critical thinkers, problem-solvers and innovators. We
 will provide opportunities for students to hone their skills and stretch
@@ -212,5 +203,7 @@ eligible for Posting Group 3 based on their PSLE results.</p>
 <p><strong>E. Enquiries about SNGS DSA-Secondary Exercise</strong>
 </p>
 <p>For further enquiries pertaining to the DSA admissions process, please
-contact CHIJ SNGS at 63541839 (telephone) or email <a href="mailto:chijsng.dsa@gmail.com" rel="noopener noreferrer nofollow" target="_blank">chijsng.DSA@gmail.com</a><em>The information on this page is correct as of 22 Apr 2024.</em>
+contact CHIJ SNGS at 63541839 (telephone) or email <a href="mailto:chijsng.dsa@gmail.com" rel="noopener noreferrer nofollow" target="_blank">chijsng.DSA@gmail.com</a>
+</p>
+<p><em>The information on this page is correct as of 25 Apr 2025.</em>
 </p>
