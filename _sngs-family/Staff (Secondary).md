@@ -378,6 +378,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Jacqueline Lim Xin Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / LIT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>jacqueline_lim_xin_yi@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Miss Chan Mei Qi Michelle</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -418,17 +429,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>hema_latha_sahadevan@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Jacqueline Lim Xin Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>jacqueline_lim_xin_yi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
