@@ -32,6 +32,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>27 Jun 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Class Timetable 2025</u>
+</p>
+<p>Dear students, these are the class timetables for Semester 2 2025.</p>
+<p>Please note that Odd week timetables are for weeks 1, 3, 5, 7 &amp; 9,
+while even week timetables are for weeks 2, 4, 6, 8 &amp; 10.</p>
+<p><strong>Odd </strong>week timetable:</p>
+<p><strong>Even </strong>week timetable:</p>
+<p></p>
+<p>Should there be any changes to the timetable, the affected classes and
+students would be informed by their form/subject teachers.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>7 Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
