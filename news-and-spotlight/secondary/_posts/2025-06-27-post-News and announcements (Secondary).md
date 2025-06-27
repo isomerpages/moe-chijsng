@@ -40,8 +40,14 @@ variant: tiptap
 <p>Dear students, these are the class timetables for Semester 2 2025.</p>
 <p>Please note that Odd week timetables are for weeks 1, 3, 5, 7 &amp; 9,
 while even week timetables are for weeks 2, 4, 6, 8 &amp; 10.</p>
-<p><strong>Odd </strong>week timetable:</p>
-<p><strong>Even </strong>week timetable:</p>
+<p><strong>Odd </strong>week timetable: <a href="/files/PDF for announcements/Secondary/Timetable/2025_SEM_2_Odd_Sec_1_final_caa_250627.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>,
+<a href="/files/PDF for announcements/Secondary/Timetable/2025_SEM_2_Odd_Sec_2_final_caa_250627.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>, <a href="/files/PDF for announcements/Secondary/Timetable/2025_SEM_2_Odd_Sec_3_final_caa_250627.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>,
+<a href="/files/PDF for announcements/Secondary/Timetable/2025_SEM_2_Odd_Sec_4_final_caa_250627.pdf" rel="noopener nofollow" target="_blank">Sec 4</a>
+</p>
+<p><strong>Even </strong>week timetable: <a href="/files/PDF for announcements/Secondary/Timetable/2025_SEM_2_Even_Sec_1_final_caa_250627.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>,
+<a href="/files/PDF for announcements/Secondary/Timetable/2025_SEM_2_Even_Sec_2_final_caa_250627.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>, <a href="/files/PDF for announcements/Secondary/Timetable/2025_SEM_2_Even_Sec_3_final_caa_250627.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>,
+<a href="/files/PDF for announcements/Secondary/Timetable/2025_SEM_2_Even_Sec_4_final_caa_250627.pdf" rel="noopener nofollow" target="_blank">Sec 4</a>
+</p>
 <p></p>
 <p>Should there be any changes to the timetable, the affected classes and
 students would be informed by their form/subject teachers.</p>
@@ -83,14 +89,10 @@ Schedule for Library Society.</p>
 note that Odd week timetables are for weeks 1, 3, 5, 7 &amp; 9, while even
 week timetables are for weeks 2, 4, 6, 8 &amp; 10. <strong>[Week 0 (2 - 3 Jan) is considered as even week]</strong>
 </p>
-<p><strong>Odd </strong>week timetable: <a href="/files/PDF for announcements/Secondary/Timetable/2025_SEM_1__Odd_Week__Sec_1_caa_241223.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>,
-<a href="/files/PDF for announcements/Secondary/Timetable/2025_SEM_1__Odd_Week__Sec_2_caa_241223.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>, <a href="/files/PDF for announcements/Secondary/Timetable/2025_SEM_1__Odd_Week__Sec_3_caa_241223.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>,
-<a href="/files/PDF for announcements/Secondary/Timetable/2025_SEM_1__Odd_Week__Sec_4_caa_241223.pdf" rel="noopener nofollow" target="_blank">Sec 4</a>
-</p>
-<p><strong>Even </strong>week timetable: <a href="/files/PDF for announcements/Secondary/Timetable/2025_SEM_1__Even_Week__Sec_1_caa_241223.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>,
-<a href="/files/PDF for announcements/Secondary/Timetable/2025_SEM_1__Even_Week__Sec_2_caa_241223.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>, <a href="/files/PDF for announcements/Secondary/Timetable/2025_SEM_1__Even_Week__Sec_3_caa_241223.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>,
-<a href="/files/PDF for announcements/Secondary/Timetable/2025_SEM_1__Even_Week__Sec_4_caa_241223.pdf" rel="noopener nofollow" target="_blank">Sec 4</a>
-</p>
+<p><strong>Odd </strong>week timetable: Sec 1, Sec 2, Sec 3, Sec 4</p>
+<p><strong>Even </strong>week timetable: Sec 1, Sec 2, Sec 3, Sec 4</p>
+<p></p>
+<p>(update 27 Jun 25 - links have been removed)</p>
 <p></p>
 <p>Should there be any changes to the timetable, the affected classes and
 students would be informed by their form/subject teachers.</p>
