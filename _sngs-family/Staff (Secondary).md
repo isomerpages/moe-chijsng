@@ -176,7 +176,7 @@ variant: tiptap
 <p>HOD / Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated</p>
+<p>aysel_ong_xu_ying@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -378,6 +378,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Jacqueline Lim Xin Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / LIT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>jacqueline_lim_xin_yi@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Miss Chan Mei Qi Michelle</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -411,13 +422,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jacqueline Lim Xin Yi</p>
+<p>Mdm Hema Latha d/o Sahadevan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jacqueline_lim_xin_yi@schools.gov.sg</p>
+<p>hema_latha_sahadevan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -429,17 +440,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>juliana_grahan@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Kho Qi En, Shermaine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>kho_qi_en_shermaine@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
