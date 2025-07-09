@@ -466,17 +466,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammed Khalid Kudabar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>mohammed_khalid_kudabar@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Nurulhuda Bte Mohammed Arslan</p>
 </td>
 <td rowspan="1" colspan="1">
