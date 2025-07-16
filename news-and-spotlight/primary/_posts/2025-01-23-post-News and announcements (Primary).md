@@ -23,6 +23,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025 Primary 3 Term  Weighted Assessment (WA) Assessment Scope</strong> 
+<br>Click the link to view assessment scope</p>
+<p></p>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>14 Apr 2025</p>
 </td>
 <td rowspan="1" colspan="1">
