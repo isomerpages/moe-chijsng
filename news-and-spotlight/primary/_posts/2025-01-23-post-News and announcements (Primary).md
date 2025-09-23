@@ -75,7 +75,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>SN Home-based Learning Info Site</strong> 
 <br>Click the link below to access the school's Home-based Learning Info Site
-<a href="http://bit.ly/HBL-SN" rel="noopener noreferrer nofollow" target="_blank">http://bit.ly/HBL-SN</a>
+<a href="https://for.edu.sg/hbl-sn" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/hbl-sn</a>
 </p>
 <p></p>
 </td>
