@@ -119,7 +119,7 @@ variant: markdown
 | Mrs Christina Loh (ST PE) | [chee\_mei\_lan\_christina@schools.gov.sg](mailto:chee_mei_lan_christina@schools.gov.sg) |
 | Ms Agnes Lee Ling Ling (YH MP) | [lee\_ling\_ling\_agnes@schools.gov.sg](mailto:lee_ling_ling_agnes@schools.gov.sg) |
 | Ms Judy Isabel Koh (YH LP) | [koh\_cheng\_tee@schools.gov.sg](mailto:koh_cheng_tee@schools.gov.sg) |
-| Ms Xuanie Chin (AYH LP Int) | [chin\_yi\_xuan@schools.gov.sg](mailto:chin_yi_xuan@schools.gov.sg) |
+| Ms Xuanie Chin (AYH LP) | [chin\_yi\_xuan@schools.gov.sg](mailto:chin_yi_xuan@schools.gov.sg) |
 | Ms Eileen Low  | [low\_wei\_ling\_eileen@schools.gov.sg](mailto:low_wei_ling_eileen@schools.gov.sg) |
 | Ms He Fang | [he\_fang@schools.gov.sg](mailto:he_fang@schools.gov.sg) |
 | Mrs Jane Lee  | [chua\_jie\_ying\_jane@schools.gov.sg](mailto:chua_jie_ying_jane@schools.gov.sg) |
