@@ -90,7 +90,7 @@ variant: markdown
 | Ms Cindy Ng (HOD CCE) | [ng\_lai\_leng\_cindy@schools.gov.sg](mailto:ng_lai_leng_cindy@schools.gov.sg) |
 | Ms Lum Hui Min (YH UP) | [lum\_hui\_min@schools.gov.sg](mailto:lum_hui_min@schools.gov.sg) |
 | Mdm Chan Hui Ming   | [chan\_hui\_ming@schools.gov.sg](mailto:chan_hui_ming@schools.gov.sg) |
-| Ms Dong Yuyi | [dong\_yuyi@schools.gov.sg](mailto:dong_yuyi@schools.gov.sg) |
+| Ms Dong Yuyi (LH Chinese)| [dong\_yuyi@schools.gov.sg](mailto:dong_yuyi@schools.gov.sg) |
 | Dr Ho Yok Kum | [ho\_yok\_kum@schools.gov.sg](mailto:ho_yok_kum@schools.gov.sg) |
 | Mdm Jia Yangyang | [Jia\_Yangyang@schools.gov.sg](mailto:Jia_Yangyang@schools.gov.sg) |
 | Mdm Li Yan Zhen | [li\_yan\_zhen@schools.gov.sg](mailto:li_yan_zhen@schools.gov.sg) |
