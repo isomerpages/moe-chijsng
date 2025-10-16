@@ -90,7 +90,7 @@ variant: markdown
 | Ms Cindy Ng (HOD CCE) | [ng\_lai\_leng\_cindy@schools.gov.sg](mailto:ng_lai_leng_cindy@schools.gov.sg) |
 | Ms Lum Hui Min (YH UP) | [lum\_hui\_min@schools.gov.sg](mailto:lum_hui_min@schools.gov.sg) |
 | Mdm Chan Hui Ming   | [chan\_hui\_ming@schools.gov.sg](mailto:chan_hui_ming@schools.gov.sg) |
-| Ms Dong Yuyi | [dong\_yuyi@schools.gov.sg](mailto:dong_yuyi@schools.gov.sg) |
+| Ms Dong Yuyi (LH Chinese)| [dong\_yuyi@schools.gov.sg](mailto:dong_yuyi@schools.gov.sg) |
 | Dr Ho Yok Kum | [ho\_yok\_kum@schools.gov.sg](mailto:ho_yok_kum@schools.gov.sg) |
 | Mdm Jia Yangyang | [Jia\_Yangyang@schools.gov.sg](mailto:Jia_Yangyang@schools.gov.sg) |
 | Mdm Li Yan Zhen | [li\_yan\_zhen@schools.gov.sg](mailto:li_yan_zhen@schools.gov.sg) |
@@ -119,7 +119,7 @@ variant: markdown
 | Mrs Christina Loh (ST PE) | [chee\_mei\_lan\_christina@schools.gov.sg](mailto:chee_mei_lan_christina@schools.gov.sg) |
 | Ms Agnes Lee Ling Ling (YH MP) | [lee\_ling\_ling\_agnes@schools.gov.sg](mailto:lee_ling_ling_agnes@schools.gov.sg) |
 | Ms Judy Isabel Koh (YH LP) | [koh\_cheng\_tee@schools.gov.sg](mailto:koh_cheng_tee@schools.gov.sg) |
-| Ms Xuanie Chin (AYH LP Int) | [chin\_yi\_xuan@schools.gov.sg](mailto:chin_yi_xuan@schools.gov.sg) |
+| Ms Xuanie Chin (AYH LP) | [chin\_yi\_xuan@schools.gov.sg](mailto:chin_yi_xuan@schools.gov.sg) |
 | Ms Eileen Low  | [low\_wei\_ling\_eileen@schools.gov.sg](mailto:low_wei_ling_eileen@schools.gov.sg) |
 | Ms He Fang | [he\_fang@schools.gov.sg](mailto:he_fang@schools.gov.sg) |
 | Mrs Jane Lee  | [chua\_jie\_ying\_jane@schools.gov.sg](mailto:chua_jie_ying_jane@schools.gov.sg) |
@@ -148,6 +148,6 @@ variant: markdown
 
 | Name | Designation | Email Addresses |
 | --- | --- | --- |
-| Mdm Dion Chiu | Administration Manager | [chiu\_teng\_yen@schools.gov.sg](mailto:chiu_teng_yen@schools.gov.sg)|
+| Ms Dion Chiu | Administration Manager | [chiu\_teng\_yen@schools.gov.sg](mailto:chiu_teng_yen@schools.gov.sg)|
 | Mr Ng Kim Kheng | Operations Manager | [ng\_kim\_kheng@schools.gov.sg](mailto:ng_kim_kheng@schools.gov.sg) |
 | Mr Chang Hiang Heng | ICT Manager | [chang\_hiang\_heng@schools.gov.sg](mailto:chang_hiang_heng@schools.gov.sg) |

@@ -55,7 +55,7 @@ variant: markdown
 | Ms Lum Hui Min  | YH UP  | [lum_hui_min@schools.gov.sg](mailto:lum_hui_min@schools.gov.sg)  |
 | Mdm Noelle Lee  | AYH MP  | [lee\_meiting\_noelle\_francesca@schools.gov.sg](mailto:lee_meiting_noelle_francesca@schools.gov.sg) |
 | Ms Juay Chiew Joo  | AYH UP  | [juay\_chiew\_joo@schools.gov.sg](mailto:juay_chiew_joo@schools.gov.sg) |
-
+| Ms Xuanie Chin  | AYH LP  | [chin\_yi\_xuan@schools.gov.sg](mailto:chin_yi_xuan@schools.gov.sg) |
 
 
 ##### **Level Head**
@@ -65,7 +65,7 @@ variant: markdown
 | Ms Genevieve Chow  | LH English | [chow_wai_har_genevieve@schools.gov.sg](mailto:chow_wai_har_genevieve@schools.gov.sg) |
 | Mrs Justine Hum | LH Math  | [choo_hui_kian@schools.gov.sg](mailto:choo_hui_kian@schools.gov.sg) |
 | Ms Brenda Wong | LH Science | [wong_pek_chin_brenda@schools.gov.sg](mailto:wong_pek_chin_brenda@schools.gov.sg) |
-
+| Ms Dong Yuyi | LH Chinese | [dong_yuyi@schools.gov.sg](mailto:dong_yuyi@schools.gov.sg) |
 
 ##### **Subject Head**
 
