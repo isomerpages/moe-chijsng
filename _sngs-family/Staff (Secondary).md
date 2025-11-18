@@ -356,24 +356,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Tham May Fen Candy</p>
+<p>Mr Kang Soon Leong Casimir</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_may_fen_candy@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Victor Joseph Francis</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>victor_joseph_francis@schools.gov.sg</p>
+<p>kang_soon_leong_casimir@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -396,6 +385,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chan_mei_qi@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tay Li Na</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Innovation &amp; Research</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tay_li_na@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -477,6 +477,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Lau Siew Min Rachel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lau_siew_min_rachel@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Tan Chork Meng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -484,28 +495,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_chork_meng@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tay Li Na</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tay_li_na@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Phua Meow Noi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AED (T&amp;L)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>phua_meow_noi@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -1232,7 +1221,7 @@ variant: tiptap
 <p>Mdm Azizah Bte Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Associate</p>
+<p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>azizah_abdullah@schools.gov.sg</p>
