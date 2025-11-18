@@ -542,17 +542,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Taiping Joseph</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD / IP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chan_taiping_joseph@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Clara Ann Khoo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -611,7 +600,7 @@ variant: tiptap
 <p>Miss Law Huizhen Sharon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (History)</p>
+<p>Lead Teacher (History)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>law_huizhen_sharon@schools.gov.sg</p>
