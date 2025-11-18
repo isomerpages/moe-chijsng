@@ -688,7 +688,7 @@ variant: tiptap
 <p>Mr Tung Jowie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>co-AYH (Sec 3)</p>
+<p>co-AYH (Sec 4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tung_jowie@schools.gov.sg</p>
@@ -1103,7 +1103,7 @@ variant: tiptap
 <p>Ms Tan Ann Nie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>co-AYH (Sec 4)</p>
+<p>co-AYH (Sec 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_ann_nie@schools.gov.sg</p>
