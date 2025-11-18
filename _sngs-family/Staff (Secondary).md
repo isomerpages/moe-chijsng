@@ -935,17 +935,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sandra Ong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ong_pei_sze@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Tay Kian Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -953,6 +942,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tay_kian_hwee@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sandra Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ong_pei_sze@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -993,7 +993,7 @@ variant: tiptap
 <p>Miss Chee Yit Ling Melanie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 4)</p>
+<p>Assistant Year Head (Sec 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chee_yit_ling_melanie@schools.gov.sg</p>
@@ -1063,17 +1063,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_yueh_hwa@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Clarissa Lua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lua_yi_wen_clarissa@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
