@@ -695,13 +695,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Rockey Marsha Rachel</p>
+<p>Ms Fadhilah Harianto</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Upper Sec)</p>
+<p>SH / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>rockey_marsha_rachel@schools.gov.sg</p>
+<p>fadhilah_r_harianto@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -728,28 +728,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Fadhilah Harianto</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>fadhilah_r_harianto@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Fung Hwee Hua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_hwee_hua@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Kevin Thesman</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -761,6 +739,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Lee Ming Xuan Damien</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_ming_xuan_damien@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Liesa Wong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -768,6 +757,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>liesa_wong@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Fung Hwee Hua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_hwee_hua@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -794,13 +794,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Yap Mei Ling</p>
+<p>Ms Vilochana Veloo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yap_mei_ling@schools.gov.sg</p>
+<p>vilochana_veloo_a@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
