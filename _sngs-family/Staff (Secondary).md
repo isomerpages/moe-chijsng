@@ -837,6 +837,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Daryl Chew Ren Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / PE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chew_ren_jie_daryl@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Miss Sim Ung Mei Catherine</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -848,13 +859,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Daryl Chew Ren Jie</p>
+<p>Mr Kwan Hoi Soon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chew_ren_jie_daryl@schools.gov.sg</p>
+<p>kwan_hoi_soon_b@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -866,6 +877,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_le_xin_francoise@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Jun Kiat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_jun_kiat_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
