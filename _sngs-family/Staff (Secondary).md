@@ -466,17 +466,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nurulhuda Bte Mohammed Arslan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>nurulhuda_mohammed_arslan@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Lau Siew Min Rachel</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -484,6 +473,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lau_siew_min_rachel@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nurulhuda Bte Mohammed Arslan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nurulhuda_mohammed_arslan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
