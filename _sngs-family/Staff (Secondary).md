@@ -982,7 +982,7 @@ variant: tiptap
 <p>Mr Wan Yew Boon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Innovation &amp; Research</p>
+<p>SH / Integrated Programme</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wan_yew_boon@schools.gov.sg</p>
