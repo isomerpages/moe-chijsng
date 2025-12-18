@@ -5,15 +5,15 @@ date: 2025-12-18
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 <p><strong>Dear Incoming 2026 Secondary 1 Students and Parents/Guardians,</strong>
 </p>
 <p>Congratulations on your posting to CHIJ St. Nicholas Girls’ School! We
 are delighted to welcome you into the St Nicholas family, where each student
 is nurtured to grow in confidence, character, and competence.</p>
-<strong><u>Secondary 1 Registration Day</u></strong>
-
+<p><strong><u>Secondary 1 Registration Day</u></strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Date</strong>: Friday, 29 December 2025</p>
@@ -63,11 +63,8 @@ Programme (AEP), Higher Chinese Language (HCL)</p>
 </li>
 <li>
 <p>Parents are encouraged to take public transport or park at nearby HDB
-car parks.</p>
-<ul data-tight="true" class="tight">
-<li><strong>HDB Carpark 81 (adjacent to Blk 171)</strong> is
-within walking distance to <strong>Gate 1</strong>.</li>
-</ul>
+car parks. For example, <strong>HDB Carpark 81 (adjacent to Blk 171)</strong> is
+within walking distance to <strong>Gate 1</strong>.</p>
 </li>
 </ul>
 <p>We look forward to welcoming our incoming Secondary 1 students and partnering
@@ -77,4 +74,6 @@ at CHIJ St. Nicholas Girls’ School.</p>
 </p>
 <p></p>
 <p>Warm regards,</p>
-<strong>Mr Muhammad Razali Puasa</strong><br>Year Head<br>CHIJ St. Nicholas Girls’ School
+<p><strong>Mr Muhammad Razali Puasa</strong>
+<br>Year Head
+<br>CHIJ St. Nicholas Girls’ School</p>
