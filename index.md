@@ -22,9 +22,10 @@ sections:
         to CHIJ St. Nicholas Girls’ School! Click below for details regarding
         the registration day.
       button: Click here
-      url: test
-      alt: MOE Edusave Character Award
-      image: /images/Gold_And_Black_Elegant_Company_Award_Celebration_Instagram_Post.jpg
+      url: /welcome-to-2026-sec-1-students/
+      alt: 2026 Sec 1 students
+      image: /images/2026_s1welcome_banner__smaller_.png
+      title: Welcome 2026 Sec 1 students and parents
   - resources:
       subtitle: News & Spotlight
       button: view all spotlight & news
