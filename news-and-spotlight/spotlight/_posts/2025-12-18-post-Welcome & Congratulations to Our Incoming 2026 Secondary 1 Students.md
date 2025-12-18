@@ -5,7 +5,7 @@ date: 2025-12-18
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 <p><strong>Dear Incoming 2026 Secondary 1 Students and Parents/Guardians,</strong>
 </p>
@@ -14,12 +14,12 @@ are delighted to welcome you into the St Nicholas family, where each student
 is nurtured to grow in confidence, character, and competence.</p>
 <p><strong><u>Secondary 1 Registration Day</u></strong>
 </p>
-<strong>Date:</strong> Friday, 29 December 2025
+<p><strong>Date:</strong> Friday, 29 December 2025
 <br><strong>Time:</strong> 8.30 am (Registration starts at 8.00 am)
 <br><strong>Venue:</strong> School Hall
 <br><strong>Attire:</strong> Students may report in their primary school uniform
 or in decent and appropriate home attire (e.g. T-shirt with bermudas or
-long pants).
+long pants).</p>
 <p></p>
 <p>More detailed information regarding registration and the start of school
 will be sent to parents/guardians via Parent’s Gateway (PG) on <strong>20 December 2025</strong>,
