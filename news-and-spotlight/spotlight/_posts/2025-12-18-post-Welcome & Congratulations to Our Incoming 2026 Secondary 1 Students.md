@@ -14,7 +14,7 @@ are delighted to welcome you into the St Nicholas family, where each student
 is nurtured to grow in confidence, character, and competence.</p>
 <p><strong><u>Secondary 1 Registration Day</u></strong>
 </p>
-<p><strong>Date:</strong> Friday, 29 December 2025
+<p><strong>Date:</strong> Monday, 29 December 2025
 <br><strong>Time:</strong> 8.30 am (Registration starts at 8.00 am)
 <br><strong>Venue:</strong> School Hall
 <br><strong>Attire:</strong> Students may report in their primary school uniform
