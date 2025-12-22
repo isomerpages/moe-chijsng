@@ -49,17 +49,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Amy Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice Principal (Primary Section)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TAN_Lih_Lin@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Benedict LIM</p>
 </td>
 <td rowspan="1" colspan="1">
