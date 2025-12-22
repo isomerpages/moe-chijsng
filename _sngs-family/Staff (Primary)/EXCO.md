@@ -13,7 +13,6 @@ variant: markdown
 | --- | --- | --- |
 | Ms Winnie Tan | Principal | [winnie\_tan@schools.gov.sg](mailto:fiona_yeo@schools.gov.sg) |
 | Ms Yeo Teck Woon | Vice Principal | [yeo\_teck\_woon@schools.gov.sg](mailto:yeo_teck_woon@schools.gov.sg) |
-| Mdm Amy Tan  | Vice Principal  | [tan\_lih\_lin@schools.gov.sg](mailto:%C2%A0tan_lih_lin@schools.gov.sg) |
 | Mr Benedict Lim  | Vice Principal  | [benedict\_lim@schools.gov.sg](mailto:%C2%A0benedict_lim@schools.gov.sg) |
 
 
