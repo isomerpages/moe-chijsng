@@ -19,7 +19,7 @@ variant: markdown
 | 1W | Mdm [Zoe Chin](mailto:chin_yoke_koon@schools.gov.sg) | Mdm [Chay Kit See](mailto:chay_kit_see@schools.gov.sg) |
 
 ##### **Primary 2**
-###### Year Head - Ms [Judy Koh](mailto:koh_cheng_tee@schools.gov.sg)
+###### Year Head - Ms [Chin Xuanie](mailto:chin_yi_xuan@schools.gov.sg)
 
 | Class | Form Teachers |  |
 | --- | --- |--- |
