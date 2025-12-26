@@ -6,7 +6,7 @@ third_nav_title: Staff (Primary)
 variant: markdown
 ---
 ##### **Primary 1**
-###### Year Head - Ms [Xuanie Chin](mailto:chin_yi_xuan@schools.gov.sg)
+###### Year Head - Ms [Judy Koh](mailto:koh_cheng_tee@schools.gov.sg)
 
 | Class | Form Teachers |    |
 | --- | --- | --- |
