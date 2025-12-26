@@ -25,7 +25,7 @@ variant: markdown
 | --- | --- |--- |
 | 2C | Mrs [Tan Lee Ching](mailto:tan_lee_ching@schools.gov.sg) | Mr [Vicknes](mailto:vicknes_vinayak_veerappan@schools.gov.sg) / Ms [Verity Chows](mailto:chow_yan_hui_verity@schools.gov.sg) |
 | 2F | Ms [Rebecca Lim](mailto:lim_mei_li@schools.gov.sg) | Mdm [Lim Geok Yen](mailto:lim_geok_yen@schools.gov.sg) |
-| 2G | Mdm [Tan Choon Pei](mailto:tan_choon_pei@schools.gov.sg) | Mrs [Frances Tan](mailto:frances_goh_pih_chee@schools.gov.sg) |
+| 2G | Mdm [Peng Ming Ming](mailto:peng_ming_mingi@schools.gov.sg) | Mrs [Suelynn Sing](mailto:tan_suelynn@schools.gov.sg) |
 | 2H | Mrs [Angie Choong](mailto:chong_sou_foong@schools.gov.sg) | Mdm [Cong Fang](mailto:cong_fang@schools.gov.sg) / Mrs [Joy Thiang](mailto:thiang_yen_ping_joy_a@schools.gov.sg) |
 | 2J | Mrs [Christina Chan](mailto:tan_liang_hong_christina@schools.gov.sg) | Mdm [Tong Tsz Ching](mailto:tong_tsz_ching@schools.gov.sg) |
 |  2P | Ms [Catherine Boswell](mailto:boswell_catherine@schools.gov.sg) | Ms [Eileen Low](mailto:low_wei_ling_eileen@schools.gov.sg) |
