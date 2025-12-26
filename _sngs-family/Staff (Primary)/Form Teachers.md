@@ -14,8 +14,8 @@ variant: markdown
 | 1F | Mrs [Gomathi](mailto:gomathi_a@schools.gov.sg) | Mdm [Ng Puay Huen](mailto:ng_puay_huen@schools.gov.sg) / Mdm [Tan Lee Long](mailto:soffian_senin_a@schools.gov.sg) |
 | 1G | Mdm [Jia Yang Yang](mailto:jia_yang_yang@schools.gov.sg) | Mrs [Joy Yong](mailto:thiang_yen_ping_joy_a@schools.gov.sg) |
 | 1H | Ms [He Fang](mailto:he_fang@schools.gov.sg) | Mrs [Jade Ng](mailto:lim_swee_chern_jade@schools.gov.sg) /  Mrs [Frances Tan](mailto:frances_goh_pih_chee@schools.gov.sg) |
-| 1J | Mrs [Balinda Salleh](mailto:balinda_salleh@schools.gov.sg) | Mr [Darren Er](mailto:er_darren@schools.gov.sg) |
-| 1P | Mdm [Jia Yangyang](mailto:Jia_Yangyang@schools.gov.sg) | Ms [Lee Hwee Ing](mailto:lee_hwee_ing@schools.gov.sg) |
+| 1J | Ms [Chantel Cheong](mailto:cheong_wen_yee_chantel@schools.gov.sg) | Mdm [Lim Lee Koon](mailto:lim_lee_koon_a@schools.gov.sg) |
+| 1P | Mrs [Petrina Lim](mailto:tan_lay_beng_petrina@schools.gov.sg) | Mrs [Christina Chan](mailto:tan_liang_hong_christina@schools.gov.sg) / Ms [Siti Nurzaifah](mailto:siti_nurzaifah@schools.gov.sg) |
 | 1W | Mdm [Zoe Chin](mailto:chin_yoke_koon@schools.gov.sg) | Mdm [Chay Kit See](mailto:chay_kit_see@schools.gov.sg) |
 
 ##### **Primary 2**
