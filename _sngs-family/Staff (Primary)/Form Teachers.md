@@ -56,7 +56,7 @@ variant: markdown
 | 4P | Mrs [Cheryl Tay](mailto:kang_liwen_cheryl_ann@schools.gov.sg) |  Mr [Phoon Chee Weng](mailto:phoon_chee_weng@schools.gov.sg) |
 
 ##### **Primary 5**
-###### Year Head - Ms [Lum Hui Min](mailto:lum_hui_min@schools.gov.sg)
+###### Year Head - Ms [Juay Chiew Joo](mailto:juay_chiew_joo@schools.gov.sg)
 
 | Class | Form Teachers |  |
 | --- | --- | --- |
@@ -68,7 +68,7 @@ variant: markdown
 | 5P | Mrs [Christina Loh](mailto:chee_mei_lan_christina@schools.gov.sg) | Mrs [Justine Hum](mailto:choo_hui_kian@schools.gov.sg) |
 
 ##### **Primary 6**
-###### Year Head - Ms [Juay Chiew Joo](mailto:juay_chiew_joo@schools.gov.sg) 
+###### Year Head - Ms [Lum Hui Min](mailto:lum_hui_min@schools.gov.sg) 
 
 | Class | Form Teachers |  |
 | --- | --- | --- |
