@@ -23,7 +23,7 @@ variant: markdown
 
 | Class | Form Teachers |  |
 | --- | --- |--- |
-| 2C | Mrs [Gomathi](mailto:gomathi_a@schools.gov.sg) | Mdm [Li Yan Zhen](mailto:li_yan_zhen@schools.gov.sg) |
+| 2C | Mrs [Tan Lee Ching](mailto:tan_lee_ching@schools.gov.sg) | Mr [Vicknes](mailto:vicknes_vinayak_veerappan@schools.gov.sg) / Ms [Verity Chows](mailto:chow_yan_hui_verity@schools.gov.sg) |
 | 2F | Ms [Chim Shu Min](mailto:chim_shu_min@schools.gov.sg) | Mdm [Ng Puay Huen](mailto:ng_puay_huen@schools.gov.sg) |
 | 2G | Mdm [Tan Choon Pei](mailto:tan_choon_pei@schools.gov.sg) | Mrs [Frances Tan](mailto:frances_goh_pih_chee@schools.gov.sg) |
 | 2H | Mrs [Angie Choong](mailto:chong_sou_foong@schools.gov.sg) | Mdm [Cong Fang](mailto:cong_fang@schools.gov.sg) / Mrs [Joy Thiang](mailto:thiang_yen_ping_joy_a@schools.gov.sg) |
