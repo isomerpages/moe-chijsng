@@ -48,7 +48,7 @@ variant: markdown
 
 | Class | Form Teachers |  |
 | --- | --- | --- |
-| 4C | Mdm [Wang Ying](mailto:wang_ying@schools.gov.sg) | Ms [Brenda Wong](mailto:wong_pek_chin_brenda@schools.gov.sg) |
+| 4C | Mrs [Lee Pei Ting](mailto:lee_pei_ting@schools.gov.sg) | Ms [Susan Gan](mailto:gan_woon_ee_susan@schools.gov.sg) |
 | 4F | Mrs [Queenie Leong](mailto:chua_bor_chwen_queenie@schools.gov.sg) | Mr [Ahmad Ibrahim](mailto:ahmad_ibrahim_a@schools.gov.sg) |
 | 4G | Mdm [Chan Hui Ming](mailto:chan_hui_ming@schools.gov.sg) | Mrs [Lucy Tan](mailto:tan_lucy@schools.gov.sg)  |
 | 4H | Mrs [Toh Wan Ting](mailto:chiam_wan_ting@schools.gov.sg) | Ms [Lam Xiang Qi](mailto:Lam_Xiang_Qi@schools.gov.sg) |
