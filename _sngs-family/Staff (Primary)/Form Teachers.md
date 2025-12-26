@@ -27,8 +27,8 @@ variant: markdown
 | 2F | Ms [Rebecca Lim](mailto:lim_mei_li@schools.gov.sg) | Mdm [Lim Geok Yen](mailto:lim_geok_yen@schools.gov.sg) |
 | 2G | Mdm [Peng Ming Ming](mailto:peng_ming_mingi@schools.gov.sg) | Mrs [Suelynn Sing](mailto:tan_suelynn@schools.gov.sg) |
 | 2H | Mrs [Esme Loh](mailto:esme_foo@schools.gov.sg) | Mdm [Tong Tsz Ching](mailto:tong_tsz_ching@schools.gov.sg) |
-| 2J | Mrs [Christina Chan](mailto:tan_liang_hong_christina@schools.gov.sg) | Mdm [Tong Tsz Ching](mailto:tong_tsz_ching@schools.gov.sg) |
-|  2P | Ms [Catherine Boswell](mailto:boswell_catherine@schools.gov.sg) | Ms [Eileen Low](mailto:low_wei_ling_eileen@schools.gov.sg) |
+| 2J | Mrs [Balinda Salleh](mailto:balinda_salleh@schools.gov.sg) | Mr [Darren Er](mailto:er_darren@schools.gov.sg) |
+|  2P | Ms [Catherine Boswell](mailto:boswell_catherine@schools.gov.sg) | Mr [Darren Er](mailto:low_wei_ling_eileen@schools.gov.sg) |
 |  2W | Mrs [Jade Ng](mailto:lim_swee_chern_jade@schools.gov.sg) | Ms [He Fang](mailto:he_fang@schools.gov.sg) |
 
 ##### **Primary 3**
