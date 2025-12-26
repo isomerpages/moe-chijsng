@@ -32,7 +32,7 @@ variant: markdown
 |  2W | Mrs [Jade Ng](mailto:lim_swee_chern_jade@schools.gov.sg) | Ms [He Fang](mailto:he_fang@schools.gov.sg) |
 
 ##### **Primary 3**
-###### Year Head - Mdm [Agnes Lee](mailto:lee_ling_ling_agnes@schools.gov.sg)
+###### Year Head - Ms [Noelle Lee](mailto:lee_meiting_noelle_francesca@schools.gov.sg)
 
 | Class | Form Teachers |  |
 | --- | --- | --- |
@@ -44,7 +44,7 @@ variant: markdown
 | 3P | Mdm [Elsa Zainudin](mailto:suelsa_zainudin@schools.gov.sg) | Mrs [Ng Yee Ping](mailto:peng_yee_peng@schools.gov.sg) |
 
 ##### **Primary 4**
-###### Year Head - Ms [Noelle Lee](mailto:lee_meiting_noelle_francesca@schools.gov.sg)
+###### Year Head - Mdm [Agnes Lee](mailto:lee_ling_ling_agnes@schools.gov.sg)
 
 | Class | Form Teachers |  |
 | --- | --- | --- |
