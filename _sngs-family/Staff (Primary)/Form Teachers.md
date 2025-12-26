@@ -12,7 +12,7 @@ variant: markdown
 | --- | --- | --- |
 | 1C | Mrs [Angie Choong](mailto:chong_sou_foong@schools.gov.sg) | Mdm [Tan Lay Peng](mailto:tan_lay_peng@schools.gov.sg) / Mr [Soffian](mailto:soffian_senin_a@schools.gov.sg) |
 | 1F | Mrs [Gomathi](mailto:gomathi_a@schools.gov.sg) | Mdm [Ng Puay Huen](mailto:ng_puay_huen@schools.gov.sg) / Mdm [Tan Lee Long](mailto:soffian_senin_a@schools.gov.sg) |
-| 1G | Mrs [Suelynn Singi](mailto:tan_suelynn@schools.gov.sg) | Mdm [Peng Ming Ming](mailto:peng_ming_ming@schools.gov.sg) |
+| 1G | Mdm [Jia Yang Yang](mailto:jia_yang_yang@schools.gov.sg) | Mrs [Joy Yong](mailto:thiang_yen_ping_joy_a@schools.gov.sg) |
 | 1H | Mdm [Lim Lee Koon](mailto:lim_lee_koon_a@schools.gov.sg) | Mrs [Esme Loh](mailto:esme_foo@schools.gov.sg) |
 | 1J | Mrs [Balinda Salleh](mailto:balinda_salleh@schools.gov.sg) | Mr [Darren Er](mailto:er_darren@schools.gov.sg) |
 | 1P | Mdm [Jia Yangyang](mailto:Jia_Yangyang@schools.gov.sg) | Ms [Lee Hwee Ing](mailto:lee_hwee_ing@schools.gov.sg) |
