@@ -44,7 +44,7 @@ variant: tiptap
 <a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_1_Odd__Sec_4__Final_caa_251222.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4</a>
 </p>
 <p></p>
-<p>Even week timetable: <a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_1_Even__Sec_1__Final_caa_251222.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>,
+<p><strong>Even </strong>week timetable: <a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_1_Even__Sec_1__Final_caa_251222.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>,
 <a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_1_Even__Sec_2__Final_caa_251218.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>, <a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_1_Even__Sec_3__Final_caa_251218.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>,
 <a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_1_Even__Sec_4__Final_caa_251218.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4</a>
 </p>
