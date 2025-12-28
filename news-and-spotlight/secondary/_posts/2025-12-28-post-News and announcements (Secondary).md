@@ -63,14 +63,12 @@ students would be informed by their form/subject teachers.</p>
 <p>Dear students, these are the class timetables for Semester 2 2025.</p>
 <p>Please note that Odd week timetables are for weeks 1, 3, 5, 7 &amp; 9,
 while even week timetables are for weeks 2, 4, 6, 8 &amp; 10.</p>
-<p><strong>Odd </strong>week timetable: <a href="/files/PDF for announcements/Secondary/Timetable/2025_SEM_2_Odd_Sec_1_final_caa_250627.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>,
-<a href="/files/PDF for announcements/Secondary/Timetable/2025_SEM_2_Odd_Sec_2_final_caa_250627.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>, <a href="/files/PDF for announcements/Secondary/Timetable/2025_SEM_2_Odd_Sec_3_final_caa_250627.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>,
-<a href="/files/PDF for announcements/Secondary/Timetable/2025_SEM_2_Odd_Sec_4_final_caa_250627.pdf" rel="noopener nofollow" target="_blank">Sec 4</a>
-</p>
-<p><strong>Even </strong>week timetable: <a href="/files/PDF for announcements/Secondary/Timetable/2025_SEM_2_Even_Sec_1_final_caa_250627.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>,
-<a href="/files/PDF for announcements/Secondary/Timetable/2025_SEM_2_Even_Sec_2_final_caa_250627.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>, <a href="/files/PDF for announcements/Secondary/Timetable/2025_SEM_2_Even_Sec_3_final_caa_250627.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>,
-<a href="/files/PDF for announcements/Secondary/Timetable/2025_SEM_2_Even_Sec_4_final_caa_250627.pdf" rel="noopener nofollow" target="_blank">Sec 4</a>
-</p>
+<p></p>
+<p><strong>Odd </strong>week timetable: Sec 1, Sec 2, Sec 3, Sec 4</p>
+<p></p>
+<p><strong>Even </strong>week timetable: Sec 1, Sec 2, Sec 3, Sec 4</p>
+<p></p>
+<p>(update 29 Dec 25 - links have been removed)</p>
 <p></p>
 <p>Should there be any changes to the timetable, the affected classes and
 students would be informed by their form/subject teachers.</p>
@@ -83,8 +81,10 @@ students would be informed by their form/subject teachers.</p>
 <td rowspan="1" colspan="1">
 <p><u>Release of 2024 GCE O-Level Exam Results</u>
 </p>
-<p>Dear 2024 Sec 4 students, please <a href="/files/Information_to_be_hosted_on_the_school_website.pdf" rel="noopener nofollow" target="_blank">click here</a> for
-important information regarding the collection of your O-Level Exam results.</p>
+<p>Dear 2024 Sec 4 students, please click here for important information
+regarding the collection of your O-Level Exam results.</p>
+<p></p>
+<p>(update 29 Dec 25 - link has been removed)</p>
 </td>
 </tr>
 <tr>
@@ -94,11 +94,13 @@ important information regarding the collection of your O-Level Exam results.</p>
 <td rowspan="1" colspan="1">
 <p><u>CCA and CCA audition schedules 2025</u>
 </p>
-<p>Dear students, here are the <a href="/files/PDF for announcements/Secondary CCA/SNGS_CCA_schedule_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA schedule</a> and
-<a href="/files/PDF for announcements/Secondary CCA/2025_CCA_AUDITION_SCHEDULE_caa_7_Jan.pdf" rel="noopener nofollow" target="_blank">CCA Audition Schedule</a>s (for Sec 1's and new students).</p>
+<p>Dear students, here are the CCA schedule and CCA Audition Schedules (for
+Sec 1's and new students).</p>
 <p></p>
 <p>[Update on 7 Jan] Please note that there is an update to the CCA Audition
 Schedule for Library Society.</p>
+<p></p>
+<p>(update 29 Dec 25 - links have been removed)</p>
 </td>
 </tr>
 <tr>
@@ -129,8 +131,9 @@ students would be informed by their form/subject teachers.</p>
 <p><u>Important Information (1st day of school in 2025)</u>
 </p>
 <p></p>
-<p>Please refer to <a href="/files/PDF for announcements/Secondary/2025___First_Day_of_School_Info__to_be_hosted_on_school_website_.pdf" rel="noopener nofollow" target="_blank">this pdf</a> for
-details regarding the first day of school.</p>
+<p>Please refer to this pdf for details regarding the first day of school.</p>
+<p></p>
+<p>(update 29 Dec 25 - link has been removed)</p>
 <p></p>
 </td>
 </tr>
