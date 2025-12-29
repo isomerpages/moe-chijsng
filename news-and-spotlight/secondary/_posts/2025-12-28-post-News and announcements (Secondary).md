@@ -39,15 +39,28 @@ variant: tiptap
 </p>
 <p>Dear students, these are the class timetables for Semester 1 2026.</p>
 <p><strong>Odd</strong> week timetable: <a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_1_Odd__Sec_1__Final_caa_251222.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>,
-<a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_1_Odd__Sec_2__Final_caa_251223.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>, <a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_1_Odd__Sec_3__Final_caa_251222.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>,
+<a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_1_Odd__Sec_2__Final_caa_251223.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>, <a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_1_Odd__Sec_3__Final_caa_251229.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>,
 <a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_1_Odd__Sec_4__Final_caa_251222.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4</a>
 </p>
 <p><strong>Even </strong>week timetable: <a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_1_Even__Sec_1__Final_caa_251222.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>,
-<a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_1_Even__Sec_2__Final_caa_251218.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>, <a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_1_Even__Sec_3__Final_caa_251218.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>,
+<a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_1_Even__Sec_2__Final_caa_251218.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>, <a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_1_Even__Sec_3__Final_caa_251229.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>,
 <a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_1_Even__Sec_4__Final_caa_251218.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4</a>
 </p>
 <p>Should there be any changes to the timetable, the affected classes and
 students would be informed by their form/subject teachers.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 Dec 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Important Information (1st day of school in 2026)</u>
+</p>
+<p></p>
+<p>Please refer to <a href="/files/PDF for announcements/Secondary/2026___First_Day_of_School_Info.pdf" rel="noopener noreferrer nofollow" target="_blank">this pdf</a> for
+details regarding the first day of school.</p>
+<p></p>
 </td>
 </tr>
 <tr>
