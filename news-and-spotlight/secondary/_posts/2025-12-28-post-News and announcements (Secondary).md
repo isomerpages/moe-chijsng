@@ -52,6 +52,19 @@ students would be informed by their form/subject teachers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>29 Dec 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Important Information (1st day of school in 2026)</u>
+</p>
+<p></p>
+<p>Please refer to <a href="/files/PDF for announcements/Secondary/2026___First_Day_of_School_Info.pdf" rel="noopener noreferrer nofollow" target="_blank">this pdf</a> for
+details regarding the first day of school.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>27 Jun 2025</p>
 </td>
 <td rowspan="1" colspan="1">
