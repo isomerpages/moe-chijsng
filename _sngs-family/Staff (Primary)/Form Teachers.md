@@ -65,7 +65,7 @@ variant: markdown
 | 5G | Ms [Chim Shu Min](mailto:chim_shu_min@schools.gov.sg) | Mdm [Sunnie Tang](mailto:tang_sunnie@schools.gov.sg) |
 | 5H | Mrs [Rachel Tan](mailto:lee_kim_lin_rachel@schools.gov.sg) | Mdm [Yong Sheue Mei](mailto:yong_sheue_mei@schools.gov.sg) |
 | 5J | Mdm [Joaquim Chan](mailto:chan_tsze_min_joaquim@schools.gov.sg) | Mrs [Gina Chen](mailto:lim_wee_ping@schools.gov.sg) / Dr [Ho Yok Kum](mailto:ho_yok_kum@schools.gov.sg) |
-| 5P | Mrs [Christina Loh](mailto:chee_mei_lan_christina@schools.gov.sg) | Mrs [Justine Hum](mailto:choo_hui_kian@schools.gov.sg) |
+| 5P | Ms [Genevieve Chow](mailto:chow_wai_har_genevieve@schools.gov.sg) | Mdm [Tan Choon Pei](mailto:tan_choon_pei@schools.gov.sg) / Mrs [Ng Yee Ping](mailto:peng_yee_peng@schools.gov.sg)|
 
 ##### **Primary 6**
 ###### Year Head - Ms [Lum Hui Min](mailto:lum_hui_min@schools.gov.sg) 
