@@ -73,7 +73,7 @@ variant: markdown
 | Class | Form Teachers |  |
 | --- | --- | --- |
 |  6C | Mdm [Chong Fei Ming](mailto:chong_fei_mingl@schools.gov.sg) | Mrs [Sheon Wee](mailto:lee_sze_yuin@schools.gov.sg) |
-| 6F | Mr [Daniel Chng](mailto:chng_chye_thiam@schools.gov.sg) | Ms [Genevieve Chow](mailto:chow_wai_har_genevieve@schools.gov.sg) |
+| 6F | Mdm [Chin Lan Shiang](mailto:chin_lan_shiang@schools.gov.sg) | Mdm [Lim Qi Ning](mailto:lim_qi_ning@schools.gov.sg) |
 |   6G  | Ms [Dong Yuyi](mailto:dong_yuyi@schools.gov.sg) | Mdm [Petrina Lim](mailto:tan_lay_beng_petrina@schools.gov.sg) |
 |  6H | Ms [Pung Chuan Ting](mailto:pung_chuan_ting@schools.gov.sg) | Mrs [Gina Chen](mailto:lim_wee_ping@schools.gov.sg) |
 | 6J | Mrs [Carolyn Tan](mailto:wu_ruixian_carolyn@schools.gov.sg) | Mrs [Phoebe Peer](mailto:lee_hui_lin_phoebe@schools.gov.sg) / Dr [Ho Yok Kum](mailto:ho_yok_kum@schools.gov.sg) |
