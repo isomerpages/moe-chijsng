@@ -61,7 +61,7 @@ variant: markdown
 | Class | Form Teachers |  |
 | --- | --- | --- |
 | 5C | Mrs [Jane Lee](mailto:Chua_jie_ying_jane@schools.gov.sg) | Mrs [Cheryl Tay](mailto:kang_liwen_cheryl_ann@schools.gov.sg) / Mrs [Phoebe Peer](mailto:lee_hui_lin_phoebe@schools.gov.sg) |
-| 5F | Mr [Daniel Chng](mailto:lim_qi_ning@schools.gov.sg) | Mdm [Chin Lan Shiang](mailto:chin_lan_shiang@schools.gov.sg) |
+| 5F | Mr [Daniel Chng](mailto:chng_chye_thiam@schools.gov.sg) | Ms [Dong Yuyi](mailto:dong_yuyi@schools.gov.sg) |
 | 5G | Mdm [Denise Jung](mailto:jung_gee_ting@schools.gov.sg) | Mr [Calvin Tay](mailto:tay_ngiang_boon_calvin@schools.gov.sg) |
 | 5H | Mrs [Laura Lim](mailto:koh_kim_suat_laura@schools.gov.sg) | Mr [Muhammad Azahar](mailto:muhammad_azahar_rosli@schools.gov.sg) |
 | 5J | Mdm [Toh Poh Yen](mailto:toh_poh_yen@schools.gov.sg) | Ms [Cindy Ng](mailto:ng_lai_leng_cindy@schools.gov.sg) |
