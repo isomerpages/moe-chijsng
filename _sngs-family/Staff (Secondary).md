@@ -42,7 +42,7 @@ variant: tiptap
 <p>Mr Muhammad Razali Puasa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Sec)</p>
+<p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>muhammad_razali_puasa@schools.gov.sg</p>
@@ -392,7 +392,7 @@ variant: tiptap
 <p>Ms Tay Li Na</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Innovation &amp; Research</p>
+<p>SH / Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tay_li_na@schools.gov.sg</p>
@@ -840,7 +840,7 @@ variant: tiptap
 <p>Mr Daryl Chew Ren Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / PE</p>
+<p>SH / PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chew_ren_jie_daryl@schools.gov.sg</p>
