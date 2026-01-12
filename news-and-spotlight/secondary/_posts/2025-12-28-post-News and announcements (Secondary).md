@@ -32,6 +32,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>12 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://sites.google.com/moe.edu.sg/sngstudentportal/school-calendar" rel="noopener nofollow" target="_blank">2026 SNGS (Sec) Calendar</a>
+</p>
+<p>Any updates to the school calendar will be communicated to the students
+directly.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>29 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -144,18 +155,6 @@ students would be informed by their form/subject teachers.</p>
 <p>Please refer to this pdf for details regarding the first day of school.</p>
 <p></p>
 <p>(update 29 Dec 25 - link has been removed)</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>(date to be updated)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>School Calendar 2025</u>
-</p>
-<p>Any updates to the school calendar will be communicated to the students
-directly. (link to school calendar to be updated).</p>
 </td>
 </tr>
 </tbody>
