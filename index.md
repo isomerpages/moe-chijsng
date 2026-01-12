@@ -22,9 +22,9 @@ sections:
         results. Click below for details regarding the collection of results &
         JAE.
       button: Click here
-      url: /welcome-to-2026-sec-1-students/
-      alt: 2026 Sec 1 students
-      image: /images/2026_Sec_1_Welcome.jpg
+      url: /O-level-2025-release-of-results/
+      alt: 2025 O-Level
+      image: /images/olevel_2025_release__rev1_.jpg
       title: GCE O-Level Release of Results
   - resources:
       subtitle: News & Spotlight
