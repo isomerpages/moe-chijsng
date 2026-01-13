@@ -32,6 +32,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>13 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Release of 2025 GCE O-Level Exam Results</u>
+</p>
+<p>Dear 2025 Sec 4 students, please <a href="/files/Info_to_be_hosted_on_School_Website_before_O_level_release__2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
+important information regarding the collection of your O-Level Exam results.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>12 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
