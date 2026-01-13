@@ -1,7 +1,7 @@
 ---
 title: News and announcements (Secondary)
 permalink: /news-and-spotlight/spotlight/news-sec/
-date: 2025-12-28
+date: 2026-01-12
 layout: post
 description: ""
 image: ""
@@ -28,6 +28,28 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Feedback? Email Us!</strong> 
 <br>Please email your feedback or enquiries to: chijsng_sec@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Release of 2025 GCE O-Level Exam Results</u>
+</p>
+<p>Dear 2025 Sec 4 students, please <a href="/files/Info_to_be_hosted_on_School_Website_before_O_level_release__2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
+important information regarding the collection of your O-Level Exam results.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://sites.google.com/moe.edu.sg/sngstudentportal/school-calendar" rel="noopener nofollow" target="_blank">2026 SNGS (Sec) Calendar</a>
+</p>
+<p>Any updates to the school calendar will be communicated to the students
+directly.</p>
 </td>
 </tr>
 <tr>
@@ -144,18 +166,6 @@ students would be informed by their form/subject teachers.</p>
 <p>Please refer to this pdf for details regarding the first day of school.</p>
 <p></p>
 <p>(update 29 Dec 25 - link has been removed)</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>(date to be updated)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>School Calendar 2025</u>
-</p>
-<p>Any updates to the school calendar will be communicated to the students
-directly. (link to school calendar to be updated).</p>
 </td>
 </tr>
 </tbody>
