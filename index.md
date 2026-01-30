@@ -15,17 +15,6 @@ sections:
         - title: SNGS Secondary
           description: ""
           url: https://www.chijsngsec.moe.edu.sg
-  - infopic:
-      subtitle: 14 Jan 2026
-      id: infopic
-      description: Wishing all our 2025 Sec 4 students all the best for their O-level
-        results. Click below for details regarding the collection of results &
-        JAE.
-      button: Click here
-      url: /news-and-spotlight/spotlight/news-sec/
-      alt: 2025 O-Level
-      image: /images/olevel_2025_release__rev1_.jpg
-      title: GCE O-Level Release of Results
   - resources:
       subtitle: News & Spotlight
       button: view all spotlight & news

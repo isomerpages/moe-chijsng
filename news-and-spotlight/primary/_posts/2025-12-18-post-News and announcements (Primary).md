@@ -23,6 +23,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>30 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2026 P6 Weighted Assessment (WA) Scopes (Term 1)</strong>
+</p>
+<p>Click the link to view assessment scope</p>
+<p><a href="/files/PDF for announcements/Primary/2026_P6_Weighted_Assessment__WA__Scopes__Term_1_.pdf" rel="noopener nofollow" target="_blank">P6</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>19 Sept 2025</p>
 </td>
 <td rowspan="1" colspan="1">
