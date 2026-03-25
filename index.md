@@ -19,7 +19,7 @@ sections:
       title: 圣尼各拉校园开放日 SNGS (Sec) Open House 2026
       subtitle: "#SayYestoStNicks!"
       id: infopic
-      description: "When: 9 May 26, 8.30 am – 1.00 pm   Highlights: Campus Tour,
+      description: "Date: 9 May 26, 8.30 am – 1.00 pm  Highlights: Campus Tour,
         Exhibition booths, Principal's Talk with Q&A Segment (registration
         required)"
       button: Click here for more details!
