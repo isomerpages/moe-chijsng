@@ -15,6 +15,13 @@ sections:
         - title: SNGS Secondary
           description: ""
           url: https://www.chijsngsec.moe.edu.sg
+  - infopic:
+      title: SNGS (Sec) Open House 2026
+      subtitle: "#SayYestoStNicks!"
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - resources:
       subtitle: News & Spotlight
       button: view all spotlight & news
