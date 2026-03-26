@@ -17,11 +17,10 @@ sections:
           url: https://www.chijsngsec.moe.edu.sg
   - infopic:
       title: 圣尼各拉校园开放日 SNGS (Sec) Open House 2026
-      subtitle: "#SayYestoStNicks!"
+      subtitle: 9 May 2026 (8.30 am - 1.00 pm)
       id: infopic
-      description: "Date: 9 May 26, 8.30 am – 1.00 pm  Highlights: Campus Tour,
-        Exhibition booths, Principal's Talk with Q&A Segment (registration
-        required)"
+      description: "Open House highlights: Campus Tour, Exhibition booths, Principal's
+        Talk with Q&A Segment (registration required)"
       button: Click here for more details!
       alt: Image alt text
       image: /images/sngs open house 2026.jpg
