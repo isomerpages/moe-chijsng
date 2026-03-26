@@ -1,11 +1,8 @@
 ---
 title: SNGS Open House 2024
 permalink: /sngs-open-house-2024/
-date: 2024-05-09
-layout: post
-description: ""
-image: ""
 variant: tiptap
+description: ""
 ---
 <p>Dear Parents and Primary Students,&nbsp;</p>
 <p>We would like to express our sincerest appreciation to all who came for

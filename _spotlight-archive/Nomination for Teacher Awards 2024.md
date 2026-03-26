@@ -1,10 +1,8 @@
 ---
 title: Nomination for Teacher Awards 2024
-permalink: /news-and-spotlight/spotlight/teacherawards2024/
-date: 2023-10-30
-layout: post
+permalink: /nomination-for-teacher-awards-2024/
+variant: markdown
 description: ""
-image: ""
 ---
 ##### (1) President's Award for Teachers (PAT) 2024<br><br>![PAT 2024](/images/Spotlight/pat%202024%20nomination.gif)
 <br>Nominate an inspiring teacher or colleague for this prestigious award.<br><br>Nominate online at [https://go.gov.sg/pat2024](https://go.gov.sg/pat2024) <br>
