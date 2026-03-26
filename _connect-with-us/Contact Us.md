@@ -21,7 +21,7 @@ Email:&nbsp;&nbsp; &nbsp;[chijsng\_pri@moe.edu.sg](mailto:chijsng_pri@moe.edu.sg
 Add:&nbsp;&nbsp;501 Ang Mo Kio Street 13 Singapore 569405 <br>
 Tel:&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;+65 63541839 <br>
 Fax:&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;+65 64511335 <br>
-Email:&nbsp;&nbsp; &nbsp;[chijsng\_sec@moe.edu.sg](mailto:chijsng_sec@moe.edu.sg)
+Email:&nbsp;&nbsp; &nbsp;[chijsng\_sec@schools.gov.sg](mailto:chijsng_sec@schools.gov.sg)
 
 #### **General Office Opening Hours:**
 
