@@ -26,7 +26,16 @@ variant: tiptap
 <p>8 Apr 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2026 P6 Weighted Assessment (WA) Scopes (Term 2)</strong>
+<p><strong>2026 Weighted Assessment (WA) Scopes (Term 2)</strong>
+</p>
+<p>Click the link to view assessment scope</p>
+<p><a href="/files/PDF for announcements/Primary/2026_P3_Weighted_Assessment_Scopes__Term_2_.pdf" rel="noopener nofollow" target="_blank">P3</a>
+</p>
+<p><a href="/files/PDF for announcements/Primary/2026_P4_Weighted_Assessment_Scopes__Term_2_.pdf" rel="noopener nofollow" target="_blank">P4</a>
+</p>
+<p><a href="/files/PDF for announcements/Primary/2026_P5_Weighted_Assessment_Scopes__Term_2_.pdf" rel="noopener nofollow" target="_blank">P5</a>
+</p>
+<p><a href="/files/PDF for announcements/Primary/2026_P6_Weighted_Assessment_Scopes__Term_2_.pdf" rel="noopener nofollow" target="_blank">P6</a>
 </p>
 <p></p>
 </td>
@@ -40,53 +49,6 @@ variant: tiptap
 </p>
 <p>Click the link to view assessment scope</p>
 <p><a href="/files/PDF for announcements/Primary/2026_P6_Weighted_Assessment__WA__Scopes__Term_1_.pdf" rel="noopener nofollow" target="_blank">P6</a>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>19 Sept 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2025 End-Year Assessment (EYA) Scope</strong>
-</p>
-<p>Click the link to view assessment scope</p>
-<p><a href="/files/PDF for announcements/Primary/2025_P3_End_Year_Assessment__EYA__Scope.pdf" rel="noopener nofollow" target="_blank">P3</a>
-</p>
-<p><a href="/files/PDF for announcements/Primary/2025_P4_End_Year_Assessment__EYA__Scope.pdf" rel="noopener nofollow" target="_blank">P4</a>
-</p>
-<p><a href="/files/PDF for announcements/Primary/2025_P5_End_Year_Assessment__EYA__Scope.pdf" rel="noopener nofollow" target="_blank">P5</a>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16 July 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2025 Term 3 Weighted Assessment (WA) Assessment Scope</strong> 
-<br>Click the link to view assessment scope</p>
-<p><a href="/files/PDF for announcements/Primary/2025_Term_3_P3_Weighted_Assessment_Scopes.pdf" rel="noopener nofollow" target="_blank">P3</a>
-</p>
-<p><a href="/files/PDF for announcements/Primary/2025_Term_3_P4_Weighted_Assessment_Scopes.pdf" rel="noopener nofollow" target="_blank">P4</a>
-</p>
-<p><a href="/files/PDF for announcements/Primary/2025_Term_3_P5_Weighted_Assessment_Scopes.pdf" rel="noopener nofollow" target="_blank">P5</a>
-</p>
-<p></p>
-<p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16 July 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2025 P6 Prelim Scope</strong>
-</p>
-<p><a href="/files/PDF for announcements/Primary/2025_prelim_scopes_final.pdf" rel="noopener nofollow" target="_blank">P6</a>
 </p>
 <p></p>
 </td>
