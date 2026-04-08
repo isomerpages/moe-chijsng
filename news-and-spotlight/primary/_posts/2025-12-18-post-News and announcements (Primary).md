@@ -26,7 +26,7 @@ variant: tiptap
 <p>8 Apr 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2026 P6 Weighted Assessment (WA) Scopes (Term 1)</strong>
+<p><strong>2026 P6 Weighted Assessment (WA) Scopes (Term 2)</strong>
 </p>
 <p></p>
 </td>
