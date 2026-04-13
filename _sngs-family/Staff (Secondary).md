@@ -901,6 +901,17 @@ variant: tiptap
 <p>peter_loke_weng_onn@schools.gov.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zoe Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>zoe_koh_li-may@schools.gov.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h5><strong>SCIENCE DEPARTMENT</strong></h5>
