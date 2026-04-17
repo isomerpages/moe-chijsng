@@ -43,7 +43,7 @@ variant: markdown
 | Name | Designation | Email Address |
 | -------- | -------- | -------- |
 | Mrs Phoebe Peer | LT CCE  | [lee_hui_lin_phoebe@schools.gov.sg](mailto:lee_hui_lin_phoebe@schools.gov.sg)  |
-| Mrs Rachel Tan | LT CCE  | [lee_kim_lin_rachel@schools.gov.sg](mailto:lee_kim_lin_rachel@schools.gov.sg)  |
+| Mrs Rachel Tan | LT MA  | [lee_kim_lin_rachel@schools.gov.sg](mailto:lee_kim_lin_rachel@schools.gov.sg)  |
 
 ##### **Year Head / Assistant Year Head**
 
