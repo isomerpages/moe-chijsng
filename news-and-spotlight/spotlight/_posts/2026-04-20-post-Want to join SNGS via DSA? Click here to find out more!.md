@@ -132,8 +132,7 @@ in a variety of school-wide events and camps.</p>
 to hone both English and Chinese language abilities and deepen their appreciation
 of the Western and Chinese cultures. Students should demonstrate critical
 thinking and oratorical competency in both languages.</p>
-<p>
-<br>As a SAP school, we provide an immersive experience to nurture the DSA-Bilingualism
+<p>As a SAP school, we provide an immersive experience to nurture the DSA-Bilingualism
 students to become Singapore’s bilingual and bicultural talents. To continue
 to deepen their interests and abilities in Bilingualism, students may have
 opportunities such as immersion trips to the West and China, Global Classroom
