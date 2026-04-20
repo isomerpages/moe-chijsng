@@ -57,7 +57,7 @@ where applicable.</p>
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 their daughter’s area of talent.</p>
-<p><em>Please download our selection criteria and process <u>here</u></em>.</p>
+<p><em>Please download our selection criteria and process <a href="/files/PDF for Spotlight/2026__DSA___Selection_Criteria_and_Process__to_be_pdf_and_uploaded_to_DSA_website_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></em>.</p>
 <p><strong>DSA Talent Areas for 4-year SP <u>and</u> 6-year JIP</strong>
 </p>
 <table style="minWidth: 50px">
