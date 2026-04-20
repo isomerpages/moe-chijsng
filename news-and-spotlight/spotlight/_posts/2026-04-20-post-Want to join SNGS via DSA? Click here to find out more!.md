@@ -93,8 +93,7 @@ Students can look forward to participating in competitions for sporting
 excellence and leadership development opportunities. We promote a strong
 culture of camaraderie and team spirit in developing our students to be
 sportswomen of strong moral character.</p>
-<p>
-<br><u>Sports and Games Talent Areas</u>
+<p><u>Sports and Games Talent Areas</u>
 <br>Artistic Gymnastics
 <br>Badminton
 <br>Hockey
