@@ -814,6 +814,17 @@ variant: tiptap
 <p>vilochana_veloo_a@schools.gov.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lau Wei Teck Vincent</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lau_Wei_Teck_Vincent@schools.gov.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h5><strong>PHYSICAL EDUCATION DEPARTMENT</strong></h5>
