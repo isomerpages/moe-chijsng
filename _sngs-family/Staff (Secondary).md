@@ -783,6 +783,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Lim Hui Min Vivian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(to be updated)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Fung Hwee Hua</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -877,28 +888,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>sim_ung_mei_catherine@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Kwan Hoi Soon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>kwan_hoi_soon_b@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Lee Le Xin, Francoise</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_le_xin_francoise@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -1012,17 +1001,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Hwee Chin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Physics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_hwee_chin@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Wan Yew Boon</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1052,17 +1030,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>cai_jinhong@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chang Hao Hsi David</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chang_hao_hsi_david@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
