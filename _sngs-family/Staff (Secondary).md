@@ -720,7 +720,7 @@ variant: tiptap
 <p>Mdm Lee Keat Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST/ Mathematics</p>
+<p>ST / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_keat_peng@schools.gov.sg</p>
