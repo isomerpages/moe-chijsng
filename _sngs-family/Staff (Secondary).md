@@ -217,7 +217,7 @@ variant: tiptap
 <p>Ms Du Jia 杜佳老师</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher (Chinese Language)</p>
+<p>LT / Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>du_jia@schools.gov.sg</p>
@@ -370,7 +370,7 @@ variant: tiptap
 <p>Ms Jacqueline Lim Xin Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / LIT</p>
+<p>SH / Literature</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>jacqueline_lim_xin_yi@schools.gov.sg</p>
@@ -396,6 +396,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tay_li_na@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nurulhuda Bte Mohammed Arslan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST / English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nurulhuda_mohammed_arslan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -473,17 +484,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lau_siew_min_rachel@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nurulhuda Bte Mohammed Arslan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>nurulhuda_mohammed_arslan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -611,21 +611,10 @@ variant: tiptap
 <p>Miss Law Huizhen Sharon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher (History)</p>
+<p>LT / History</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>law_huizhen_sharon@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Chen Yiqi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>co-AYH (Sec 2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chen_yiqi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -637,6 +626,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>cher_lian_mui_claire@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Li Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_li_lin_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -720,7 +720,7 @@ variant: tiptap
 <p>Mdm Lee Keat Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (Mathematics)</p>
+<p>ST / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_keat_peng@schools.gov.sg</p>
@@ -779,6 +779,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>liesa_wong@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Hui Min Vivian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(to be updated)</p>
 </td>
 </tr>
 <tr>
@@ -873,32 +884,10 @@ variant: tiptap
 <p>Miss Sim Ung Mei Catherine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (Physical Education)</p>
+<p>ST / PE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sim_ung_mei_catherine@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Kwan Hoi Soon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>kwan_hoi_soon_b@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Lee Le Xin, Francoise</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_le_xin_francoise@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -982,10 +971,21 @@ variant: tiptap
 <p>Ms Sandra Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
+<p>SSD</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ong_pei_sze@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Chee Yit Ling Melanie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chee_yit_ling_melanie@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -1001,17 +1001,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Hwee Chin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Physics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_hwee_chin@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Wan Yew Boon</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1023,21 +1012,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Chee Yit Ling Melanie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 3)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chee_yit_ling_melanie@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Lee Ruo-Ning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (Chemistry)</p>
+<p>ST / Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_ruo-ning@schools.gov.sg</p>
@@ -1052,17 +1030,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>cai_jinhong@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chang Hao Hsi David</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chang_hao_hsi_david@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
