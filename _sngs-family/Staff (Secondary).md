@@ -400,6 +400,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Nurulhuda Bte Mohammed Arslan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST / English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nurulhuda_mohammed_arslan@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Elizabeth Mosbergen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -473,17 +484,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lau_siew_min_rachel@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nurulhuda Bte Mohammed Arslan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>nurulhuda_mohammed_arslan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -619,17 +619,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Chen Yiqi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>co-AYH (Sec 2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chen_yiqi@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Cher Lian Mui Claire</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -637,6 +626,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>cher_lian_mui_claire@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Li Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_li_lin_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -990,6 +990,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Miss Chee Yit Ling Melanie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chee_yit_ling_melanie@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Chia Yan Qi Audrey</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1019,17 +1030,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>wan_yew_boon@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Chee Yit Ling Melanie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 3)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chee_yit_ling_melanie@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
