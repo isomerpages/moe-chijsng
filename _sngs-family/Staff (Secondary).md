@@ -411,6 +411,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Cindy Beh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>cindy_beh_siew_peng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Elizabeth Mosbergen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -495,17 +506,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_chork_meng@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Cindy Beh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>cindy_beh_siew_peng@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>

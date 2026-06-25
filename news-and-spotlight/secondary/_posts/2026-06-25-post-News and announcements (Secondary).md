@@ -1,7 +1,7 @@
 ---
 title: News and announcements (Secondary)
 permalink: /news-and-spotlight/spotlight/news-sec/
-date: 2026-01-12
+date: 2026-06-25
 layout: post
 description: ""
 image: ""
@@ -28,6 +28,27 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Feedback? Email Us!</strong> 
 <br>Please email your feedback or enquiries to: chijsng_sec@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25 Jun 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Class Timetable 2026</u>
+</p>
+<p>Dear students, these are the class timetables for Semester 2 2026.</p>
+<p><strong>Odd</strong> week timetable: <a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_2_Odd__Sec_1__caa_260625.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>,
+<a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_2_Odd__Sec_2__caa_260625.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>, <a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_2_Odd__Sec_3__caa_260625.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>,
+<a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_2_Odd__Sec_4__caa_260625.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4</a>
+</p>
+<p><strong>Even </strong>week timetable: <a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_2_Even__Sec_1__caa_260625.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>,
+<a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_2_Even__Sec_2__caa_260625.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>, <a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_2_Even__Sec_3__caa_260625.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>,
+<a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_2_Even__Sec_4__caa_260625.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4</a>
+</p>
+<p></p>
+<p>Should there be any changes to the timetable, the affected classes and
+students would be informed by their form/subject teachers.</p>
 </td>
 </tr>
 <tr>
@@ -60,14 +81,9 @@ directly.</p>
 <p><u>Class Timetable 2026</u>
 </p>
 <p>Dear students, these are the class timetables for Semester 1 2026.</p>
-<p><strong>Odd</strong> week timetable: <a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_1_Odd__Sec_1__Final_caa_251222.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>,
-<a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_1_Odd__Sec_2__Final_caa_251223.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>, <a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_1_Odd__Sec_3__Final_caa_251229.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>,
-<a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_1_Odd__Sec_4__Final_caa_251222.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4</a>
-</p>
-<p><strong>Even </strong>week timetable: <a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_1_Even__Sec_1__Final_caa_251222.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>,
-<a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_1_Even__Sec_2__Final_caa_251218.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>, <a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_1_Even__Sec_3__Final_caa_251229.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>,
-<a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_1_Even__Sec_4__Final_caa_251218.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4</a>
-</p>
+<p><strong>Odd</strong> week timetable: Sec 1, Sec 2, Sec 3, Sec 4</p>
+<p><strong>Even </strong>week timetable: Sec 1, Sec 2, Sec 3, Sec 4</p>
+<p>(update 25 Jun 26 - links have been removed)</p>
 <p>Should there be any changes to the timetable, the affected classes and
 students would be informed by their form/subject teachers.</p>
 </td>
