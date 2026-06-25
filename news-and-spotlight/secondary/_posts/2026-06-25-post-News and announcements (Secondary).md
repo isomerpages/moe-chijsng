@@ -38,8 +38,14 @@ variant: tiptap
 <p><u>Class Timetable 2026</u>
 </p>
 <p>Dear students, these are the class timetables for Semester 2 2026.</p>
-<p><strong>Odd</strong> week timetable: Sec 1, Sec 2, Sec 3, Sec 4</p>
-<p><strong>Even </strong>week timetable: Sec 1, Sec 2, Sec 3, Sec 4</p>
+<p><strong>Odd</strong> week timetable: <a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_2_Odd__Sec_1__caa_260625.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>,
+<a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_2_Odd__Sec_2__caa_260625.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>, <a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_2_Odd__Sec_3__caa_260625.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>,
+<a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_2_Odd__Sec_4__caa_260625.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4</a>
+</p>
+<p><strong>Even </strong>week timetable: <a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_2_Even__Sec_1__caa_260625.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>,
+<a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_2_Even__Sec_2__caa_260625.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>, <a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_2_Even__Sec_3__caa_260625.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>,
+<a href="/files/PDF for announcements/Secondary/Timetable/2026_SEM_2_Even__Sec_4__caa_260625.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4</a>
+</p>
 <p></p>
 <p>Should there be any changes to the timetable, the affected classes and
 students would be informed by their form/subject teachers.</p>
