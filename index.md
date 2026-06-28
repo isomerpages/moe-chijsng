@@ -16,7 +16,7 @@ sections:
           description: ""
           url: https://www.chijsngsec.moe.edu.sg
   - infobar:
-      title: ECHA Nomination 2026 (Secondary)
+      title: Nomination for MOE ECHA 2026 (Secondary)
       subtitle: Edusave Character Award (ECHA)
       id: infobar
       description: ECHA recognises outstanding students who are exemplary in character
