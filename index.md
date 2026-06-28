@@ -20,7 +20,7 @@ sections:
       subtitle: Edusave Character Award (ECHA)
       id: infobar
       description: ECHA recognises outstanding students who are exemplary in character
-        and are role models who inspire others.
+        and are role models who inspire others. Nomination closes 10 Jul 3 pm.
       button: Link to details & nominations
       url: https://go.gov.sg/echasngs2026
   - resources:
