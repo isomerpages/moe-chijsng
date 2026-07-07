@@ -26,8 +26,11 @@ variant: tiptap
 <p>7 July 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2026 P6 Preliminary Exam Scopes</p>
-<p></p>
+<p><strong>2026 P6 Preliminary Exam Scopes</strong>
+</p>
+<p>Click the link to view P6 Preliminary Exam scope</p>
+<p><a href="/files/PDF for announcements/Primary/2026_P6_Preliminary_Exam_Scopes.pdf" rel="noopener nofollow" target="_blank">P6</a>
+</p>
 </td>
 </tr>
 <tr>
