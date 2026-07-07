@@ -23,6 +23,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>7 July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026 P6 Preliminary Exam Scopes</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>8 Apr 2026</p>
 </td>
 <td rowspan="1" colspan="1">
