@@ -70,7 +70,6 @@ variant: markdown
 | Mr Muhammad Azahar (SH ICT) | [muhammad\_azahar\_rosli@schools.gov.sg](mailto:muhammad_azahar_rosli@schools.gov.sg) |
 | Mr Daniel Chng | [chng\_chye\_thiam@schools.gov.sg](mailto:chng_chye_thiam@schools.gov.sg) |
 | Mrs Lee Pei Ting | [lee\_pei\_ting@schools.gov.sg](mailto:lee_pei_ting@schools.gov.sg) |
-| Mr Lui Yenn Kai | [lui\_yenn\_kai\_a@schools.gov.sg](mailto:lui_yenn_kai_a@schools.gov.sg) |
 | Mrs Ng Yee Ping | [peng\_yee\_ping@schools.gov.sg](mailto:peng_yee_ping@schools.gov.sg) |
 | Ms Pung Chuan Ting | [pung\_chuan\_ting@schools.gov.sg](mailto:pung_chuan_ting@schools.gov.sg) |
 | Mrs Queenie Leong  | [chua\_bor\_chwen\_queenie@schools.gov.sg](mailto:chua_bor_chwen_queenie@schools.gov.sg)  |
