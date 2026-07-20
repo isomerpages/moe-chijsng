@@ -75,6 +75,7 @@ variant: markdown
 | Mrs Queenie Leong  | [chua\_bor\_chwen\_queenie@schools.gov.sg](mailto:chua_bor_chwen_queenie@schools.gov.sg)  |
 | Ms Siti Nurzaifah (AED T&L) | [siti\_nurzaifah@schools.gov.sg](mailto:siti_nurzaifah@schools.gov.sg) |
 | Mdm Yap Yng Ling | [yap\_yng\_ling@schools.gov.sg](mailto:yap_yng_ling@schools.gov.sg) |
+| Mdm Teow Meng Choo Josephine | [teow\_meng\_choo@schools.gov.sg](mailto:teow_meng_choo@moe.edu.sg) |
 
 
 ##### **Chinese**
