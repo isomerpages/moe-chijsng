@@ -31,6 +31,7 @@ variant: markdown
 | Mrs Joy Yong | [thiang\_yen\_ping\_joy\_a@schools.gov.sg](mailto:Thiang_Yen_Ping_Joy_A@schools.gov.sg) |
 | Ms Lee Hwee Ing  | [lee\_hwee\_ing@schools.gov.sg](mailto:lee_hwee_ing@schools.gov.sg)  |
 | Mr Phoon Chee Weng | [phoon\_chee\_weng@schools.gov.sg](mailto:phoon_chee_weng@schools.gov.sg) |
+| Mdm Poongodi D/O Chinniah | [poongodi\_chinniah@schools.gov.sg](mailto:poongodi_chinniah@schools.gov.sg) |
 | Mdm Suelsa Zainudin | [suelsa\_zainudin@schools.gov.sg](mailto:suelsa_zainudin@schools.gov.sg) |
 | Mrs Suelynn Sing | [tan\_suelynn@schools.gov.sg](mailto:tan_suelynn@schools.gov.sg) |
 | Ms Susan Gan  | [gan\_woon\_ee\_susan@schools.gov.sg](mailto:gan_woon_ee_susan@schools.gov.sg)  |
