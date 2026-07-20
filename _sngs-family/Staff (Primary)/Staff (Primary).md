@@ -18,8 +18,7 @@ variant: markdown
 | Mdm Noelle Lee (AYH MP) | [lee\_meiting\_noelle\_francesca@schools.gov.sg](mailto:lee_meiting_noelle_francesca@schools.gov.sg) |
 | Mrs Balinda Sudin | [balinda\_salleh@schools.gov.sg](mailto:balinda_salleh@schools.gov.sg) |
 | Ms Catherine Boswell  | [boswell\_catherine@schools.gov.sg](mailto:boswell_catherine@schools.gov.sg) 
-| Ms Chantel Cheong  | [cheong\_wen\_yee\_chantel@schools.gov.sg](mailto:cheong_wen_yee_chantel@schools.gov.sg)  |
-| Mrs Chay Jiawei | [guo\_jiawei@schools.gov.sg](mailto:guo_jiawei@schools.gov.sg) |
+| Ms Chantel Cheong  | [cheong\_wen\_yee\_chantel@schools.gov.sg](mailto:cheong_wen_yee_chantel@schools.gov.sg)  ||
 | Mdm Chay Kit See | [chay\_kit_see@schools.gov.sg](mailto:chay_kit_see@schools.gov.sg) |
 | Mrs Chew Lee Ching | [tan\_lee\_ching@schools.gov.sg](mailto:tan_lee_ching@schools.gov.sg) |
 | Mdm Chia Yi Ling  | [chia\_yi\_ling@schools.gov.sg](mailto:chia_yi_ling@schools.gov.sg)  |
@@ -35,7 +34,7 @@ variant: markdown
 | Mdm Suelsa Zainudin | [suelsa\_zainudin@schools.gov.sg](mailto:suelsa_zainudin@schools.gov.sg) |
 | Mrs Suelynn Sing | [tan\_suelynn@schools.gov.sg](mailto:tan_suelynn@schools.gov.sg) |
 | Ms Susan Gan  | [gan\_woon\_ee\_susan@schools.gov.sg](mailto:gan_woon_ee_susan@schools.gov.sg)  |
-
+| Ms Tan Peck San Linda  | [tan\_peck\_san\_linda@schools.gov.sg](mailto:tan_peck_san_linda@schools.gov.sg)  |
 
 
 ##### **Mathematics**
