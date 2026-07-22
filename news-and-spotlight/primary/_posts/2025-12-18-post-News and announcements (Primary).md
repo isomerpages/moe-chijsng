@@ -35,34 +35,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8 Apr 2026</p>
+<p>20 July 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2026 Weighted Assessment (WA) Scopes (Term 2)</strong>
+<p><strong>2026 Weighted Assessment (WA) Scopes (Term 3)</strong>
 </p>
 <p>Click the link to view assessment scope</p>
-<p><a href="/files/PDF for announcements/Primary/2026_P3_Weighted_Assessment_Scopes__Term_2_.pdf" rel="noopener nofollow" target="_blank">P3</a>
+<p><a href="/files/PDF for announcements/Primary/2026_P3_Weighted_Assessment_Scopes__Term_3_.pdf" rel="noopener nofollow" target="_blank">P3</a>
 </p>
-<p><a href="/files/PDF for announcements/Primary/2026_P4_Weighted_Assessment_Scopes__Term_2_.pdf" rel="noopener nofollow" target="_blank">P4</a>
+<p><a href="/files/PDF for announcements/Primary/2026_P4_Weighted_Assessment_Scopes__Term_3_.pdf" rel="noopener nofollow" target="_blank">P4</a>
 </p>
-<p><a href="/files/PDF for announcements/Primary/2026_P5_Weighted_Assessment_Scopes__Term_2_.pdf" rel="noopener nofollow" target="_blank">P5</a>
+<p><a href="/files/PDF for announcements/Primary/2026_P5_Weighted_Assessment_Scopes__Term_3_.pdf" rel="noopener nofollow" target="_blank">P5</a>
 </p>
-<p><a href="/files/PDF for announcements/Primary/2026_P6_Weighted_Assessment_Scopes__Term_2_.pdf" rel="noopener nofollow" target="_blank">P6</a>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>30 Jan 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2026 P6 Weighted Assessment (WA) Scopes (Term 1)</strong>
-</p>
-<p>Click the link to view assessment scope</p>
-<p><a href="/files/PDF for announcements/Primary/2026_P6_Weighted_Assessment__WA__Scopes__Term_1_.pdf" rel="noopener nofollow" target="_blank">P6</a>
-</p>
-<p></p>
 </td>
 </tr>
 <tr>

@@ -18,8 +18,7 @@ variant: markdown
 | Mdm Noelle Lee (AYH MP) | [lee\_meiting\_noelle\_francesca@schools.gov.sg](mailto:lee_meiting_noelle_francesca@schools.gov.sg) |
 | Mrs Balinda Sudin | [balinda\_salleh@schools.gov.sg](mailto:balinda_salleh@schools.gov.sg) |
 | Ms Catherine Boswell  | [boswell\_catherine@schools.gov.sg](mailto:boswell_catherine@schools.gov.sg) 
-| Ms Chantel Cheong  | [cheong\_wen\_yee\_chantel@schools.gov.sg](mailto:cheong_wen_yee_chantel@schools.gov.sg)  |
-| Mrs Chay Jiawei | [guo\_jiawei@schools.gov.sg](mailto:guo_jiawei@schools.gov.sg) |
+| Ms Chantel Cheong  | [cheong\_wen\_yee\_chantel@schools.gov.sg](mailto:cheong_wen_yee_chantel@schools.gov.sg)  ||
 | Mdm Chay Kit See | [chay\_kit_see@schools.gov.sg](mailto:chay_kit_see@schools.gov.sg) |
 | Mrs Chew Lee Ching | [tan\_lee\_ching@schools.gov.sg](mailto:tan_lee_ching@schools.gov.sg) |
 | Mdm Chia Yi Ling  | [chia\_yi\_ling@schools.gov.sg](mailto:chia_yi_ling@schools.gov.sg)  |
@@ -31,10 +30,11 @@ variant: markdown
 | Mrs Joy Yong | [thiang\_yen\_ping\_joy\_a@schools.gov.sg](mailto:Thiang_Yen_Ping_Joy_A@schools.gov.sg) |
 | Ms Lee Hwee Ing  | [lee\_hwee\_ing@schools.gov.sg](mailto:lee_hwee_ing@schools.gov.sg)  |
 | Mr Phoon Chee Weng | [phoon\_chee\_weng@schools.gov.sg](mailto:phoon_chee_weng@schools.gov.sg) |
+| Mdm Poongodi D/O Chinniah | [poongodi\_chinniah@schools.gov.sg](mailto:poongodi_chinniah@schools.gov.sg) |
 | Mdm Suelsa Zainudin | [suelsa\_zainudin@schools.gov.sg](mailto:suelsa_zainudin@schools.gov.sg) |
 | Mrs Suelynn Sing | [tan\_suelynn@schools.gov.sg](mailto:tan_suelynn@schools.gov.sg) |
 | Ms Susan Gan  | [gan\_woon\_ee\_susan@schools.gov.sg](mailto:gan_woon_ee_susan@schools.gov.sg)  |
-
+| Ms Tan Peck San Linda  | [tan\_peck\_san\_linda@schools.gov.sg](mailto:tan_peck_san_linda@schools.gov.sg)  |
 
 
 ##### **Mathematics**
@@ -47,7 +47,6 @@ variant: markdown
 | Mdm Chin Lan Shiang (SSD) | [chin\_lan\_shiang@schools.gov.sg](mailto:chin_lan_shiang@schools.gov.sg) |
 | Ms Juay Chiew Joo (AYH UP)  | [juay\_chiew\_joo@schools.gov.sg](mailto:juay_chiew_joo@schools.gov.sg) |
 | Mrs Angie Choong | [chong\_sou\_foong@schools.gov.sg](mailto:chong_sou_foong@schools.gov.sg) |
-| Mrs Carolyn Tan | [wu\_ruixian\_carolyn@schools.gov.sg](mailto:wu_ruixian_carolyn@schools.gov.sg) |
 | Mrs Cheryl Tay  | [kang\_liwen\_cheryl\_ann@schools.gov.sg](mailto:kang_liwen_cheryl_ann@schools.gov.sg) |
 | Mrs Christina Chan  | [tan\_liang\_hong\_christina@schools.gov.sg](mailto:tan_liang_hong_christina@schools.gov.sg) |
 | Mdm Denise Jung  | [jung\_gee\_ting@schools.gov.sg](mailto:jung_gee_ting@schools.gov.sg) |
@@ -71,12 +70,12 @@ variant: markdown
 | Mr Muhammad Azahar (SH ICT) | [muhammad\_azahar\_rosli@schools.gov.sg](mailto:muhammad_azahar_rosli@schools.gov.sg) |
 | Mr Daniel Chng | [chng\_chye\_thiam@schools.gov.sg](mailto:chng_chye_thiam@schools.gov.sg) |
 | Mrs Lee Pei Ting | [lee\_pei\_ting@schools.gov.sg](mailto:lee_pei_ting@schools.gov.sg) |
-| Mr Lui Yenn Kai | [lui\_yenn\_kai\_a@schools.gov.sg](mailto:lui_yenn_kai_a@schools.gov.sg) |
 | Mrs Ng Yee Ping | [peng\_yee\_ping@schools.gov.sg](mailto:peng_yee_ping@schools.gov.sg) |
 | Ms Pung Chuan Ting | [pung\_chuan\_ting@schools.gov.sg](mailto:pung_chuan_ting@schools.gov.sg) |
 | Mrs Queenie Leong  | [chua\_bor\_chwen\_queenie@schools.gov.sg](mailto:chua_bor_chwen_queenie@schools.gov.sg)  |
 | Ms Siti Nurzaifah (AED T&L) | [siti\_nurzaifah@schools.gov.sg](mailto:siti_nurzaifah@schools.gov.sg) |
 | Mdm Yap Yng Ling | [yap\_yng\_ling@schools.gov.sg](mailto:yap_yng_ling@schools.gov.sg) |
+| Mdm Teow Meng Choo Josephine | [teow\_meng\_choo@schools.gov.sg](mailto:teow_meng_choo@moe.edu.sg) |
 
 
 ##### **Chinese**
